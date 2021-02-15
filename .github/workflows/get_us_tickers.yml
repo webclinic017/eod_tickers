@@ -30,6 +30,7 @@ jobs:
 
       - name: Run Script to get us tickers
         run: |
+          pip install -r requirements.txt
           python eod.py
           python clean.py
 
