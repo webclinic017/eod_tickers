@@ -1,0 +1,66 @@
+name: Scan Yahoo Messages
+
+on:
+  push:
+    branches:
+      - 'main'
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: '5 5 1 * 7'
+
+# reddit access for golang tests
+# since I am an single dev
+# what I care about is regression
+# making sure my code still works on the reddit api
+
+env: 
+  EOD_HISTORICAL_API_KEY: ${{ secrets.EOD_HISTORICAL_API_KEY }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Check Messages
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.6.7' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+
+      - name: Run Script to get us tickers
+        run: |
+          python eod.py
+          python clean.py
+
+       - uses: actions/upload-artifact@v2
+         with:
+          name: usd_tickers
+          path: data/all_usd.csv
+
+      - name: Commit files
+        run: |
+          git add data/*.csv
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Add changes" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+
+      - uses: sarisia/actions-status-discord@v1
+        if: failure()
+        with:
+          webhook: ${{ secrets.DISCORD_CODE_STATUS_WEBHOOK }}
+          status: ${{ job.status }}
+          title: ${{github.repository}}
+          description: "Failed to get eod tickers"
+          nofail: false
+          nocontext: false
+          noprefix: false
+          color: 0xff0000
+          username: Eod Tickers
