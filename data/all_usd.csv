@@ -1,61 +1,4 @@
 Code,Name,Country,Exchange,Currency,Type
-000333,Midea Group Co Ltd Class A,USA,,USD,
-000651,Gree Electric Appliances Inc of Zhuhai,USA,,USD,
-000858,Wuliangye Yibin Co Ltd,USA,,USD,
-00700,Tencent Holdings Ltd,USA,,USD,
-1023,CIMB Group Holdings Bhd,USA,,USD,
-1155,Malayan Banking Bhd,USA,,USD,
-300750,Contemporary Amperex Technology Co Ltd Class A,USA,,USD,
-3107,Daiwabo Holdings Co Ltd,USA,,USD,
-3249,Industrial & Infrastructure Fund Investment Corp,USA,,USD,
-4063,Shin-Etsu Chemical Co Ltd,USA,,USD,
-4403,NOF Corp,USA,,USD,
-4452,Kao Corp,USA,,USD,
-4519,Chugai Pharmaceutical Co Ltd,USA,,USD,
-4921,FANCL Corp,USA,,USD,
-5168,Hartalega Holdings Bhd,USA,,USD,
-5214,Nippon Electric Glass Co Ltd,USA,,USD,
-5332,TOTO Ltd,USA,,USD,
-5347,Tenaga Nasional Bhd,USA,,USD,
-600030,CITIC Securities Co Ltd,USA,,USD,
-600036,China Merchants Bank Co Ltd,USA,,USD,
-600276,Jiangsu Hengrui Medicine Co Ltd,USA,,USD,
-600519,Kweichow Moutai Co Ltd,USA,,USD,
-600887,Inner Mongolia Yili Industrial Group Co Ltd,USA,,USD,
-601012,LONGi Green Energy Technology Co Ltd Class A,USA,,USD,
-601166,Industrial Bank Co Ltd,USA,,USD,
-601318,Ping An Insurance (Group) Co. of China Ltd,USA,,USD,
-601398,Industrial And Commercial Bank Of China Ltd,USA,,USD,
-601888,China Tourism Group Duty Free Corp Ltd Class A,USA,,USD,
-6367,Daikin Industries Ltd,USA,,USD,
-6415,Silergy Corp,USA,,USD,
-6501,Hitachi Ltd,USA,,USD,
-6857,Advantest Corp,USA,,USD,
-6861,Keyence Corp,USA,,USD,
-6954,Fanuc Corp,USA,,USD,
-6976,Taiyo Yuden Co Ltd,USA,,USD,
-6981,Murata Manufacturing Co Ltd,USA,,USD,
-7012,Kawasaki Heavy Industries Ltd,USA,,USD,
-7167,Mebuki Financial Group Inc,USA,,USD,
-7203,Toyota Motor Corp,USA,,USD,
-7267,Honda Motor Co Ltd,USA,,USD,
-7277,Dialog Group Bhd,USA,,USD,
-7974,Nintendo Co Ltd,USA,,USD,
-7988,Nifco Inc,USA,,USD,
-8058,Mitsubishi Corp,USA,,USD,
-8306,Mitsubishi UFJ Financial Group Inc,USA,,USD,
-8570,AEON Financial Service Co Ltd,USA,,USD,
-8586,Hitachi Capital Corp,USA,,USD,
-8801,Mitsui Fudosan Co Ltd,USA,,USD,
-8802,Mitsubishi Estate Co Ltd,USA,,USD,
-8951,Nippon Building Fund Inc,USA,,USD,
-8952,Japan Real Estate Investment Corp,USA,,USD,
-9104,Mitsui O.S.K. Lines Ltd,USA,,USD,
-9375,Kintetsu World Express Inc,USA,,USD,
-9432,Nippon Telegraph & Telephone Corp,USA,,USD,
-9433,KDDI Corp,USA,,USD,
-9509,Hokkaido Electric Power Co Inc,USA,,USD,
-9984,SoftBank Group Corp,USA,,USD,
 A,"Agilent Technologies, Inc",USA,NYSE,USD,Common Stock
 AA,Alcoa Corporation,USA,NYSE,USD,Common Stock
 AAA,AAF First Priority CLO Bond ETF,USA,NYSE ARCA,USD,ETF
@@ -124,7 +67,7 @@ AAETX,AMERICAN FUNDS 2030 TARGET DATE RETIREMENT FUND CLASS A,USA,NMFQS,USD,FUND
 AAFTX,AMERICAN FUNDS 2035 TARGET DATE RETIREMENT FUND CLASS A,USA,NMFQS,USD,FUND
 AAFXX,AAFXX,USA,NMFQS,USD,Mutual Fund
 AAGC,All American Gold Corp,USA,PINK,USD,Common Stock
-AAGEF,AAG Energy Holdings Limited,USA,PINK,USD,Common Stock
+AAGEF,AAG Energy Holdings Limited,USA,OTCMKTS,USD,Common Stock
 AAGFF,Aftermath Silver Ltd,USA,OTCQB,USD,Common Stock
 AAGH,America Great Health,USA,PINK,USD,Common Stock
 AAGIY,AIA Group Limited,USA,PINK,USD,Common Stock
@@ -292,7 +235,7 @@ ABIYX,AB INTERNATIONAL VALUE FUND ADVISOR CLASS,USA,NMFQS,USD,FUND
 ABIZX,AMG MANAGERS FAIRPOINTE MID CAP FUND CLASS Z SHARES,USA,NMFQS,USD,FUND
 ABKB,"American Basketball Association, Inc",USA,PINK,USD,Common Stock
 ABKEX,AB EMERGING MARKETS MULTI-ASSET PORTFOLIO CLASS K,USA,NMFQS,USD,FUND
-ABLE,"Able Energy, Inc",USA,OTCCB,USD,Common Stock
+ABLE,"Able Energy, Inc",USA,OTCCE,USD,Common Stock
 ABLGF,Alten S.A,USA,OTCGREY,USD,Common Stock
 ABLOX,ALGER BALANCED PORTFOLIO ALGER BALANCED PORTFOLIO CLASS I-2,USA,NMFQS,USD,FUND
 ABLSX,AMERICAN BEACON BALANCED FUND ADVISOR CLASS,USA,NMFQS,USD,FUND
@@ -413,7 +356,7 @@ ACACU,Acies Acquisition Corp,USA,NASDAQ,USD,Common Stock
 ACACW,Acies Acquisition Corp,USA,NASDAQ,USD,Common Stock
 ACACX,AB CALIFORNIA PORTFOLIO CLASS C,USA,NMFQS,USD,FUND
 ACAD,ACADIA Pharmaceuticals Inc,USA,NASDAQ,USD,Common Stock
-ACAHU,Atlantic Coastal Acquisition Corp.,USA,,USD,Common Stock
+ACAHU,Atlantic Coastal Acquisition Corp,USA,NASDAQ,USD,Common Stock
 ACAI,Safeplus International Holdings Limited,USA,PINK,USD,Common Stock
 ACAN,"AmeriCann, Inc",USA,OTCQB,USD,Common Stock
 ACARX,ALGER CAPITAL APPRECIATION INSTITUTIONAL FUND ALGER CAPITAL APPRECIATION INSTITUTIONAL FUND CLASS R,USA,NMFQS,USD,FUND
@@ -636,7 +579,7 @@ ACTNX,INVESCO HIGH YIELD MUNICIPAL FUND CLASS R5,USA,NMFQS,USD,FUND
 ACTSX,Invesco High Yield Municipal Fund Class,USA,NMFQS,USD,FUND
 ACTV,LeaderShares Activist Leaders ETF,USA,NYSE ARCA,USD,ETF
 ACTVX,ZERO COUPON 2025 FUND ADVISOR CLASS,USA,NMFQS,USD,FUND
-ACTX,"Advanced Container Technologies, Inc",USA,PINK,USD,ETF
+ACTX,"Advanced Container Technologies, Inc",USA,NASDAQ,USD,ETF
 ACU,Acme United Corporation,USA,NYSE MKT,USD,Common Stock
 ACUIF,AcuityAds Holdings Inc,USA,OTCQX,USD,Common Stock
 ACUIX,COLUMBIA DIVIDEND OPPORTUNITY FUND COLUMBIA DIVIDEND OPPORTUNITY FUND CLASS C,USA,NMFQS,USD,FUND
@@ -707,6 +650,7 @@ ADERY,"Aida Engineering, Ltd",USA,PINK,USD,Common Stock
 ADES,"Advanced Emissions Solutions, Inc",USA,NASDAQ,USD,Common Stock
 ADEVF,ADEVF,USA,PINK,USD,Common Stock
 ADEX-U,ADEX-U,USA,NYSE,USD,Common Stock
+ADEX-WS,ADEX-WS,USA,NYSE,USD,Common Stock
 ADFAX,DIVERSIFIED BOND FUND A CLASS,USA,NMFQS,USD,FUND
 ADFI,Anfield Dynamic Fixed Income ETF,USA,BATS,USD,ETF
 ADFIX,DIVERSIFIED BOND FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
@@ -922,13 +866,14 @@ AERG,"Applied Energetics, Inc",USA,OTCQB,USD,Common Stock
 AERI,"Aerie Pharmaceuticals, Inc",USA,NASDAQ,USD,Common Stock
 AERIX,ALLIANZGI EMERGING MARKETS CONSUMER FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 AERN,"AER Energy Resources, Inc",USA,OTCCE,USD,Common Stock
-AERO,"Aerogrow International, Inc",USA,OTCQB,USD,Common Stock
+AERO,"Aerogrow International, Inc",USA,NASDAQ,USD,Common Stock
 AERS,"Aerius International, Inc",USA,PINK,USD,Common Stock
 AES,The AES Corporation,USA,NYSE,USD,Common Stock
 AESE,Allied Esports Entertainment Inc,USA,NASDAQ,USD,Common Stock
 AESEW,Allied Esports Entertainment Inc,USA,PINK,USD,Common Stock
 AESO,"Atlantic Energy Solutions, Inc",USA,PINK,USD,Common Stock
 AESR,Anfield U.S. Equity Sector Rotation ETF,USA,BATS,USD,ETF
+AESUU,The AES Corporation,USA,OTCMKTS,USD,Common Stock
 AETLF,Aeris Environmental Ltd,USA,OTCGREY,USD,Common Stock
 AETUF,ARC Resources Ltd,USA,PINK,USD,Common Stock
 AEUDX,EQUITY INCOME FUND R6 CLASS,USA,NMFQS,USD,FUND
@@ -1006,7 +951,7 @@ AFGYF,AFC Energy plc,USA,PINK,USD,Common Stock
 AFGZX,ALGER GLOBAL GROWTH FUND ALGER GLOBAL GROWTH FUND CLASS Z,USA,NMFQS,USD,FUND
 AFHBL,"Atlas Financial Holdings, Inc",USA,PINK,USD,Common Stock
 AFHFF,AFH Financial Group Plc,USA,PINK,USD,Common Stock
-AFHIF,"Atlas Financial Holdings, Inc",USA,PINK,USD,Common Stock
+AFHIF,"Atlas Financial Holdings, Inc",USA,NASDAQ,USD,Common Stock
 AFI,"Armstrong Flooring, Inc",USA,NYSE,USD,Common Stock
 AFIB,"Acutus Medical, Inc",USA,NASDAQ,USD,Common Stock
 AFICX,AMERICAN FUNDS FUNDAMENTAL INVESTORS CLASS C,USA,NMFQS,USD,FUND
@@ -1300,7 +1245,7 @@ AHAD,"Alphacom Holdings, Inc",USA,OTCCE,USD,Common Stock
 AHAG,"Alpha Technologies Group, Inc",USA,PINK,USD,Common Stock
 AHAHF,Design Milk Co Limited,USA,PINK,USD,Common Stock
 AHC,A.H. Belo Corporation,USA,NYSE,USD,Common Stock
-AHCCF,Apollo Healthcare Corp,USA,PINK,USD,Common Stock
+AHCCF,Apollo Healthcare Corp,USA,OTCQX,USD,Common Stock
 AHCHF,Anhui Conch Cement Company Limited,USA,PINK,USD,Common Stock
 AHCHY,Anhui Conch Cement Company Limited,USA,PINK,USD,Common Stock
 AHCO,AdaptHealth Corp,USA,NASDAQ,USD,Common Stock
@@ -1341,7 +1286,6 @@ AHL-PD,Aspen Insurance Holdings Limited,USA,NYSE,USD,Preferred Share
 AHL-PE,Aspen Insurance Holdings Limited,USA,NYSE,USD,Preferred Share
 AHLAX,AMERICAN BEACON AHL MANAGED FUTURES STRATEGY FUND A CLASS,USA,NMFQS,USD,FUND
 AHLCX,AMERICAN BEACON AHL MANAGED FUTURES STRATEGY FUND C CLASS,USA,NMFQS,USD,FUND
-AHLD,Atd New Holdings Inc,USA,OTCGREY,USD,Common Stock
 AHLIX,AMERICAN BEACON AHL MANAGED FUTURES STRATEGY FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 AHLPX,AMERICAN BEACON AHL MANAGED FUTURES STRATEGY FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 AHLYX,AMERICAN BEACON AHL MANAGED FUTURES STRATEGY FUND Y CLASS,USA,NMFQS,USD,FUND
@@ -1722,7 +1666,6 @@ ALLVF,Altice Europe N.V,USA,PINK,USD,Common Stock
 ALLWF,Allied Minds plc,USA,PINK,USD,Common Stock
 ALLXF,Aris Gold Corporation,USA,OTCQX,USD,Common Stock
 ALLY,Ally Financial Inc,USA,NYSE,USD,Common Stock
-ALLY-P-A,GMAC Capital Trust I Fixed Rate Floating Rate Trust Preferred Securities Series 2,USA,NYSE,USD,Preferred Share
 ALLY-PA,GMAC Capital Trust I GTD TR PFD-2,USA,NYSE,USD,Preferred Share
 ALMAX,ALGER SMIDCAP FOCUS FUND ALGER SMIDCAP FOCUS FUND CLASS A,USA,NMFQS,USD,FUND
 ALMC,Alimco Financial Corporation,USA,PINK,USD,Common Stock
@@ -1755,6 +1698,7 @@ ALOPX,ALLIANZGI INTERNATIONAL SMALL-CAP FUND CLASS P,USA,NMFQS,USD,FUND
 ALORX,ALLIANZGI INTERNATIONAL SMALL-CAP FUND CLASS R,USA,NMFQS,USD,FUND
 ALORY,Alior Bank S.A,USA,PINK,USD,Common Stock
 ALOT,"AstroNova, Inc",USA,NASDAQ,USD,Common Stock
+ALOYX,ALOYX,USA,NMFQS,USD,Mutual Fund
 ALP-P-Q,Alabama Power Company 5.00% Class A Preferred Stock Cumulative Par Value $1 Per Share (Stated Capital $25 Per Share),USA,NYSE,USD,Preferred Share
 ALP-PQ,Alabama Power Company,USA,NYSE,USD,Preferred Share
 ALPAX,LARGE COMPANY VALUE FUND A CLASS,USA,NMFQS,USD,FUND
@@ -1773,6 +1717,7 @@ ALRM,"Alarm.com Holdings, Inc",USA,NASDAQ,USD,Common Stock
 ALRN,"Aileron Therapeutics, Inc",USA,NASDAQ,USD,Common Stock
 ALRS,Alerus Financial Corporation,USA,NASDAQ,USD,Common Stock
 ALRT,ALR Technologies Inc,USA,OTCQB,USD,Common Stock
+ALRY,"Allenergy, Inc",USA,OTCCE,USD,Common Stock
 ALSAX,ALGER SMALLCAP GROWTH FUND ALGER SMALLCAP GROWTH FUND CLASS A,USA,NMFQS,USD,FUND
 ALSCX,ALGER SMALLCAP GROWTH FUND ALGER SMALLCAP GROWTH FUND CLASS B,USA,NMFQS,USD,FUND
 ALSE,"Alseres Pharmaceuticals, Inc",USA,PINK,USD,Common Stock
@@ -1849,7 +1794,7 @@ AMADF,"Amadeus IT Group, S.A",USA,PINK,USD,Common Stock
 AMADX,INCOME & GROWTH FUND A CLASS,USA,NMFQS,USD,FUND
 AMADY,"Amadeus IT Group, S.A",USA,PINK,USD,Common Stock
 AMAGX,AMANA GROWTH FUND AMANA GROWTH FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
-AMAL,Amalgamated Bank,USA,NASDAQ,USD,Common Stock
+AMAL,Amalgamated Financial Corp,USA,NASDAQ,USD,Common Stock
 AMANF,Amano Corporation,USA,OTCGREY,USD,Common Stock
 AMANX,AMANA INCOME FUND AMANA INCOME FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
 AMAPX,AMANA PARTICIPATION FUND AMANA PARTICIPATION FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
@@ -1864,6 +1809,7 @@ AMBD,American Mobile Dental Corp,USA,OTCCE,USD,Common Stock
 AMBEA,Ambea AB,USA,,USD,Common Stock
 AMBFF,Ambu A/S,USA,PINK,USD,Common Stock
 AMBFX,AMERICAN BALANCED FUND CLASS F-2,USA,NMFQS,USD,FUND
+AMBG,AMBG Inc,USA,PINK,USD,Common Stock
 AMBK,American Bank Incorporated,USA,PINK,USD,Common Stock
 AMBKP,American Capital Trust I PFD TR SECS 6%,USA,PINK,USD,Common Stock
 AMBO,Ambow Education Holding Ltd,USA,NYSE MKT,USD,Common Stock
@@ -2002,6 +1948,7 @@ AMPFX,AMCAP FUND CLASS F-1,USA,NMFQS,USD,FUND
 AMPG,"AmpliTech Group, Inc",USA,NASDAQ,USD,Common Stock
 AMPGW,"AmpliTech Group, Inc",USA,NASDAQ,USD,Common Stock
 AMPH,"Amphastar Pharmaceuticals, Inc",USA,NASDAQ,USD,Common Stock
+AMPI-U,AMPI-U,USA,NYSE,USD,Common Stock
 AMPY,Amplify Energy Corp,USA,NYSE,USD,Common Stock
 AMPYW,Amplify Energy Corp,USA,PINK,USD,Common Stock
 AMR,"Alpha Metallurgical Resources, Inc",USA,NYSE,USD,Common Stock
@@ -2071,7 +2018,7 @@ AMXEF,Amex Exploration Inc,USA,OTCQX,USD,Common Stock
 AMXVF,"América Móvil, S.A.B. de C.V",USA,PINK,USD,Common Stock
 AMXX,Maxx Sports TV Inc,USA,PINK,USD,Common Stock
 AMYT,Amryt Pharma plc,USA,NASDAQ,USD,Common Stock
-AMYZF,American Manganese Inc,USA,PINK,USD,Common Stock
+AMYZF,American Manganese Inc,USA,OTCQB,USD,Common Stock
 AMZA,InfraCap MLP ETF,USA,NYSE ARCA,USD,ETF
 AMZN,"Amazon.com, Inc",USA,NASDAQ,USD,Common Stock
 AN,"AutoNation, Inc",USA,NYSE,USD,Common Stock
@@ -2229,6 +2176,7 @@ ANZCX,ALLIANZGI CONVERTIBLE FUND CLASS C,USA,NMFQS,USD,FUND
 ANZFF,Air New Zealand Limited,USA,PINK,USD,Common Stock
 ANZLY,Air New Zealand Limited,USA,PINK,USD,Common Stock
 ANZRX,ALLIANZGI CONVERTIBLE FUND CLASS R,USA,NMFQS,USD,FUND
+ANZUU,Anzu Special Acquisition Corp I,USA,NASDAQ,USD,Common Stock
 AOA,iShares Core Aggressive Allocation ETF,USA,NYSE ARCA,USD,ETF
 AOBI,"American Oriental Bioengineering, Inc",USA,PINK,USD,Common Stock
 AOBLX,PIONEER CLASSIC BALANCED FUND PIONEER CLASSIC BALANCED FUND: CLASS A,USA,NMFQS,USD,FUND
@@ -2632,7 +2580,7 @@ ARGTF,Artemis Gold Inc,USA,PINK,USD,Common Stock
 ARGVX,ONE CHOICE 2060 PORTFOLIO INVESTOR CLASS,USA,NMFQS,USD,FUND
 ARGW,Argus Worldwide Corp,USA,OTCCE,USD,Common Stock
 ARGX,argenx SE,USA,NASDAQ,USD,Common Stock
-ARGYF,Avanti Energy Inc,USA,OTCGREY,USD,Common Stock
+ARGYF,Avanti Energy Inc,USA,PINK,USD,Common Stock
 ARGYX,INVESCO GLOBAL REAL ESTATE FUND CLASS Y,USA,NMFQS,USD,FUND
 ARHCF,Alfresa Holdings Corporation,USA,OTCGREY,USD,Common Stock
 ARHEX,ARHEX,USA,NMFQS,USD,Mutual Fund
@@ -2717,6 +2665,7 @@ ARRPY,Aeroports de Paris SA,USA,PINK,USD,Common Stock
 ARRRF,Ardea Resources Limited,USA,PINK,USD,Common Stock
 ARRRX,"AB GLOBAL REAL ESTATE INVESTMENT FUND, INC. CLASS R",USA,NMFQS,USD,FUND
 ARRT,"Artisan Consumer Goods, Inc",USA,PINK,USD,Common Stock
+ARRWU,Arrowroot Acquisition Corp,USA,NASDAQ,USD,Common Stock
 ARRXF,Archer Materials Limited,USA,PINK,USD,Common Stock
 ARRY,"Array Technologies, Inc",USA,NASDAQ,USD,Common Stock
 ARRZX,AMG RIVER ROAD FOCUSED ABSOLUTE VALUE FUND CLASS Z SHARES,USA,NMFQS,USD,FUND
@@ -2819,6 +2768,7 @@ ASAAF,AT & S Austria Technologie & Systemtechnik Aktiengesellschaft,USA,PINK,USD
 ASACX,ALLIANZGI GLOBAL DYNAMIC ALLOCATION FUND CLASS C,USA,NMFQS,USD,FUND
 ASADX,SHORT DURATION STRATEGIC INCOME FUND A CLASS,USA,NMFQS,USD,FUND
 ASAGF,Australian Agricultural Company Limited,USA,PINK,USD,Common Stock
+ASAI-W,ASAI-W,USA,NYSE,USD,Common Stock
 ASAIF,Artificial Solutions International AB (publ),USA,PINK,USD,Common Stock
 ASAM,ASAM,USA,PINK,USD,Common Stock
 ASAMX,STRATEGIC ALLOCATION: MODERATE FUND I CLASS,USA,NMFQS,USD,FUND
@@ -2875,7 +2825,7 @@ ASDND,Astro Aerospace Ltd,USA,OTCQB,USD,Common Stock
 ASDRF,Ascendant Resources Inc,USA,PINK,USD,Common Stock
 ASDRX,SHORT DURATION STRATEGIC INCOME FUND R CLASS,USA,NMFQS,USD,FUND
 ASDVX,SHORT DURATION STRATEGIC INCOME FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
-ASDZF,Arctic Star Exploration Corp,USA,PINK,USD,Common Stock
+ASDZF,Arctic Star Exploration Corp,USA,OTCQB,USD,Common Stock
 ASEA,Global X FTSE Southeast Asia ETF,USA,NYSE ARCA,USD,ETF
 ASEFX,NUVEEN SMALL CAP SELECT FUND CLASS R6,USA,NMFQS,USD,FUND
 ASEIX,NUVEEN SMALL CAP SELECT FUND CLASS R3,USA,NMFQS,USD,FUND
@@ -3043,6 +2993,7 @@ ASVRX,SMALL CAP VALUE FUND R CLASS,USA,NMFQS,USD,FUND
 ASVYX,SMALL CAP VALUE FUND Y CLASS,USA,NMFQS,USD,FUND
 ASWRF,Gungnir Resources Inc,USA,PINK,USD,Common Stock
 ASX,"ASE Technology Holding Co., Ltd",USA,NYSE,USD,Common Stock
+ASXC,ASXC,USA,NYSE MKT,USD,Common Stock
 ASXDX,SHORT DURATION STRATEGIC INCOME FUND R6 CLASS,USA,NMFQS,USD,FUND
 ASXFF,ASX Limited,USA,PINK,USD,Common Stock
 ASXFY,ASX Limited,USA,PINK,USD,Common Stock
@@ -3067,6 +3018,7 @@ ATAFX,AMERICAN TRUST ALLEGIANCE FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 ATAGX,ATAGX,USA,NMFQS,USD,Mutual Fund
 ATAMX,ATAMX,USA,NMFQS,USD,Mutual Fund
 ATAO,Altair International Corp,USA,PINK,USD,Common Stock
+ATAQ-U,ATAQ-U,USA,NYSE,USD,Common Stock
 ATAR,Avatar Ventures Corp,USA,OTCCE,USD,Common Stock
 ATASF,Atlantia SpA,USA,PINK,USD,Common Stock
 ATASY,Atlantia SpA,USA,PINK,USD,Common Stock
@@ -3077,7 +3029,7 @@ ATBPD,Antibe Therapeutics Inc,USA,OTCQB,USD,Common Stock
 ATBPF,Antibe Therapeutics Inc,USA,OTCQX,USD,Common Stock
 ATBYF,Abitibi Royalties Inc,USA,OTCGREY,USD,Common Stock
 ATBYX,INTERMEDIATE-TERM TAX-FREE BOND FUND Y CLASS,USA,NMFQS,USD,FUND
-ATC,Atotech Limited,USA,NASDAQ,USD,Common Stock
+ATC,Atotech Limited,USA,NYSE,USD,Common Stock
 ATC_old,Atotech Limited,USA,NYSE,USD,Common Stock
 ATCAX,ATCAX,USA,NMFQS,USD,Mutual Fund
 ATCC,Ameritrust Corporation,USA,PINK,USD,Common Stock
@@ -3244,7 +3196,7 @@ ATSNX,AQR TM SMALL CAP MOMENTUM STYLE FUND CLASS N,USA,NMFQS,USD,FUND
 ATTAX,AB TAX-AWARE FIXED INCOME PORTFOLIO CLASS A,USA,NMFQS,USD,FUND
 ATTBF,Abattis Bioceuticals Corp,USA,PINK,USD,Common Stock
 ATTCX,ONE CHOICE IN RETIREMENT PORTFOLIO C CLASS,USA,NMFQS,USD,FUND
-ATTGF,Auto Italia Holdings Limited,USA,PINK,USD,Common Stock
+ATTGF,Auto Italia Holdings Limited,USA,OTCGREY,USD,Common Stock
 ATTIX,ONE CHOICE IN RETIREMENT PORTFOLIO I CLASS,USA,NMFQS,USD,FUND
 ATTLF,Atlas Copco AB,USA,PINK,USD,Common Stock
 ATTO,Atento S.A,USA,NYSE,USD,Common Stock
@@ -3255,6 +3207,7 @@ ATUS,"Altice USA, Inc",USA,NYSE,USD,Common Stock
 ATUSF,Altius Minerals Corporation,USA,OTCQX,USD,Common Stock
 ATUUF,Altura Energy Inc,USA,PINK,USD,Common Stock
 ATVAX,ATHENA VALUE FUND CLASS A SHARES,USA,NMFQS,USD,FUND
+ATVCU,Tribe Capital Growth Corp I Units,USA,NASDAQ,USD,Common Stock
 ATVDY,"Atresmedia Corporación de Medios de Comunicación, S.A",USA,PINK,USD,Common Stock
 ATVI,"Activision Blizzard, Inc",USA,NASDAQ,USD,Common Stock
 ATVIX,ATHENA VALUE FUND CLASS I SHARES,USA,NMFQS,USD,FUND
@@ -3329,7 +3282,7 @@ AUNXF,Fremont Petroleum Corporation Ltd,USA,PINK,USD,Common Stock
 AUNYX,AB MUNICIPAL BOND INFLATION STRATEGY ADVISOR CLASS,USA,NMFQS,USD,FUND
 AUOTY,AU Optronics Corp,USA,PINK,USD,Common Stock
 AUPH,Aurinia Pharmaceuticals Inc,USA,NASDAQ,USD,Common Stock
-AURCU,Aurora Acquisition Corp.,USA,,USD,Common Stock
+AURCU,Aurora Acquisition Corp,USA,NASDAQ,USD,Common Stock
 AURI,"Auri, Inc",USA,PINK,USD,Common Stock
 AURQF,Aurelius Minerals Inc,USA,PINK,USD,Common Stock
 AURT,"Attune RTD, Inc",USA,PINK,USD,Common Stock
@@ -3363,7 +3316,7 @@ AUXAX,AUXIER FOCUS FUND A SHARES,USA,NMFQS,USD,FUND
 AUXFX,AUXIER FOCUS FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
 AUXIF,Auxico Resources Canada Inc,USA,PINK,USD,Common Stock
 AUXIX,AUXIER FOCUS FUND INSTITUTIONAL SHARES,USA,NMFQS,USD,FUND
-AUXRF,AUX Resources Corporation,USA,PINK,USD,Common Stock
+AUXRF,AUX Resources Corporation,USA,OTCGREY,USD,Common Stock
 AUXXF,Allegiant Gold Ltd,USA,OTCQX,USD,Common Stock
 AUY,Yamana Gold Inc,USA,NYSE,USD,Common Stock
 AVA,Avista Corporation,USA,NYSE,USD,Common Stock
@@ -3573,7 +3526,7 @@ AXAS,Abraxas Petroleum Corporation,USA,NASDAQ,USD,Common Stock
 AXBAX,COLUMBIA CAPITAL ALLOCATION AGGRESSIVE PORTFOLIO COLUMBIA CAPITAL ALLOCATION AGGRESSIVE PORTFOLIO CLASS A,USA,NMFQS,USD,FUND
 AXBIX,INTERMEDIATE-TERM TAX-FREE BOND FUND I CLASS,USA,NMFQS,USD,FUND
 AXBSF,Axios Mobile Assets Corp,USA,PINK,USD,Common Stock
-AXCG,"Eyes on the Go, Inc",USA,PINK,USD,Common Stock
+AXCG,"Eyes on the Go, Inc",USA,OTCCE,USD,Common Stock
 AXCP,Allixon International Corp,USA,PINK,USD,Common Stock
 AXDDF,Azucar Minerals Ltd,USA,OTCQX,USD,Common Stock
 AXDX,"Accelerate Diagnostics, Inc",USA,NASDAQ,USD,Common Stock
@@ -3881,7 +3834,7 @@ BBCP,"Concrete Pumping Holdings, Inc",USA,NASDAQ,USD,Common Stock
 BBCPW,Industrea Acquisition Corp. Warrant,USA,PINK,USD,Common Stock
 BBCPX,BRIDGE BUILDER CORE PLUS BOND FUND BRIDGE BUILDER CORE PLUS BOND FUND,USA,NMFQS,USD,FUND
 BBD,Banco Bradesco S.A,USA,NYSE,USD,Common Stock
-BBDA,Bebida Beverage Company,USA,PINK,USD,Common Stock
+BBDA,Bebida Beverage Company,USA,OTCCE,USD,Common Stock
 BBDC,"Barings BDC, Inc",USA,NYSE,USD,Common Stock
 BBDO,Banco Bradesco S.A,USA,NYSE,USD,Common Stock
 BBEDF,Beter Bed Holding N.V,USA,PINK,USD,Common Stock
@@ -4871,7 +4824,7 @@ BLIBQ,BB Liquidating Inc,USA,OTCCE,USD,Common Stock
 BLILF,Bearing Lithium Corp,USA,OTCQB,USD,Common Stock
 BLIN,"Bridgeline Digital, Inc",USA,NASDAQ,USD,Common Stock
 BLIS,"Treasure & Shipwreck Recovery, Inc",USA,PINK,USD,Common Stock
-BLITF,Interactive Games Technologies Inc,USA,PINK,USD,Common Stock
+BLITF,Interactive Games Technologies Inc,USA,OTCQB,USD,Common Stock
 BLJZY,Berli Jucker Public Company Limited,USA,PINK,USD,Common Stock
 BLK,"BlackRock, Inc",USA,NYSE,USD,Common Stock
 BLKB,"Blackbaud, Inc",USA,NASDAQ,USD,Common Stock
@@ -4924,13 +4877,13 @@ BLSFF,BlueScope Steel Limited,USA,OTCGREY,USD,Common Stock
 BLSFY,BlueScope Steel Limited,USA,PINK,USD,Common Stock
 BLSIX,BlackRock Emerging Markets Long/Short Eq,USA,NMFQS,USD,FUND
 BLSKX,BLSKX,USA,NMFQS,USD,FUND
-BLSP,Blue Sphere Corporation,USA,PINK,USD,Common Stock
+BLSP,Blue Sphere Corporation,USA,OTCCE,USD,Common Stock
 BLSSF,Gold Bull Resources Corp,USA,PINK,USD,Common Stock
 BLSTF,Blackstone Minerals Limited,USA,OTCQX,USD,Common Stock
 BLTMF,Blue Thunder Mining Inc,USA,OTCQB,USD,Common Stock
-BLTS,Bright Lights Acquisition Corp,USA,,USD,Common Stock
+BLTS,Bright Lights Acquisition Corp,USA,NASDAQ,USD,Common Stock
 BLTSU,Bright Lights Acquisition Corp,USA,NASDAQ,USD,Common Stock
-BLTSW,Bright Lights Acquisition Corp,USA,,USD,Common Stock
+BLTSW,Bright Lights Acquisition Corp,USA,NASDAQ,USD,Common Stock
 BLU,BELLUS Health Inc,USA,NASDAQ,USD,Common Stock
 BLUBF,Blue Ribbon Income Fund,USA,OTCGREY,USD,FUND
 BLUCX,Bluestone Community Development Fund,USA,NASDAQ,USD,FUND
@@ -5141,7 +5094,7 @@ BNTT,"Bnet Media Group, Inc",USA,PINK,USD,Common Stock
 BNTX,BioNTech SE,USA,NASDAQ,USD,Common Stock
 BNUEX,UBS INTERNATIONAL SUSTAINABLE EQUITY FUND CLASS P,USA,NMFQS,USD,FUND
 BNVIF,Binovi Technologies Corp,USA,OTCQB,USD,Common Stock
-BNXAF,Banxa Holdings Inc,USA,PINK,USD,Common Stock
+BNXAF,Banxa Holdings Inc,USA,OTCQX,USD,Common Stock
 BNXR,Brinx Resources Ltd,USA,PINK,USD,Common Stock
 BNY,BlackRock New York Municipal Income Trust,USA,NYSE,USD,Common Stock
 BNYN,Banyan Corp,USA,OTCCE,USD,Common Stock
@@ -5356,7 +5309,7 @@ BRFS,BRF S.A,USA,NYSE,USD,Common Stock
 BRG,"Bluerock Residential Growth REIT, Inc",USA,NYSE MKT,USD,Common Stock
 BRGAX,BlckRck FdsIII Rssll 1000 Inx Fd Invr A,USA,NMFQS,USD,FUND
 BRGC,BrightRock Gold Corp,USA,PINK,USD,Common Stock
-BRGGF,Bragg Gaming Group Inc,USA,OTCQX,USD,Common Stock
+BRGGF,Bragg Gaming Group Inc,USA,OTCMKTS,USD,Common Stock
 BRGIX,"BRIDGES INVESTMENT FUND, INC. BRIDGES INVESTMENT FUND, INC.",USA,NMFQS,USD,FUND
 BRGKX,BlckRck Fds III Blk Rk Rssl 1000 Inx Fd,USA,NMFQS,USD,FUND
 BRGNX,BlckRck FdsIII Rssll 1000 Inx Fd Inst Sh,USA,NMFQS,USD,FUND
@@ -5814,6 +5767,7 @@ BUYGX,BUYGX,USA,NMFQS,USD,FUND
 BUYIX,CATALYST/EQUITYCOMPASS BUYBACK STRATEGY FUND CATALYST/EQUITYCOMPASS BUYBACK STRATEGY FUND CLASS I,USA,NMFQS,USD,FUND
 BUYWX,MAIN BUYWRITE FUND MAIN BUYWRITE FUND CLASS I SHARES,USA,NMFQS,USD,FUND
 BUYZ,Franklin Disruptive Commerce ETF,USA,BATS,USD,ETF
+BUZZ,VanEck Vectors Social Sentiment ETF,USA,NYSE ARCA,USD,ETF
 BV,"BrightView Holdings, Inc",USA,NYSE,USD,Common Stock
 BVAAX,STERLING CAPITAL VIRGINIA INTERMEDIATE TAX-FREE FUND A CLASS,USA,NMFQS,USD,FUND
 BVACX,STERLING CAPITAL VIRGINIA INTERMEDIATE TAX-FREE FUND C SHARES,USA,NMFQS,USD,FUND
@@ -5832,6 +5786,7 @@ BVH,Bluegreen Vacations Holding Corporation,USA,NYSE,USD,Common Stock
 BVHBB,Bluegreen Vacations Holding Corporation,USA,OTCQX,USD,Common Stock
 BVHMF,Vistry Group PLC,USA,OTCGREY,USD,Common Stock
 BVILF,Breville Group Limited,USA,PINK,USD,Common Stock
+BVILY,Breville Group Limited,USA,PINK,USD,Common Stock
 BVN,Compañía de Minas Buenaventura S.A.A,USA,NYSE,USD,Common Stock
 BVNKF,Bavarian Nordic A/S,USA,PINK,USD,Common Stock
 BVNNF,BevCanna Enterprises Inc,USA,OTCQB,USD,Common Stock
@@ -6322,6 +6277,7 @@ CBCY,"Central Bancompany, Inc",USA,PINK,USD,Common Stock
 CBCYB,"Central Bancompany, Inc",USA,PINK,USD,Common Stock
 CBCZ,Comunibanc Corp,USA,PINK,USD,Common Stock
 CBD,Companhia Brasileira de Distribuição,USA,NYSE,USD,Common Stock
+CBD-W,CBD-W,USA,NYSE,USD,Common Stock
 CBDC,"Apotheca Biosciences, Inc",USA,OTCCE,USD,Common Stock
 CBDD,CBD of Denver Inc,USA,PINK,USD,Common Stock
 CBDEF,BlueNRGY Group Limited,USA,PINK,USD,Common Stock
@@ -6462,7 +6418,6 @@ CBWA,Commencement Bancorp Inc,USA,OTCQX,USD,Common Stock
 CBWBF,Canadian Western Bank,USA,PINK,USD,Common Stock
 CBWTF,Auxly Cannabis Group Inc,USA,OTCQX,USD,Common Stock
 CBX,NYSE LISTED TEST,USA,NYSE,USD,Common Stock
-CBYAA,Community Bank of the Bay,USA,PINK,USD,Common Stock
 CBYDF,Corby Spirit and Wine Limited,USA,PINK,USD,Common Stock
 CBYI,"Cal Bay International, Inc",USA,PINK,USD,Common Stock
 CBZ,"CBIZ, Inc",USA,NYSE,USD,Common Stock
@@ -6884,7 +6839,6 @@ CETEF,Cathedral Energy Services Ltd,USA,OTCGREY,USD,Common Stock
 CETFF,iShares VII Public Limited Company - iShares MSCI EM Asia UCITS ETF,USA,OTCGREY,USD,ETF
 CETFX,MORNINGSTAR CONSERVATIVE ETF ASSET ALLOCATION PORTFOLIO CLASS II,USA,NMFQS,USD,FUND
 CETG,"Capital City Energy Group, Inc",USA,PINK,USD,Common Stock
-CETHF,XBT Provider AB (publ),USA,PINK,USD,Common Stock
 CETX,"Cemtrex, Inc",USA,NASDAQ,USD,Common Stock
 CETXP,"Cemtrex, Inc",USA,NASDAQ,USD,Common Stock
 CETXW,Cemtrex Inc. Series 1 Warrant,USA,NASDAQ,USD,Common Stock
@@ -7202,7 +7156,7 @@ CGWSX,Columbia Growth 529 Port A Static,USA,NMFQS,USD,FUND
 CGWTX,Columbia Growth 529 A Aggressive Track,USA,NMFQS,USD,FUND
 CGXEF,CGX Energy Inc,USA,PINK,USD,Common Stock
 CGXYY,"China Galaxy Securities Co., Ltd",USA,PINK,USD,Common Stock
-CGYG,China Longyi Group International Holdings Limited,USA,OTCCE,USD,Common Stock
+CGYG,China Longyi Group International Holdings Limited,USA,OTCBB,USD,Common Stock
 CGYV,"China Energy Recovery, Inc",USA,PINK,USD,Common Stock
 CHAA-U,CHAA-U,USA,NYSE,USD,Common Stock
 CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,USA,NYSE ARCA,USD,ETF
@@ -7363,6 +7317,8 @@ CHPM,CHP Merger Corp,USA,NASDAQ,USD,Common Stock
 CHPMU,CHP Merger Corp,USA,NASDAQ,USD,Common Stock
 CHPMW,CHP Merger Corp,USA,NASDAQ,USD,Common Stock
 CHPRF,Champion Iron Limited,USA,PINK,USD,Common Stock
+CHPT,CHPT,USA,NYSE,USD,Common Stock
+CHPT-WS,CHPT-WS,USA,NYSE,USD,Common Stock
 CHPXF,"China Pacific Insurance (Group) Co., Ltd",USA,PINK,USD,Common Stock
 CHPXY,"China Pacific Insurance (Group) Co., Ltd",USA,PINK,USD,Common Stock
 CHRA,"Charah Solutions, Inc",USA,NYSE,USD,Common Stock
@@ -7388,6 +7344,7 @@ CHSYF,China Medical System Holdings Limited,USA,OTCGREY,USD,Common Stock
 CHT,"Chunghwa Telecom Co., Ltd",USA,NYSE,USD,Common Stock
 CHTCX,INVESCO CHARTER FUND CLASS C,USA,NMFQS,USD,FUND
 CHTFX,AQUILA CHURCHILL TAX-FREE FUND OF KENTUCKY CLASS A,USA,NMFQS,USD,FUND
+CHTH,"CNL Healthcare Properties, Inc",USA,OTCGREY,USD,Common Stock
 CHTM,Chatham Corporation,USA,PINK,USD,Common Stock
 CHTR,"Charter Communications, Inc",USA,NASDAQ,USD,Common Stock
 CHTRX,INVESCO CHARTER FUND CLASS A,USA,NMFQS,USD,FUND
@@ -7694,7 +7651,6 @@ CLGAX,Future Scholar 529 College Savings Plan - Columbia Moderate 529 Portfolio 
 CLGBX,Future Scholar 529 College Savings Plan - Columbia College 529 Portfolio,USA,NMFQS,USD,FUND
 CLGCF,Clarity Gold Corp,USA,PINK,USD,Common Stock
 CLGCX,Future Scholar 529 College Savings Plan - Columbia Moderate 529 Portfolio Fund,USA,NMFQS,USD,FUND
-CLGDF,Caldas Gold Corporation,USA,PINK,USD,Common Stock
 CLGEX,COLUMBIA LARGE CAP GROWTH FUND COLUMBIA LARGE CAP GROWTH FUND CLASS E,USA,NMFQS,USD,FUND
 CLGMF,Cleghorn Minerals Ltd,USA,OTCGREY,USD,Common Stock
 CLGN,CollPlant Biotechnologies Ltd,USA,NASDAQ,USD,Common Stock
@@ -7916,7 +7872,7 @@ CME,CME Group Inc,USA,NASDAQ,USD,Common Stock
 CMEDX,Columbia Mod Conserv Port E -Mod Track,USA,NMFQS,USD,FUND
 CMEGX,Columbia Moderate 529 E Aggr Track,USA,NMFQS,USD,FUND
 CMEIF,China MeiDong Auto Holdings Limited,USA,PINK,USD,Common Stock
-CMETF,Chilean Metals Inc,USA,PINK,USD,Common Stock
+CMETF,Chilean Metals Inc,USA,OTCQB,USD,Common Stock
 CMETX,Columbia Moderate Growth E -Cons Track,USA,NMFQS,USD,FUND
 CMEUX,SIX CIRCLES MANAGED EQUITY PORTFOLIO US UNCONSTRAINED FUND,USA,NMFQS,USD,FUND
 CMEVX,Am Century Mid Cap Value 529 Port E,USA,NMFQS,USD,FUND
@@ -8166,6 +8122,7 @@ CNLTP,The Connecticut Light and Power Company,USA,PINK,USD,Common Stock
 CNMCX,INCOME FUND CLASS C,USA,NMFQS,USD,FUND
 CNMD,CONMED Corporation,USA,NYSE,USD,Common Stock
 CNMRX,COLUMBIA INCOME BUILDER FUND COLUMBIA INCOME BUILDER FUND CLASS R4,USA,NMFQS,USD,FUND
+CNMTF,Canadian Metals Inc,USA,PINK,USD,Common Stock
 CNMVF,Canoe Mining Ventures Corp,USA,PINK,USD,Common Stock
 CNMXF,Canamex Gold Corp,USA,PINK,USD,Common Stock
 CNNA,Cann American Corp,USA,PINK,USD,Common Stock
@@ -9040,7 +8997,7 @@ CSTL,"Castle Biosciences, Inc",USA,NASDAQ,USD,Common Stock
 CSTM,Constellium SE,USA,NYSE,USD,Common Stock
 CSTMX,CAPITAL GROUP SHORT-TERM MUNICIPAL FUND SHARE CLASS,USA,NMFQS,USD,FUND
 CSTNL,iShares VII Public Limited Company - iShares Core S&P 500 UCITS ETF,USA,PINK,USD,ETF
-CSTPF,Arrow Exploration Corp,USA,OTCGREY,USD,Common Stock
+CSTPF,Arrow Exploration Corp,USA,PINK,USD,Common Stock
 CSTPX,Columbia Short Term Bond 529 Port A,USA,NMFQS,USD,FUND
 CSTR,"Capstar Financial Holdings, Inc",USA,NASDAQ,USD,Common Stock
 CSU,Capital Senior Living Corporation,USA,NYSE,USD,Common Stock
@@ -9130,7 +9087,7 @@ CTIC,CTI BioPharma Corp,USA,NASDAQ,USD,Common Stock
 CTIGX,CTIGX,USA,NMFQS,USD,FUND
 CTIHY,China Taiping Insurance Holdings Company Limited,USA,PINK,USD,Common Stock
 CTILF,CTI LOGISTICS LIMITED,USA,PINK,USD,Common Stock
-CTIMF,P2 Gold Inc,USA,PINK,USD,Common Stock
+CTIMF,P2 Gold Inc,USA,OTCGREY,USD,Common Stock
 CTIVX,COLUMBIA STRATEGIC INCOME FUND COLUMBIA STRATEGIC INCOME FUND CLASS R5,USA,NMFQS,USD,FUND
 CTJHF,CITIC Resources Holdings Limited,USA,PINK,USD,Common Stock
 CTJHY,CITIC Resources Holdings Limited,USA,PINK,USD,Common Stock
@@ -9163,6 +9120,7 @@ CTOUF,Charter Hall Group,USA,OTCGREY,USD,Common Stock
 CTOWY,China Tower Corporation Limited,USA,PINK,USD,Common Stock
 CTPCF,CITIC Limited,USA,PINK,USD,Common Stock
 CTPCY,CITIC Limited,USA,PINK,USD,Common Stock
+CTPPO,Central Maine Power Company PFD 6%,USA,PINK,USD,Common Stock
 CTPR,CTPartners Executive Search Inc,USA,PINK,USD,Common Stock
 CTPTY,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A,USA,PINK,USD,Common Stock
 CTPZY,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A,USA,PINK,USD,Common Stock
@@ -10100,6 +10058,7 @@ DGCFX,DFA Global Core Plus Fixed Income Portfolio,USA,NMFQS,USD,FUND
 DGCIX,DELAWARE CORPORATE BOND FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 DGCRF,9342-8530 Québec Inc,USA,OTCCE,USD,Common Stock
 DGCRX,DELAWARE CORPORATE BOND FUND CLASS R,USA,NMFQS,USD,FUND
+DGCXX,Dreyfus Government Cash Mgmt Instl,USA,,USD,Common Stock
 DGCZX,DGCZX,USA,NMFQS,USD,FUND
 DGDAX,DREYFUS GLOBAL DYNAMIC BOND FUND A,USA,NMFQS,USD,FUND
 DGDCF,Dynasty Gold Corp,USA,PINK,USD,Common Stock
@@ -10168,7 +10127,6 @@ DGQAX,AMERICAFIRST DEFENSIVE GROWTH FUND AMERICAFIRST DEFENSIVE GROWTH FUND CLAS
 DGQIX,AMERICAFIRST DEFENSIVE GROWTH FUND AMERICAFIRST DEFENSIVE GROWTH FUND CLASS I,USA,NMFQS,USD,FUND
 DGQUX,AMERICAFIRST DEFENSIVE GROWTH FUND AMERICAFIRST DEFENSIVE GROWTH FUND CLASS U,USA,NMFQS,USD,FUND
 DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,USA,NASDAQ,USD,ETF
-DGRLY,Delek Group Ltd,USA,OTCGREY,USD,Common Stock
 DGRO,iShares Core Dividend Growth ETF,USA,NYSE ARCA,USD,ETF
 DGRRX,DGRRX,USA,NMFQS,USD,FUND
 DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,USA,NASDAQ,USD,ETF
@@ -10193,9 +10151,9 @@ DGYGX,DREYFUS APPRECIATION FUND INC CLASS Y,USA,NMFQS,USD,FUND
 DGZ,DB Gold Short ETN,USA,NYSE ARCA,USD,ETF
 DHAMX,CENTRE AMERICAN SELECT EQUITY FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 DHANX,CENTRE AMERICAN SELECT EQUITY FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
-DHBCU,DHB Capital Corp,USA,,USD,Common Stock
+DHBCU,DHB Capital Corp,USA,NASDAQ,USD,Common Stock
 DHC,Diversified Healthcare Trust,USA,NASDAQ,USD,Common Stock
-DHCAU,DHC Acquisition Corp,USA,,USD,Common Stock
+DHCAU,DHC Acquisition Corp,USA,NASDAQ,USD,Common Stock
 DHCC,Diamondhead Casino Corporation,USA,PINK,USD,Common Stock
 DHCNI,DHCNI,USA,NASDAQ,USD,Common Stock
 DHCNL,Diversified Healthcare Trust,USA,NASDAQ,USD,Common Stock
@@ -10382,7 +10340,7 @@ DK,"Delek US Holdings, Inc",USA,NYSE,USD,Common Stock
 DKAM,"Drinks Americas Holdings, Ltd",USA,PINK,USD,Common Stock
 DKDRF,Delek Drilling - Limited Partnership,USA,OTCGREY,USD,Common Stock
 DKGH,"DKG Capital, Inc",USA,PINK,USD,Common Stock
-DKGR,Universal Apparel & Textile Company,USA,PINK,USD,Common Stock
+DKGR,Universal Apparel & Textile Company,USA,OTCCE,USD,Common Stock
 DKILF,"Daikin Industries,Ltd",USA,PINK,USD,Common Stock
 DKILY,"Daikin Industries,Ltd",USA,PINK,USD,Common Stock
 DKL,"Delek Logistics Partners, LP",USA,NYSE,USD,Common Stock
@@ -10401,7 +10359,9 @@ DLAKF,Deutsche Lufthansa AG,USA,OTCQX,USD,Common Stock
 DLAKY,Deutsche Lufthansa AG,USA,OTCQX,USD,Common Stock
 DLB,"Dolby Laboratories, Inc",USA,NYSE,USD,Common Stock
 DLBMX,MASSMUTUAL PREMIER SMALL CAP OPPORTUNITIES FUND CLASS A,USA,NMFQS,USD,FUND
+DLCA,Deep Lake Capital Acquisition Corp. Class A Ordinary Shares,USA,NASDAQ,USD,Common Stock
 DLCAU,Deep Lake Capital Acquisition Corp,USA,NASDAQ,USD,Common Stock
+DLCAW,Deep Lake Capital Acquisition Corp. Warrant,USA,NASDAQ,USD,Common Stock
 DLCEX,DANA LARGE CAP EQUITY FUND CLASS N SHARES,USA,NMFQS,USD,FUND
 DLCFX,Destinations Large Cap Equity Fund,USA,NMFQS,USD,FUND
 DLCIX,DANA LARGE CAP EQUITY FUND INSTITUTIONAL CLASS SHARES,USA,NMFQS,USD,FUND
@@ -10539,6 +10499,8 @@ DMREX,DFA Municipal Real Return Portfolio Inst,USA,NMFQS,USD,FUND
 DMRI,DeltaShares S&P International Managed Risk ETF,USA,NYSE ARCA,USD,ETF
 DMRL,DeltaShares S&P 500 Managed Risk ETF,USA,NYSE ARCA,USD,ETF
 DMRM,DeltaShares S&P 400 Managed Risk ETF,USA,NYSE ARCA,USD,ETF
+DMRR,Dayton & Michigan Railroad Co,USA,PINK,USD,Common Stock
+DMRRP,Dayton & Michigan Railroad Co. PFD 8%,USA,PINK,USD,Common Stock
 DMRS,DeltaShares S&P 600 Managed Risk ETF,USA,NYSE ARCA,USD,ETF
 DMS,"Digital Media Solutions, Inc",USA,NYSE,USD,Common Stock
 DMSFX,Destinations Multi Strategy Alternatives,USA,NMFQS,USD,FUND
@@ -10565,6 +10527,7 @@ DMYD-WS,DMYD-WS,USA,NYSE,USD,Common Stock
 DMYI,"dMY Technology Group, Inc. III",USA,NYSE,USD,Common Stock
 DMYI-U,DMYI-U,USA,NYSE,USD,Common Stock
 DMYI-WS,DMYI-WS,USA,NYSE,USD,Common Stock
+DMYQ-U,DMYQ-U,USA,NYSE,USD,Common Stock
 DMZPY,Domino's Pizza Enterprises Limited,USA,PINK,USD,Common Stock
 DNACF,"DeNA Co., Ltd",USA,PINK,USD,Common Stock
 DNAG,"DNAPrint Genomics, Inc",USA,OTCCE,USD,Common Stock
@@ -10577,7 +10540,7 @@ DNB,"Dun & Bradstreet Holdings, Inc",USA,NYSE,USD,Common Stock
 DNBHF,DNB ASA,USA,PINK,USD,Common Stock
 DNCGX,DUNHAM CORPORATE/GOVERNMENT BOND FUND DUNHAM CORPORATE/GOVERNMENT BOND FUND CLASS N,USA,NMFQS,USD,FUND
 DNCVF,Defiance Silver Corp,USA,PINK,USD,Common Stock
-DNDDF,Dundee Sustainable Technologies Inc,USA,OTCGREY,USD,Common Stock
+DNDDF,Dundee Sustainable Technologies Inc,USA,OTCMKTS,USD,Common Stock
 DNDEF,Dundee Corporation,USA,OTCGREY,USD,Common Stock
 DNDGX,DUNHAM SMALL CAP GROWTH FUND DUNHAM SMALL CAP GROWTH FUND CLASS N,USA,NMFQS,USD,FUND
 DNDPF,Dundee Corporation,USA,PINK,USD,Common Stock
@@ -10605,6 +10568,7 @@ DNLAX,DREYFUS NATURAL RESOURCES FUND DREYFUS NATURAL RESOURCES FUND - CLASS A,US
 DNLCX,DREYFUS ACTIVE MIDCAP FUND CLASS C,USA,NMFQS,USD,FUND
 DNLDX,DREYFUS ACTIVE MIDCAP FUND CLASS A,USA,NMFQS,USD,FUND
 DNLI,Denali Therapeutics Inc,USA,NASDAQ,USD,Common Stock
+DNLMY,Dunelm Group plc,USA,PINK,USD,Common Stock
 DNLRX,DREYFUS ACTIVE MIDCAP FUND CLASS I,USA,NMFQS,USD,FUND
 DNLVX,Dunham Large Cap Value Fund Class,USA,NMFQS,USD,FUND
 DNLYX,DREYFUS ACTIVE MIDCAP FUND CLASS Y,USA,NMFQS,USD,FUND
@@ -10770,6 +10734,7 @@ DRCVX,COMSTOCK CAPITAL VALUE FUND RETAIL CLASS A,USA,NMFQS,USD,FUND
 DRD,DRDGOLD Limited,USA,NYSE,USD,Common Stock
 DRDAX,DEARBORN PARTNERS RISING DIVIDEND FUND DEARBORN PARTNERS RISING DIVIDEND FUND - CLASS A SHARES,USA,NMFQS,USD,FUND
 DRDCX,DEARBORN PARTNERS RISING DIVIDEND FUND DEARBORN PARTNERS RISING DIVIDEND FUND - CLASS C SHARES,USA,NMFQS,USD,FUND
+DRDGF,DRDGOLD Limited,USA,OTCGREY,USD,Common Stock
 DRDIX,DEARBORN PARTNERS RISING DIVIDEND FUND DEARBORN PARTNERS RISING DIVIDEND FUND - CLASS I SHARES,USA,NMFQS,USD,FUND
 DRDNF,DRDNF,USA,PINK,USD,Common Stock
 DRE,Duke Realty Corporation,USA,NYSE,USD,Common Stock
@@ -10853,7 +10818,6 @@ DRTHX,"THE DREYFUS SUSTAINABLE U.S. EQUITY FUND, INC. CLASS Z",USA,NMFQS,USD,FUN
 DRTT,DIRTT Environmental Solutions Ltd,USA,NASDAQ,USD,Common Stock
 DRUA,"Dominion Energy, Inc. ENHCD SUB NT16 A",USA,NYSE,USD,Common Stock
 DRV,Direxion Daily MSCI Real Estate Bear 3X Shares,USA,NYSE ARCA,USD,ETF
-DRVD,"Driven Deliveries, Inc",USA,OTCQB,USD,Common Stock
 DRVN,Driven Brands Holdings Inc,USA,NASDAQ,USD,Common Stock
 DRVYF,Discovery Africa Limited,USA,OTCGREY,USD,Common Stock
 DRW,WisdomTree Global ex-US Real Estate Fund,USA,NYSE ARCA,USD,ETF
@@ -10925,7 +10889,6 @@ DSIYX,DIAMOND HILL CORPORATE CREDIT FUND CORPORATE CREDIT FUND CLASS Y,USA,NMFQS
 DSJA,Innovator Double Stacker ETF - January,USA,BATS,USD,ETF
 DSKE,"Daseke, Inc",USA,NASDAQ,USD,Common Stock
 DSKEW,Hennessy Capital Acquisition Corp. II Warrant,USA,NASDAQ,USD,Common Stock
-DSKIF,"Daiseki Co.,Ltd",USA,PINK,USD,Common Stock
 DSKYF,"Daiichi Sankyo Company, Limited",USA,PINK,USD,Common Stock
 DSL,DoubleLine Income Solutions Fund,USA,NYSE,USD,FUND
 DSLV,VelocityShares 3x Inverse Silver ETN Linked to the S&P GSCI Silver Index ER,USA,NASDAQ,USD,ETF
@@ -11270,7 +11233,7 @@ EACFX,WELLS FARGO ADVANTAGE ASSET ALLOCATION FUND CLASS C,USA,NMFQS,USD,FUND
 EACO,EACO Corporation,USA,PINK,USD,Common Stock
 EACOX,Eaton Vance Global Macro Capital Opport,USA,NMFQS,USD,FUND
 EACPU,Edify Acquisition Corp,USA,NASDAQ,USD,Common Stock
-EACPW,Edify Acquisition Corp,USA,,USD,Common Stock
+EACPW,Edify Acquisition Corp,USA,NASDAQ,USD,Common Stock
 EACPX,EATON VANCE TAX-MANAGED MULTI-CAP GROWTH FUND EATON VANCE TAX-MANAGED MULTI-CAP GROWTH FUND CLASS A,USA,NMFQS,USD,FUND
 EACR,"African Discovery Group, Inc",USA,PINK,USD,Common Stock
 EACTF,Earth Alive Clean Technologies Inc,USA,PINK,USD,Common Stock
@@ -11310,6 +11273,7 @@ EALCX,EATON VANCE GROWTH FUND EATON VANCE GROWTH FUND CLASS A,USA,NMFQS,USD,FUND
 EALDX,EATON VANCE SHORT DURATION GOVERNMENT INCOME FUND EATON VANCE SHORT DURATION GOVERNMENT INCOME FUND CLASS A,USA,NMFQS,USD,FUND
 EALMX,MFS LIMITED MATURITY FUND 529A,USA,NMFQS,USD,FUND
 EALTX,Ev Tab Lad Mun A,USA,NMFQS,USD,FUND
+EAMBX,EAMBX,USA,NMFQS,USD,Mutual Fund
 EAMCX,MFS MID CAP GROWTH FUND 529A,USA,NMFQS,USD,FUND
 EAMDX,MFS MODERATE ALLOCATION FUND 529A,USA,NMFQS,USD,FUND
 EAMTX,MASSACHUSETTS INVESTORS TRUST 529A,USA,NMFQS,USD,FUND
@@ -11341,7 +11305,6 @@ EASG,Xtrackers MSCI EAFE ESG Leaders Equity ETF,USA,NYSE ARCA,USD,ETF
 EAST,"Eastside Distilling, Inc",USA,NASDAQ,USD,Common Stock
 EAT,"Brinker International, Inc",USA,NYSE,USD,Common Stock
 EATBF,Eat Beyond Global Holdings Inc,USA,PINK,USD,Common Stock
-EATOF,Evolve Automobile Innovation Index Fund,USA,OTCGREY,USD,ETF
 EATR,"Eastern Asteria, Inc",USA,PINK,USD,Common Stock
 EATRX,MFS TOTAL RETURN FUND 529A,USA,NMFQS,USD,FUND
 EATTX,Eaton Vance TABS 10to20 Year Laddered Mu,USA,NMFQS,USD,FUND
@@ -11371,6 +11334,7 @@ EBF,"Ennis, Inc",USA,NYSE,USD,Common Stock
 EBGEF,EBGEF,USA,PINK,USD,Common Stock
 EBGWX,MFS GROWTH ALLOCATION FUND 529B,USA,NMFQS,USD,FUND
 EBIDX,MFS INTERNATIONAL NEW DISCOVERY FUND 529B,USA,NMFQS,USD,FUND
+EBINF,"eBOOK Initiative Japan Co.,Ltd",USA,PINK,USD,Common Stock
 EBIX,"Ebix, Inc",USA,NASDAQ,USD,Common Stock
 EBIZ,Global X E-commerce ETF,USA,NASDAQ,USD,ETF
 EBKDY,Erste Group Bank AG,USA,PINK,USD,Common Stock
@@ -11604,7 +11568,7 @@ EDYYF,EnerDynamic Hybrid Technologies Corp,USA,OTCGREY,USD,Common Stock
 EDZ,Direxion Daily MSCI Emerging Markets Bear 3X Shares,USA,NYSE ARCA,USD,ETF
 EDZR,e-Direct Inc,USA,OTCGREY,USD,Common Stock
 EEA,"The European Equity Fund, Inc",USA,NYSE,USD,FUND
-EEENF,88 Energy Limited,USA,OTCGREY,USD,Common Stock
+EEENF,88 Energy Limited,USA,PINK,USD,Common Stock
 EEFT,"Euronet Worldwide, Inc",USA,NASDAQ,USD,Common Stock
 EEGI,"Eline Entertainment Group, Inc",USA,PINK,USD,Common Stock
 EEGUF,Empire Energy Group Limited,USA,OTCGREY,USD,Common Stock
@@ -11781,7 +11745,7 @@ EHIAX,Eaton Vance Hexavest Int'l Eq Fd Cl A,USA,NMFQS,USD,FUND
 EHIIX,Eaton Vance Hexavest Int'l Eq Fd Cl I,USA,NMFQS,USD,FUND
 EHITF,The Edinburgh Investment Trust plc,USA,OTCGREY,USD,Common Stock
 EHMEF,goeasy Ltd,USA,PINK,USD,Common Stock
-EHOS,"Ehouse Global, Inc",USA,PINK,USD,Common Stock
+EHOS,"Ehouse Global, Inc",USA,OTCCE,USD,Common Stock
 EHSI,"Emerging Healthcare Solutions, Inc",USA,OTCCE,USD,Common Stock
 EHSTX,EATON VANCE LARGE-CAP VALUE FUND EATON VANCE LARGE-CAP VALUE FUND CLASS A,USA,NMFQS,USD,FUND
 EHT,Eaton Vance 2021 Target Term Trust,USA,NYSE,USD,Common Stock
@@ -11842,6 +11806,7 @@ EILTX,Ev Tab Lad Mun I,USA,NMFQS,USD,FUND
 EILVX,EATON VANCE LARGE-CAP VALUE FUND EATON VANCE LARGE-CAP VALUE FUND CLASS I,USA,NMFQS,USD,FUND
 EIM,Eaton Vance Municipal Bond Fund,USA,NYSE MKT,USD,FUND
 EIMAX,EATON VANCE MASSACHUSETTS MUNICIPAL INCOME FUND EATON VANCE MASSACHUSETTS MUNICIPAL INCOME FUND CLASS I,USA,NMFQS,USD,FUND
+EIMBX,EIMBX,USA,NMFQS,USD,Mutual Fund
 EIMDX,Eaton Vance Maryland Municipals Fd Cl I,USA,NMFQS,USD,FUND
 EIMGX,Eaton Vance Tax-Managed Small Cp Fd Cl I,USA,NMFQS,USD,FUND
 EIMNX,Eaton Vance Minnesot Mncpl Incm Fd Cls I,USA,NMFQS,USD,FUND
@@ -12219,7 +12184,9 @@ ENDRF,Endor AG,USA,PINK,USD,Common Stock
 ENDTF,Canoe EIT Income Fund,USA,PINK,USD,FUND
 ENDV,"Endonovo Therapeutics, Inc",USA,PINK,USD,Common Stock
 ENEAY,ENEA S.A,USA,OTCGREY,USD,Common Stock
+ENFA,"890 5th Avenue Partners, Inc. Class A Common Stock",USA,NASDAQ,USD,Common Stock
 ENFAU,"890 5th Avenue Partners, Inc",USA,NASDAQ,USD,Common Stock
+ENFAW,"890 5th Avenue Partners, Inc. Warrant",USA,NASDAQ,USD,Common Stock
 ENFR,Alerian Energy Infrastructure ETF,USA,NYSE ARCA,USD,ETF
 ENG,ENGlobal Corporation,USA,NASDAQ,USD,Common Stock
 ENGA,"Engage Mobility, Inc",USA,PINK,USD,Common Stock
@@ -12345,9 +12312,9 @@ EPGNF,Epigenomics AG,USA,OTCQX,USD,Common Stock
 EPGNY,Epigenomics AG,USA,OTCQX,USD,Common Stock
 EPGRQ,Environmental Power Corporation,USA,OTCCE,USD,Common Stock
 EPHE,iShares MSCI Philippines ETF,USA,NYSE ARCA,USD,ETF
-EPHY,Epiphany Technology Acquisition Corp,USA,,USD,Common Stock
+EPHY,Epiphany Technology Acquisition Corp,USA,NASDAQ,USD,Common Stock
 EPHYU,Epiphany Technology Acquisition Corp,USA,NASDAQ,USD,Common Stock
-EPHYW,Epiphany Technology Acquisition Corp,USA,,USD,Common Stock
+EPHYW,Epiphany Technology Acquisition Corp,USA,NASDAQ,USD,Common Stock
 EPI,WisdomTree India Earnings Fund,USA,NYSE ARCA,USD,ETF
 EPIBX,EUROPAC INTERNATIONAL BOND FUND CLASS A,USA,NMFQS,USD,FUND
 EPIVX,EUROPAC INTERNATIONAL VALUE FUND CLASS A,USA,NMFQS,USD,FUND
@@ -12396,7 +12363,9 @@ EPV,ProShares UltraShort FTSE Europe,USA,NYSE ARCA,USD,ETF
 EPVIX,EUROPAC INTERNATIONAL VALUE FUND CLASS I,USA,NMFQS,USD,FUND
 EPWCF,Empower Clinics Inc,USA,PINK,USD,Common Stock
 EPWDF,Electric Power Development Co. Ltd,USA,PINK,USD,Common Stock
+EPWR,Empowerment & Inclusion Capital I Corp,USA,NYSE,USD,Common Stock
 EPWR-U,EPWR-U,USA,NYSE,USD,Common Stock
+EPWR-WS,EPWR-WS,USA,NYSE,USD,Common Stock
 EPXY,"Epoxy, Inc",USA,OTCCE,USD,Common Stock
 EPYFF,ePlay Digital Inc,USA,PINK,USD,Common Stock
 EPZM,"Epizyme, Inc",USA,NASDAQ,USD,Common Stock
@@ -12871,6 +12840,7 @@ EVKIF,Evonik Industries AG,USA,PINK,USD,Common Stock
 EVKIY,Evonik Industries AG,USA,PINK,USD,Common Stock
 EVLI,"Everlert, Inc",USA,PINK,USD,Common Stock
 EVLLF,EnviroLeach Technologies Inc,USA,OTCQB,USD,Common Stock
+EVLMC,Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares,USA,NASDAQ,USD,ETF
 EVLO,"Evelo Biosciences, Inc",USA,NASDAQ,USD,Common Stock
 EVM,Eaton Vance California Municipal Bond Fund,USA,NYSE MKT,USD,Common Stock
 EVMBX,EATON VANCE AMT-FREE MUNICIPAL INCOME FUND EATON VANCE AMT-FREE MUNICIPAL INCOME FUND CLASS I,USA,NMFQS,USD,FUND
@@ -12914,7 +12884,7 @@ EVSYX,WELLS FARGO DISCIPLINED U.S. CORE FUND ADMINISTRATOR CLASS,USA,NMFQS,USD,F
 EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,USA,NYSE,USD,FUND
 EVTC,"EVERTEC, Inc",USA,NYSE,USD,Common Stock
 EVTCY,Evotec SE,USA,PINK,USD,Common Stock
-EVTI,"Eventure Interactive, Inc",USA,PINK,USD,Common Stock
+EVTI,"Eventure Interactive, Inc",USA,OTCBB,USD,Common Stock
 EVTMX,EATON VANCE DIVIDEND BUILDER FUND EATON VANCE DIVIDEND BUILDER FUND CLASS A,USA,NMFQS,USD,FUND
 EVTN,"Enviro Technologies U.S., Inc",USA,PINK,USD,Common Stock
 EVTNF,Eviation Aircraft Ltd,USA,PINK,USD,Common Stock
@@ -13198,6 +13168,7 @@ FAN,First Trust Global Wind Energy ETF,USA,NYSE ARCA,USD,ETF
 FANAX,FIDELITY ADVISOR ENERGY FUND CLASS A,USA,NMFQS,USD,FUND
 FANCX,FIDELITY SHORT-TERM BOND FUND FIDELITY ADVISOR SHORT-TERM BOND FUND: CLASS C,USA,NMFQS,USD,FUND
 FANDF,FirstRand Limited,USA,PINK,USD,Common Stock
+FANDY,FirstRand Limited,USA,PINK,USD,Common Stock
 FANFX,FS Market Neutral Fund,USA,NMFQS,USD,FUND
 FANG,"Diamondback Energy, Inc",USA,NASDAQ,USD,Common Stock
 FANH,Fanhua Inc,USA,NASDAQ,USD,Common Stock
@@ -13431,7 +13402,9 @@ FCAPX,FRANKLIN INTERNATIONAL SMALL CAP GROWTH FUND CLASS R6,USA,NMFQS,USD,FUND
 FCAQX,FRANKLIN CALIFORNIA HIGH YIELD MUNICIPAL FUND CLASS R6,USA,NMFQS,USD,FUND
 FCASX,FIDELITY ASSET MANAGER 70% FIDELITY ADVISOR ASSET MANAGER 70%: CLASS C,USA,NMFQS,USD,FUND
 FCAVX,FRANKLIN CALIFORNIA TAX-FREE INCOME FUND FRANKLIN CALIFORNIA TAX-FREE INCOME FUND - ADVISOR CLASS,USA,NMFQS,USD,FUND
+FCAX,Fortress Capital Acquisition Corp,USA,NYSE,USD,Common Stock
 FCAX-U,Fortress Capital Acquisition Corp.,USA,NYSE,USD,Common Stock
+FCAX-WS,FCAX-WS,USA,NYSE,USD,Common Stock
 FCAZX,FRANKLIN COREFOLIO ALLOCATION FUND ADVISOR CLASS,USA,NMFQS,USD,FUND
 FCBAX,FIDELITY CORPORATE BOND FUND FIDELITY ADVISOR CORPORATE BOND FUND: CLASS A,USA,NMFQS,USD,FUND
 FCBBF,FinecoBank Banca Fineco S.p.A,USA,OTCGREY,USD,Common Stock
@@ -13575,6 +13548,7 @@ FCRD,"First Eagle Alternative Capital BDC, Inc",USA,NASDAQ,USD,Common Stock
 FCRDX,FIDELITY CONSERVATIVE INCOME MUNICIPAL BOND FUND FIDELITY CONSERVATIVE INCOME MUNICIPAL BOND FUND,USA,NMFQS,USD,FUND
 FCREX,FCREX,USA,NASDAQ,USD,FUND
 FCREY,Fletcher Building Limited,USA,PINK,USD,Common Stock
+FCRIF,FCR Immobilien AG,USA,OTCQX,USD,Common Stock
 FCRIX,FCRIX,USA,NASDAQ,USD,FUND
 FCRM,Franklin Credit Management Corporation,USA,PINK,USD,Common Stock
 FCRUX,FCRUX,USA,NASDAQ,USD,FUND
@@ -14288,6 +14262,7 @@ FHCDX,FIDELITY FREEDOM BLEND 2060 FUND CLASS K6,USA,NMFQS,USD,FUND
 FHCEX,FIDELITY FREEDOM BLEND 2020 FUND CLASS K,USA,NMFQS,USD,FUND
 FHCFX,FIDELITY FREEDOM BLEND 2045 FUND FIDELITY ADVISOR FREEDOM BLEND 2045 FUND: CLASS I,USA,NMFQS,USD,FUND
 FHCIX,FIDELITY ADVISOR HEALTH CARE FUND CLASS I,USA,NMFQS,USD,FUND
+FHCOX,FHCOX,USA,NMFQS,USD,Mutual Fund
 FHDCX,FIDELITY FREEDOM BLEND 2060 FUND FIDELITY ADVISOR FREEDOM BLEND 2060 FUND: CLASS Z6,USA,NMFQS,USD,FUND
 FHDDX,FIDELITY FREEDOM BLEND 2055 FUND CLASS K6,USA,NMFQS,USD,FUND
 FHDEX,FIDELITY FREEDOM BLEND 2040 FUND FIDELITY ADVISOR FREEDOM BLEND 2040 FUND: CLASS A,USA,NMFQS,USD,FUND
@@ -14491,6 +14466,7 @@ FIFRX,FRANKLIN GROWTH FUND CLASS R6,USA,NMFQS,USD,FUND
 FIFVX,FIFVX,USA,NMFQS,USD,FUND
 FIFWX,FIFWX,USA,NMFQS,USD,FUND
 FIFZX,FIDELITY SERIES BOND INDEX FUND,USA,NMFQS,USD,FUND
+FIGB,Fidelity Investment Grade Bond ETF,USA,NYSE ARCA,USD,ETF
 FIGCX,FIDELITY INTERNATIONAL GROWTH FUND FIDELITY ADVISOR INTERNATIONAL GROWTH FUND: CLASS C,USA,NMFQS,USD,FUND
 FIGFX,FIDELITY INTERNATIONAL GROWTH FUND FIDELITY INTERNATIONAL GROWTH FUND,USA,NMFQS,USD,FUND
 FIGIX,FEDERATED U S GOVERNMENT SECURITIES FUND 2-5 YEARS SERVICE SHARES,USA,NMFQS,USD,FUND
@@ -14869,6 +14845,7 @@ FLAIX,FRANKLIN LOUISIANA TAX-FREE INCOME FUND CLASS C,USA,NMFQS,USD,FUND
 FLAPX,FIDELITY FLEX MID CAP INDEX FUND FIDELITY FLEX MID CAP INDEX FUND,USA,NMFQS,USD,FUND
 FLAQX,Franklin Louisiana Tax-Free Income Fund6,USA,NMFQS,USD,FUND
 FLARX,PIONEER FLOATING RATE FUND PIONEER FLOATING RATE FUND: CLASS A,USA,NMFQS,USD,FUND
+FLASX,FLASX,USA,NMFQS,USD,Mutual Fund
 FLATX,FIDELITY LATIN AMERICA FUND FIDELITY LATIN AMERICA FUND,USA,NMFQS,USD,FUND
 FLAU,Franklin FTSE Australia ETF,USA,NYSE ARCA,USD,ETF
 FLAX,Franklin FTSE Asia ex Japan ETF,USA,NYSE ARCA,USD,ETF
@@ -14877,6 +14854,7 @@ FLBDX,TOTAL RETURN BOND FUND RETAIL CLASS,USA,NMFQS,USD,FUND
 FLBL,Franklin Liberty Senior Loan ETF,USA,BATS,USD,ETF
 FLBR,Franklin FTSE Brazil ETF,USA,NYSE ARCA,USD,ETF
 FLBSF,IQ-AI Limited,USA,PINK,USD,Common Stock
+FLBSX,FLBSX,USA,NMFQS,USD,Mutual Fund
 FLC,Flaherty & Crumrine Total Return Fund Inc,USA,NYSE,USD,FUND
 FLCA,Franklin FTSE Canada ETF,USA,NYSE ARCA,USD,ETF
 FLCB,Franklin Liberty US Core Bond ETF,USA,NYSE ARCA,USD,ETF
@@ -14914,6 +14892,7 @@ FLEIX,FLEIX,USA,NMFQS,USD,FUND
 FLEKX,Pioneer Flexible Opportunities Fund -,USA,NMFQS,USD,FUND
 FLERX,FRANKLIN LIFESMART 2030 RETIREMENT TARGET FUND CLASS R6,USA,NMFQS,USD,FUND
 FLES,"The 4Less Group, Inc",USA,OTCQB,USD,Common Stock
+FLESX,FLESX,USA,NMFQS,USD,Mutual Fund
 FLEW,Fleetwood Bank Corporation,USA,PINK,USD,Common Stock
 FLEX,Flex Ltd,USA,NASDAQ,USD,Common Stock
 FLFAX,FIDELITY LATIN AMERICA FUND FIDELITY ADVISOR LATIN AMERICA FUND: CLASS A,USA,NMFQS,USD,FUND
@@ -14923,6 +14902,7 @@ FLFG,"Federal Life Group, Inc",USA,PINK,USD,Common Stock
 FLFGX,GLOBAL OPPORTUNITIES FUND RETAIL CLASS,USA,NMFQS,USD,FUND
 FLFIX,FIDELITY LATIN AMERICA FUND FIDELITY ADVISOR LATIN AMERICA FUND: CLASS I,USA,NMFQS,USD,FUND
 FLFR,Franklin FTSE France ETF,USA,NYSE ARCA,USD,ETF
+FLFSX,FLFSX,USA,NMFQS,USD,Mutual Fund
 FLFTX,FIDELITY LATIN AMERICA FUND FIDELITY ADVISOR LATIN AMERICA FUND: CLASS T,USA,NMFQS,USD,FUND
 FLGB,Franklin FTSE United Kingdom ETF,USA,NYSE ARCA,USD,ETF
 FLGE,Credit Suisse FI Large Cap Growth Enhanced ETN,USA,NYSE ARCA,USD,ETF
@@ -14948,6 +14928,7 @@ FLIR,"FLIR Systems, Inc",USA,NASDAQ,USD,Common Stock
 FLIY,Franklin FTSE Italy ETF,USA,NYSE ARCA,USD,ETF
 FLJH,Franklin FTSE Japan Hedged ETF,USA,NYSE ARCA,USD,ETF
 FLJP,Franklin FTSE Japan ETF,USA,NYSE ARCA,USD,ETF
+FLJSX,FLJSX,USA,NMFQS,USD,Mutual Fund
 FLKDF,FIH group plc,USA,OTCGREY,USD,Common Stock
 FLKI,Falken Industries Ltd,USA,PINK,USD,Common Stock
 FLKR,Franklin FTSE South Korea ETF,USA,NYSE ARCA,USD,ETF
@@ -15507,6 +15488,7 @@ FOPIX,FIDELITY INTERNATIONAL SMALL CAP OPPORTUNITIES FUND FIDELITY ADVISOR INTER
 FOPPX,FRANKLIN GROWTH OPPORTUNITIES FUND CLASS R6,USA,NMFQS,USD,FUND
 FOPTX,FIDELITY INTERNATIONAL SMALL CAP OPPORTUNITIES FUND FIDELITY ADVISOR INTERNATIONAL SMALL CAP OPPORTUNITIES FUND: CLASS T,USA,NMFQS,USD,FUND
 FOR,Forestar Group Inc,USA,NYSE,USD,Common Stock
+FORA,"Medical Outcomes Research Analysis, LLC",USA,NASDAQ,USD,Common Stock
 FORCX,NUVEEN OREGON INTERMEDIATE MUNICIPAL BOND FUND CLASS I,USA,NMFQS,USD,FUND
 FORD,"Forward Industries, Inc",USA,NASDAQ,USD,Common Stock
 FOREU,Foresight Acquisition Corp,USA,NASDAQ,USD,Common Stock
@@ -15798,6 +15780,7 @@ FRIOX,FIDELITY REAL ESTATE INCOME FUND FIDELITY ADVISOR REAL ESTATE INCOME FUND:
 FRIQX,FIDELITY REAL ESTATE INCOME FUND FIDELITY ADVISOR REAL ESTATE INCOME FUND: CLASS T,USA,NMFQS,USD,FUND
 FRIRX,FIDELITY REAL ESTATE INCOME FUND FIDELITY ADVISOR REAL ESTATE INCOME FUND: CLASS I,USA,NMFQS,USD,FUND
 FRISX,FRANKLIN RISING DIVIDENDS FUND CLASS R6,USA,NMFQS,USD,FUND
+FRIVF,Fortune Real Estate Investment Trust,USA,PINK,USD,Common Stock
 FRKMX,FRKMX,USA,NMFQS,USD,FUND
 FRKQX,FRANKLIN KENTUCKY TAX-FREE INCOME FUND CLASS A,USA,NMFQS,USD,FUND
 FRKSX,NUVEEN KANSAS MUNICIPAL BOND FUND NUVEEN KANSAS MUNICIPAL BOND FUND - CLASS I,USA,NMFQS,USD,FUND
@@ -15855,6 +15838,7 @@ FRRVF,"Ferrovial, S.A",USA,PINK,USD,Common Stock
 FRRVY,"Ferrovial, S.A",USA,PINK,USD,Common Stock
 FRSAX,FEDERATED FLOATING RATE STRATEGIC INCOME FUND CLASS A SHARES,USA,NMFQS,USD,FUND
 FRSB,First Resource Bank,USA,OTCQX,USD,Common Stock
+FRSGU,First Reserve Sustainable Growth Corp. Unit,USA,NASDAQ,USD,Common Stock
 FRSGX,FRANKLIN SMALL-MID CAP GROWTH FUND CLASS A,USA,NMFQS,USD,FUND
 FRSHY,China Jinmao Holdings Group Limited,USA,PINK,USD,Common Stock
 FRSI,First Rate Staffing Corporation,USA,PINK,USD,Common Stock
@@ -15877,7 +15861,8 @@ FRTIF,Fortress REIT Limited,USA,OTCGREY,USD,Common Stock
 FRTIX,FRANKLIN TENNESSEE MUNICIPAL BOND FUND CLASS A,USA,NMFQS,USD,FUND
 FRTN,Fortran Corporation,USA,PINK,USD,Common Stock
 FRTSX,FRANKLIN LIFESMART 2020 RETIREMENT TARGET FUND CLASS R6,USA,NMFQS,USD,FUND
-FRTT,Fortitude Gold Corporation,USA,PINK,USD,Common Stock
+FRTT,Fortitude Gold Corporation,USA,OTCQB,USD,Common Stock
+FRTY,Alger Mid Cap 40 ETF,USA,NYSE ARCA,USD,ETF
 FRUAX,FRANKLIN UTILITIES FUND ADVISOR CLASS,USA,NMFQS,USD,FUND
 FRUGX,FRANKLIN U.S. GOVERNMENT SECURITIES FUND CLASS C,USA,NMFQS,USD,FUND
 FRURX,FRANKLIN UTILITIES FUND CLASS R,USA,NMFQS,USD,FUND
@@ -15948,12 +15933,14 @@ FSDK,The First Citizens National Bank of Upper Sandusky,USA,PINK,USD,Common Stoc
 FSDPX,MATERIALS PORTFOLIO MATERIALS PORTFOLIO,USA,NMFQS,USD,FUND
 FSEA,First Seacoast Bancorp,USA,NASDAQ,USD,Common Stock
 FSEAX,FIDELITY EMERGING ASIA FUND FIDELITY EMERGING ASIA FUND,USA,NMFQS,USD,FUND
+FSEC,Fidelity Investment Grade Securitized ETF,USA,NYSE ARCA,USD,ETF
 FSECX,Fa529 St Dv In C,USA,NMFQS,USD,FUND
 FSEGX,FSEGX,USA,NMFQS,USD,Mutual Fund
 FSEHX,FIDELITY SHORT DURATION HIGH INCOME FUND FIDELITY ADVISOR SHORT DURATION HIGH INCOME FUND: CLASS M,USA,NMFQS,USD,FUND
 FSEI,First Seismic Corp,USA,PINK,USD,Common Stock
 FSEIX,NUVEEN MID CAP VALUE FUND CLASS I,USA,NMFQS,USD,FUND
 FSELX,SEMICONDUCTORS PORTFOLIO SEMICONDUCTORS PORTFOLIO,USA,NMFQS,USD,FUND
+FSEN,FSEN,USA,OTCGREY,USD,Common Stock
 FSENX,ENERGY PORTFOLIO ENERGY PORTFOLIO,USA,NMFQS,USD,FUND
 FSEP,FT Cboe Vest U.S. Equity Buffer ETF - September,USA,BATS,USD,ETF
 FSERX,FRANKLIN REAL ESTATE SECURITIES FUND CLASS R6,USA,NMFQS,USD,FUND
@@ -16205,6 +16192,7 @@ FTEKX,FTEKX,USA,NMFQS,USD,Mutual Fund
 FTEMX,FIDELITY TOTAL EMERGING MARKETS FUND FIDELITY TOTAL EMERGING MARKETS FUND,USA,NMFQS,USD,FUND
 FTEQX,TEMPLETON EMERGING MARKETS SMALL CAP FUND CLASS R6,USA,NMFQS,USD,FUND
 FTESX,TEMPLETON EMERGING MARKETS SMALL CAP FUND CLASS R,USA,NMFQS,USD,FUND
+FTEV-U,FTEV-U,USA,NYSE,USD,Common Stock
 FTF,Franklin Limited Duration Income Trust,USA,NYSE MKT,USD,FUND
 FTFEX,FIDELITY ADVISOR FREEDOM 2030 FUND CLASS M,USA,NMFQS,USD,FUND
 FTFFX,FIDELITY ADVISOR FREEDOM 2040 FUND CLASS M,USA,NMFQS,USD,FUND
@@ -16218,7 +16206,7 @@ FTGAX,FRANKLIN GEORGIA TAX-FREE INCOME FUND CLASS A,USA,NMFQS,USD,FUND
 FTGC,First Trust Global Tactical Commodity Strategy Fund,USA,NASDAQ,USD,ETF
 FTGFF,Firan Technology Group Corporation,USA,PINK,USD,Common Stock
 FTGFX,"TEMPLETON GROWTH FUND, INC. CLASS R6",USA,NMFQS,USD,FUND
-FTGI,"Finotec Group, Inc",USA,PINK,USD,Common Stock
+FTGI,Lvpai Group Limited,USA,PINK,USD,Common Stock
 FTGLX,Federated Total Return Government Bond F,USA,NMFQS,USD,FUND
 FTGOX,SALIENT TACTICAL GROWTH FUND CLASS C,USA,NMFQS,USD,FUND
 FTGPF,FTGPF,USA,OTCGREY,USD,Common Stock
@@ -16879,6 +16867,7 @@ GBPAX,GLOBAL OPPORTUNITIES FUND ADVISER CLASS,USA,NMFQS,USD,FUND
 GBPIX,GLOBAL OPPORTUNITIES FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 GBPT,"Globe Photos, Inc",USA,PINK,USD,Common Stock
 GBR,"New Concept Energy, Inc",USA,NYSE MKT,USD,Common Stock
+GBRGU,Goldenbridge Acquisition Limited,USA,NASDAQ,USD,Common Stock
 GBRIF,Golden Band Resources Inc,USA,PINK,USD,Common Stock
 GBRRF,Gabriel Resources Ltd,USA,PINK,USD,Common Stock
 GBS,GBS Inc,USA,NASDAQ,USD,Common Stock
@@ -16914,6 +16903,7 @@ GCCFF,Golden Cariboo Resources Ltd,USA,OTCGREY,USD,Common Stock
 GCCHX,GMO CLIMATE CHANGE FUND CLASS III,USA,NMFQS,USD,FUND
 GCCIX,GOLDMAN SACHS COMMODITY STRATEGY FUND INSTITUTIONAL SHARES,USA,NMFQS,USD,FUND
 GCCLX,GCCLX,USA,NMFQS,USD,Fund
+GCCO,Garden City Co,USA,PINK,USD,Common Stock
 GCCRX,GOLDMAN SACHS COMMODITY STRATEGY FUND CLASS R,USA,NMFQS,USD,FUND
 GCCSX,THE GABELLI SMALL CAP GROWTH FUND CLASS C,USA,NMFQS,USD,FUND
 GCCTX,GOLDMAN SACHS COMMODITY STRATEGY FUND CLASS IR,USA,NMFQS,USD,FUND
@@ -17690,7 +17680,7 @@ GLDAX,GABELLI GOLD FUND INC CLASS A,USA,NMFQS,USD,FUND
 GLDCX,GABELLI GOLD FUND INC CLASS C,USA,NMFQS,USD,FUND
 GLDD,Great Lakes Dredge & Dock Corporation,USA,NASDAQ,USD,Common Stock
 GLDFF,Golden Leaf Holdings Ltd,USA,OTCQB,USD,Common Stock
-GLDG,GoldMining Inc,USA,PINK,USD,Common Stock
+GLDG,GoldMining Inc,USA,NYSE MKT,USD,Common Stock
 GLDI,Credit Suisse X-Links Gold Shares Covered Call ETN,USA,NASDAQ,USD,ETF
 GLDIX,GABELLI GOLD FUND INC CLASS I,USA,NMFQS,USD,FUND
 GLDM,SPDR Gold MiniShares,USA,NYSE ARCA,USD,ETF
@@ -17789,6 +17779,7 @@ GLRIX,JAMES BALANCED: GOLDEN RAINBOW FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 GLRP,Glen Rose Petroleum Corporation,USA,PINK,USD,Common Stock
 GLRY,Inspire Faithward Mid Cap Momentum ESG ETF,USA,NYSE ARCA,USD,ETF
 GLSCX,GREAT LAKES SMALL CAP OPPORTUNITY FUND INVESTOR CLASS SHARES,USA,NMFQS,USD,FUND
+GLSEF,Glorious Sun Enterprises Limited,USA,PINK,USD,Common Stock
 GLSI,"Greenwich LifeSciences, Inc",USA,NASDAQ,USD,Common Stock
 GLSIX,GREAT LAKES SMALL CAP OPPORTUNITY FUND INSTITUTIONAL CLASS SHARES,USA,NMFQS,USD,FUND
 GLSOX,Secured Options Portfolio Inst Class,USA,NMFQS,USD,FUND
@@ -17899,7 +17890,7 @@ GMLVX,Guidemark Large Cap Value Fun,USA,NMFQS,USD,FUND
 GMMFX,GOLDMAN SACHS MULTI-MANAGER ALTERNATIVES FUND CLASS R6 SHARES,USA,NMFQS,USD,FUND
 GMMPX,GOLDMAN SACHS MULTI-MANAGER ALTERNATIVES FUND CLASS P SHARES,USA,NMFQS,USD,FUND
 GMMRX,NATIONWIDE INVESTOR DESTINATIONS MODERATELY CONSERVATIVE FUND CLASS R,USA,NMFQS,USD,FUND
-GMMVF,G Medical Innovations Holdings Ltd,USA,OTCQB,USD,Common Stock
+GMMVF,G Medical Innovations Holdings Ltd,USA,PINK,USD,Common Stock
 GMNAX,GABELLI GLOBAL MINI MITES FUND CLASS A,USA,NMFQS,USD,FUND
 GMNCX,GMNCX,USA,NMFQS,USD,FUND
 GMND,Green Mountain Development Corp,USA,PINK,USD,Common Stock
@@ -18224,7 +18215,7 @@ GPORQ,Gulfport Energy Corporation,USA,NASDAQ,USD,Common Stock
 GPOTF,Gold Port Corporation,USA,PINK,USD,Common Stock
 GPOVF,"Grupo Carso, S.A.B. de C.V",USA,PINK,USD,Common Stock
 GPOVY,"Grupo Carso, S.A.B. de C.V",USA,PINK,USD,Common Stock
-GPOX,"GPO Plus, Inc",USA,PINK,USD,Common Stock
+GPOX,"GPO Plus, Inc",USA,OTCQB,USD,Common Stock
 GPP,Green Plains Partners LP,USA,NASDAQ,USD,Common Stock
 GPPAX,GOLDMAN SACHS SHORT-TERM CONSERVATIVE INCOME FUND ADMINISTRATION SHARES,USA,NMFQS,USD,FUND
 GPPIX,GOLDMAN SACHS SHORT-TERM CONSERVATIVE INCOME FUND INSTITUTIONAL SHARES,USA,NMFQS,USD,FUND
@@ -18388,6 +18379,7 @@ GRRAX,JAMES ALPHA MACRO PORTFOLIO JAMES ALPHA MACRO PORTFOLIO CLASS A SHARES,USA
 GRRB,GrandSouth Bancorporation,USA,OTCQX,USD,Common Stock
 GRRBP,GrandSouth Bancorporation PFD SER A,USA,PINK,USD,Common Stock
 GRRCX,JAMES ALPHA MACRO PORTFOLIO JAMES ALPHA MACRO PORTFOLIO CLASS C SHARES,USA,NMFQS,USD,FUND
+GRRDF,GrandVision N.V,USA,PINK,USD,Common Stock
 GRRGX,DEUTSCHE GNMA FUND CLASS R6,USA,NMFQS,USD,FUND
 GRRIX,JAMES ALPHA MACRO PORTFOLIO JAMES ALPHA MACRO PORTFOLIO CLASS I SHARES,USA,NMFQS,USD,FUND
 GRRLF,Grange Resources Ltd,USA,OTCGREY,USD,Common Stock
@@ -18422,7 +18414,7 @@ GRWWF,Great Wall Pan Asia Holdings Limited,USA,OTCGREY,USD,Common Stock
 GRWXF,Draper Esprit plc,USA,PINK,USD,Common Stock
 GRX,The Gabelli Healthcare & Wellness Trust,USA,NYSE,USD,Common Stock
 GRXMF,Marvel Gold Limited,USA,PINK,USD,Common Stock
-GRXXF,Graphite Energy Corp,USA,OTCGREY,USD,Common Stock
+GRXXF,Graphite Energy Corp,USA,PINK,USD,Common Stock
 GRYCF,Graycliff Exploration Limited,USA,OTCQB,USD,Common Stock
 GRYEF,"AU Min Africa PTY, LTD",USA,PINK,USD,Common Stock
 GRYG,"Green Energy Group, Inc",USA,PINK,USD,Common Stock
@@ -18456,7 +18448,9 @@ GSAMX,GOLDMAN SACHS HIGH QUALITY FLOATING RATE FUND CLASS A,USA,NMFQS,USD,FUND
 GSANX,GSANX,USA,NMFQS,USD,Fund
 GSAOX,GOLDMAN SACHS SMALL CAP GROWTH INSIGHTS FUND CLASS A,USA,NMFQS,USD,FUND
 GSAPX,GOLDMAN SACHS INFLATION PROTECTED SECURITIES FUND CLASS A,USA,NMFQS,USD,FUND
+GSAQ,Global Synergy Acquisition Corp,USA,NASDAQ,USD,Common Stock
 GSAQU,Global Synergy Acquisition Corp,USA,NASDAQ,USD,Common Stock
+GSAQW,Global Synergy Acquisition Corp,USA,NASDAQ,USD,Common Stock
 GSARX,GOLDMAN SACHS HIGH QUALITY FLOATING RATE FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
 GSASX,GOLDMAN SACHS HIGH QUALITY FLOATING RATE FUND SERVICE,USA,NMFQS,USD,FUND
 GSAT,"Globalstar, Inc",USA,NYSE MKT,USD,Common Stock
@@ -18559,6 +18553,7 @@ GSIH,"General Steel Holdings, Inc",USA,PINK,USD,Common Stock
 GSIHX,GOLDMAN SACHS GQG PARTNERS INTERNATIONAL OPPORTUNITIES FUND CLASS A SHARES,USA,NMFQS,USD,FUND
 GSIIX,GOLDMAN SACHS GROWTH AND INCOME FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
 GSIKX,GOLDMAN SACHS STRATEGIC INTERNATIONAL EQUITY FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
+GSIL,General Store International Corp,USA,OTCCE,USD,Common Stock
 GSILX,GOLDMAN SACHS GQG PARTNERS INTERNATIONAL OPPORTUNITIES FUND CLASS C SHARES,USA,NMFQS,USD,FUND
 GSIMX,GOLDMAN SACHS GQG PARTNERS INTERNATIONAL OPPORTUNITIES FUND INSTITUTIONAL SHARES,USA,NMFQS,USD,FUND
 GSINX,GOLDMAN SACHS GQG PARTNERS INTERNATIONAL OPPORTUNITIES FUND CLASS IR SHARES,USA,NMFQS,USD,FUND
@@ -18820,7 +18815,7 @@ GTLIX,Large Cap Core Portfolio Instl Shs,USA,NMFQS,USD,FUND
 GTLL,"Global Technologies, Ltd",USA,PINK,USD,Common Stock
 GTLLX,LARGE CAP GROWTH PORTFOLIO LARGE CAP GROWTH PORTFOLIO,USA,NMFQS,USD,FUND
 GTLOX,LARGE CAP CORE PORTFOLIO LARGE CAP CORE PORTFOLIO,USA,NMFQS,USD,FUND
-GTLS,"Chart Industries, Inc",USA,NYSE,USD,Common Stock
+GTLS,"Chart Industries, Inc",USA,NASDAQ,USD,Common Stock
 GTLSX,GTLSX,USA,NMFQS,USD,Fund
 GTMAF,GTMAF,USA,PINK,USD,Common Stock
 GTMAX,GOLDMAN SACHS TARGET DATE 2050 PORTFOLIO CLASS IR SHARES,USA,NMFQS,USD,FUND
@@ -19080,7 +19075,7 @@ GYIRX,GOLDMAN SACHS HIGH YIELD MUNICIPAL FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
 GYISX,GOLDMAN SACHS DYNAMIC MUNICIPAL INCOME FUND CLASS R6 SHARES,USA,NMFQS,USD,FUND
 GYLD,Arrow Dow Jones Global Yield ETF,USA,NYSE ARCA,USD,ETF
 GYNAF,Guyana Goldstrike Inc,USA,PINK,USD,Common Stock
-GYOG,"Green Energy Enterprises, Inc",USA,PINK,USD,Common Stock
+GYOG,"Green Energy Enterprises, Inc",USA,OTCCE,USD,Common Stock
 GYPHQ,Gryphon Gold Corporation,USA,PINK,USD,Common Stock
 GYRO,"Gyrodyne, LLC",USA,NASDAQ,USD,Common Stock
 GYRRF,Silver Wolf Exploration Ltd,USA,OTCGREY,USD,Common Stock
@@ -19305,7 +19300,7 @@ HCBSX,THE INTERMEDIATE TERM MUNICIPAL BOND II PORTFOLIO HC STRATEGIC SHARES,USA,
 HCC,"Warrior Met Coal, Inc",USA,NYSE,USD,Common Stock
 HCCA,Healthcare Corporation of America,USA,PINK,USD,Common Stock
 HCCAX,THE COMMODITY RETURNS STRATEGY PORTFOLIO HC ADVISORS SHARES,USA,NMFQS,USD,FUND
-HCCC,Healthcare Capital Corp. Class A common stock,USA,OTCQB,USD,Common Stock
+HCCC,Healthcare Capital Corp. Class A common stock,USA,NASDAQ,USD,Common Stock
 HCCCU,Healthcare Capital Corp,USA,NASDAQ,USD,Common Stock
 HCCEX,THE SMALL CAPITALIZATION - MID CAPITALIZATION EQUITY PORTFOLIO HC STRATEGIC SHARES,USA,NMFQS,USD,FUND
 HCCI,"Heritage-Crystal Clean, Inc",USA,NASDAQ,USD,Common Stock
@@ -19341,7 +19336,6 @@ HCIWX,THE INSTITUTIONAL GROWTH EQUITY PORTFOLIO HC ADVISORS SHARES,USA,NMFQS,USD
 HCKAX,THE HARTFORD CHECKS AND BALANCES FUND CLASS A,USA,NMFQS,USD,FUND
 HCKCX,THE HARTFORD CHECKS AND BALANCES FUND CLASS C,USA,NMFQS,USD,FUND
 HCKFX,THE HARTFORD CHECKS AND BALANCES FUND CLASS F,USA,NMFQS,USD,FUND
-HCKG,Hocking Valley Bancshares Inc,USA,PINK,USD,Common Stock
 HCKIX,THE HARTFORD CHECKS AND BALANCES FUND CLASS I,USA,NMFQS,USD,FUND
 HCKRX,THE HARTFORD CHECKS AND BALANCES FUND CLASS R3,USA,NMFQS,USD,FUND
 HCKSX,THE HARTFORD CHECKS AND BALANCES FUND CLASS R4,USA,NMFQS,USD,FUND
@@ -19522,6 +19516,7 @@ HEPZF,Horizons Enhanced Income Gold Producers ETF,USA,PINK,USD,ETF
 HEQ,John Hancock Hedged Equity & Income Fund,USA,NYSE,USD,FUND
 HEQCX,THE HENSSLER EQUITY FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 HEQFX,THE HENSSLER EQUITY FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
+HERAU,FTAC Hera Acquisition Corp,USA,NASDAQ,USD,Common Stock
 HERAX,HARTFORD EMERGING MARKETS EQUITY FUND CLASS A,USA,NMFQS,USD,FUND
 HERB,YaSheng Group,USA,PINK,USD,Common Stock
 HERC,H.E.R.C. Products Inc,USA,OTCCE,USD,Common Stock
@@ -19717,6 +19712,7 @@ HGXTX,HARTFORD GLOBAL IMPACT FUND CLASS R5,USA,NMFQS,USD,FUND
 HGXVX,HARTFORD GLOBAL IMPACT FUND CLASS R6,USA,NMFQS,USD,FUND
 HGXYX,HARTFORD GLOBAL IMPACT FUND CLASS Y,USA,NMFQS,USD,FUND
 HGYMF,"Hogy Medical Co.,Ltd",USA,OTCGREY,USD,Common Stock
+HHBHF,Hartalega Holdings Berhad,USA,OTCGREY,USD,Common Stock
 HHBT,HH Biotechnology Holdings Company,USA,PINK,USD,Common Stock
 HHBUX,HANCOCK HORIZON BURKENROAD SMALL CAP FUND CLASS A SHARES,USA,NMFQS,USD,FUND
 HHC,The Howard Hughes Corporation,USA,NYSE,USD,Common Stock
@@ -20016,7 +20012,7 @@ HLVTY,Helvetia Holding AG,USA,OTCGREY,USD,Common Stock
 HLWD,Almost Never Films Inc,USA,PINK,USD,Common Stock
 HLX,"Helix Energy Solutions Group, Inc",USA,NYSE,USD,Common Stock
 HLXA,Helix Acquisition Corp,USA,NASDAQ,USD,Common Stock
-HLXW,"Helix Wind, Corp",USA,PINK,USD,Common Stock
+HLXW,"Helix Wind, Corp",USA,OTCCE,USD,Common Stock
 HLYK,HealthLynked Corp,USA,OTCQB,USD,Common Stock
 HMAGF,home24 SE,USA,PINK,USD,Common Stock
 HMC,"Honda Motor Co., Ltd",USA,NYSE,USD,Common Stock
@@ -20034,7 +20030,7 @@ HMDPF,Hammond Power Solutions Inc,USA,OTCGREY,USD,Common Stock
 HMDYX,THE HARTFORD MIDCAP FUND CLASS Y,USA,NMFQS,USD,FUND
 HMEAX,HIGHLAND MERGER ARBITRAGE FUND CLASS A,USA,NMFQS,USD,FUND
 HMECX,HIGHLAND MERGER ARBITRAGE FUND CLASS C,USA,NMFQS,USD,FUND
-HMENF,Hemisphere Energy Corporation,USA,PINK,USD,Common Stock
+HMENF,Hemisphere Energy Corporation,USA,OTCQB,USD,Common Stock
 HMEZX,HIGHLAND MERGER ARBITRAGE FUND CLASS Z,USA,NMFQS,USD,FUND
 HMG,"HMG/Courtland Properties, Inc",USA,NYSE MKT,USD,Common Stock
 HMGN,"Hemagen Diagnostics, Inc",USA,PINK,USD,Common Stock
@@ -20080,6 +20076,7 @@ HMPT,Home Point Capital Inc,USA,NASDAQ,USD,Common Stock
 HMRRF,Hammer Metals Limited,USA,OTCGREY,USD,Common Stock
 HMRZF,H & M Hennes & Mauritz AB (publ),USA,PINK,USD,Common Stock
 HMSFX,Hennessy BP Midstream Fund - Investor Class,USA,NMFQS,USD,FUND
+HMSI,"HMS Income Fund, Inc",USA,OTCGREY,USD,Common Stock
 HMSIX,Hennessy BP Midstream Fund - Institutional Class,USA,NMFQS,USD,FUND
 HMSNF,Hammerson plc,USA,PINK,USD,Common Stock
 HMST,"HomeStreet, Inc",USA,NASDAQ,USD,Common Stock
@@ -20154,6 +20151,7 @@ HNP,"Huaneng Power International, Inc",USA,NYSE,USD,Common Stock
 HNRAX,HIGHLAND OPPORTUNISTIC CREDIT FUND CLASS A,USA,NMFQS,USD,FUND
 HNRC,Houston Natural Resources Corp,USA,PINK,USD,Common Stock
 HNRCX,HIGHLAND OPPORTUNISTIC CREDIT FUND CLASS C,USA,NMFQS,USD,FUND
+HNRDF,Hansard Global Plc,USA,PINK,USD,Common Stock
 HNRG,Hallador Energy Company,USA,NASDAQ,USD,Common Stock
 HNRGX,Hennessy BP Energy Fund - Investor Class,USA,NMFQS,USD,FUND
 HNRIX,Hennessy BP Energy Fund - Institutional Class,USA,NMFQS,USD,FUND
@@ -20729,6 +20727,7 @@ HYDN,"Hayden Hall, Inc",USA,OTCCE,USD,Common Stock
 HYDW,Xtrackers Low Beta High Yield Bond ETF,USA,NYSE ARCA,USD,ETF
 HYEG,"Hydrogen Engine Center, Inc",USA,PINK,USD,Common Stock
 HYEM,VanEck Vectors Emerging Markets High Yield Bond ETF,USA,NYSE ARCA,USD,ETF
+HYEX,HYEX,USA,OTCQB,USD,Common Stock
 HYFAX,HARBOR HIGH-YIELD BOND FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 HYFIX,HARBOR HIGH-YIELD BOND FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 HYFM,"Hydrofarm Holdings Group, Inc",USA,NASDAQ,USD,Common Stock
@@ -21143,7 +21142,7 @@ IDAIX,IVY PROSHARES S&P 500 DIVIDEND ARISTOCRATS INDEX FUND CLASS I,USA,NMFQS,US
 IDAM,Idarado Mining Company,USA,PINK,USD,Common Stock
 IDANX,IVY PROSHARES S&P 500 DIVIDEND ARISTOCRATS INDEX FUND CLASS N,USA,NMFQS,USD,FUND
 IDARX,IVY PROSHARES S&P 500 DIVIDEND ARISTOCRATS INDEX FUND CLASS R,USA,NMFQS,USD,FUND
-IDBA,IDEX Biometrics ASA,USA,,USD,Common Stock
+IDBA,IDEX Biometrics ASA,USA,NASDAQ,USD,Common Stock
 IDBHF,"Industrias Bachoco, S.A.B. de C.V",USA,OTCGREY,USD,Common Stock
 IDCBF,Industrial and Commercial Bank of China Limited,USA,PINK,USD,Common Stock
 IDCBY,Industrial and Commercial Bank of China Limited,USA,PINK,USD,Common Stock
@@ -21157,7 +21156,7 @@ IDEX,"Ideanomics, Inc",USA,NASDAQ,USD,Common Stock
 IDEXF,"Industria de Diseño Textil, S.A",USA,PINK,USD,Common Stock
 IDEXY,"Industria de Diseño Textil, S.A",USA,PINK,USD,Common Stock
 IDFB,Idaho First Bank,USA,PINK,USD,Common Stock
-IDFCFIRSTB,IDFC First Bank Ltd,USA,,USD,
+IDFCFIRSTB,IDFC First Bank Ltd,USA,,USD,Common Stock
 IDGBF,Indigo Books & Music Inc,USA,OTCGREY,USD,Common Stock
 IDGC,ID Global Corporation,USA,PINK,USD,Common Stock
 IDGGW,Interpace Diagnostics Group Inc Wt Exp 06/20/2022,USA,PINK,USD,Common Stock
@@ -21559,6 +21558,7 @@ IICN,"China Intelligence Information Systems, Inc",USA,PINK,USD,Common Stock
 IICNX,IVY GLOBAL EQUITY INCOME FUND CLASS N,USA,NMFQS,USD,FUND
 IICWX,VOYA MULTI-MANAGER INTERNATIONAL FACTORS FUND CLASS W,USA,NMFQS,USD,FUND
 IID,Voya International High Dividend Equity Income Fund,USA,NYSE,USD,FUND
+IIDDY,IGO Limited,USA,PINK,USD,Common Stock
 IIF,"Morgan Stanley India Investment Fund, Inc",USA,NYSE,USD,FUND
 IIFAX,VY(R) FRANKLIN INCOME PORTFOLIO CLASS ADV,USA,NMFQS,USD,FUND
 IIFBX,IVY INTERNATIONAL CORE EQUITY FUND CLASS B,USA,NMFQS,USD,FUND
@@ -21577,7 +21577,7 @@ IIII,INSU Acquisition Corp. III,USA,NASDAQ,USD,Common Stock
 IIIIU,INSU Acquisition Corp. III,USA,NASDAQ,USD,Common Stock
 IIIIW,INSU Acquisition Corp. III,USA,NASDAQ,USD,Common Stock
 IIIIX,VOYA INTERNATIONAL INDEX PORTFOLIO CLASS I,USA,NMFQS,USD,FUND
-IIIN,"Insteel Industries, Inc",USA,NASDAQ,USD,Common Stock
+IIIN,"Insteel Industries, Inc",USA,NYSE,USD,Common Stock
 IIINX,THRIVENT OPPORTUNITY INCOME PLUS FUND CLASS S,USA,NMFQS,USD,FUND
 IIIPX,VOYA INDEX SOLUTION INCOME PORTFOLIO CLASS S2,USA,NMFQS,USD,FUND
 IIIRX,IVY PROSHARES INTEREST RATE HEDGED HIGH YIELD INDEX FUND CLASS I,USA,NMFQS,USD,FUND
@@ -21710,7 +21710,7 @@ IMBI,"iMedia Brands, Inc",USA,NASDAQ,USD,Common Stock
 IMBIX,IVY MUNICIPAL BOND FUND CLASS I,USA,NMFQS,USD,FUND
 IMBNX,IVY MUNICIPAL BOND FUND CLASS N,USA,NMFQS,USD,FUND
 IMBXF,iShares IV Public Limited Company - iShares US Mortgage Backed Securities UCITS ETF,USA,OTCGREY,USD,ETF
-IMCC,IM Cannabis Corp,USA,NASDAQ,USD,Common Stock
+IMCC,IM Cannabis Corp,USA,PINK,USD,Common Stock
 IMCDX,VOYA EMERGING MARKETS CORPORATE DEBT FUND CLASS P,USA,NMFQS,USD,FUND
 IMCDY,IMCD N.V,USA,OTCGREY,USD,Common Stock
 IMCEX,IVY MID CAP GROWTH FUND CLASS E,USA,NMFQS,USD,FUND
@@ -21790,7 +21790,7 @@ IMPHO,"Impac Mortgage Holdings, Inc",USA,PINK,USD,Common Stock
 IMPHP,"Impac Mortgage Holdings, Inc",USA,PINK,USD,Common Stock
 IMPJY,Webuild S.p.A,USA,PINK,USD,Common Stock
 IMPLX,ENTREPRENEUR US LARGE CAP FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
-IMPNF,Imperial Mining Group Ltd,USA,PINK,USD,Common Stock
+IMPNF,Imperial Mining Group Ltd,USA,OTCQB,USD,Common Stock
 IMPPF,Invesco Markets II plc - Invesco Preferred Shares UCITS ETF,USA,OTCGREY,USD,ETF
 IMPUF,Impala Platinum Holdings Limited,USA,PINK,USD,Common Stock
 IMPUY,Impala Platinum Holdings Limited,USA,OTCQX,USD,Common Stock
@@ -21854,7 +21854,6 @@ INCAX,JAMES ALPHA HEDGED HIGH INCOME PORTFOLIO CLASS A SHARES,USA,NMFQS,USD,FUND
 INCC,"International Consolidated Companies, Inc",USA,PINK,USD,Common Stock
 INCCX,JAMES ALPHA HEDGED HIGH INCOME PORTFOLIO CLASS C SHARES,USA,NMFQS,USD,FUND
 INCIX,JAMES ALPHA HEDGED HIGH INCOME PORTFOLIO CLASS I SHARES,USA,NMFQS,USD,FUND
-INCKF,Revelo Resources Corp,USA,OTCGREY,USD,Common Stock
 INCLX,TRANSAMERICA HIGH YIELD BOND C,USA,NMFQS,USD,FUND
 INCMX,FUNDX FLEXIBLE INCOME FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 INCO,Columbia India Consumer ETF,USA,NYSE ARCA,USD,ETF
@@ -21918,11 +21917,13 @@ INITF,iShares Core Canadian Short Term Bond Index ETF,USA,OTCGREY,USD,ETF
 INIVX,INTERNATIONAL INVESTORS GOLD FUND CLASS A,USA,NMFQS,USD,FUND
 INIX,IFinix Corporation,USA,OTCCE,USD,Common Stock
 INIYX,INTERNATIONAL INVESTORS GOLD FUND CLASS Y,USA,NMFQS,USD,FUND
+INKA,Kludein I Acquisition Corp,USA,NASDAQ,USD,Common Stock
 INKAU,Kludein I Acquisition Corp,USA,NASDAQ,USD,Common Stock
+INKAW,Kludein I Acquisition Corp,USA,NASDAQ,USD,Common Stock
 INKM,SPDR SSgA Income Allocation ETF,USA,NYSE ARCA,USD,ETF
 INKW,"Greene Concepts, Inc",USA,PINK,USD,Common Stock
 INLAF,Interlapse Technologies Corp,USA,OTCGREY,USD,Common Stock
-INLB,Item 9 Labs Corp,USA,OTCQX,USD,Common Stock
+INLB,Item 9 Labs Corp,USA,PINK,USD,Common Stock
 INLX,"Intellinetics, Inc",USA,OTCQB,USD,Common Stock
 INM,InMed Pharmaceuticals Inc,USA,NASDAQ,USD,Common Stock
 INMB,"INmune Bio, Inc",USA,NASDAQ,USD,Common Stock
@@ -21980,6 +21981,7 @@ INT,World Fuel Services Corporation,USA,NYSE,USD,Common Stock
 INTAF,Intact Financial Corporation,USA,PINK,USD,Common Stock
 INTAX,COLUMBIA STRATEGIC MUNICIPAL INCOME FUND COLUMBIA STRATEGIC MUNICIPAL INCOME FUND CLASS A,USA,NMFQS,USD,FUND
 INTB,INTB,USA,PINK,USD,Common Stock
+INTBD,INTBD,USA,PINK,USD,Common Stock
 INTC,Intel Corporation,USA,NASDAQ,USD,Common Stock
 INTEQ,Intelsat S.A,USA,PINK,USD,Common Stock
 INTF,iShares Edge MSCI Multifactor Intl ETF,USA,NYSE ARCA,USD,ETF
@@ -21999,7 +22001,6 @@ INTZ,Intrusion Inc,USA,NASDAQ,USD,Common Stock
 INUTX,COLUMBIA DIVIDEND OPPORTUNITY FUND COLUMBIA DIVIDEND OPPORTUNITY FUND CLASS A,USA,NMFQS,USD,FUND
 INUV,"Inuvo, Inc",USA,NYSE MKT,USD,Common Stock
 INVA,"Innoviva, Inc",USA,NASDAQ,USD,Common Stock
-INVB,InventaBioTech Inc,USA,OTCCE,USD,Common Stock
 INVE,"Identiv, Inc",USA,NASDAQ,USD,Common Stock
 INVH,Invitation Homes Inc,USA,NYSE,USD,Common Stock
 INVI,"Integral Vision, Inc",USA,PINK,USD,Common Stock
@@ -22148,6 +22149,7 @@ IPOYX,IVY EMERGING MARKETS EQUITY FUND CLASS Y,USA,NMFQS,USD,FUND
 IPPIF,iShares II Public Limited Company - iShares Listed Private Equity UCITS ETF,USA,OTCGREY,USD,ETF
 IPPLF,Inter Pipeline Ltd,USA,PINK,USD,Common Stock
 IPPPX,PREFERRED PLUS CLASS I,USA,NMFQS,USD,FUND
+IPPTF,Impact Minerals Limited,USA,OTCGREY,USD,Common Stock
 IPRC,"Imperial Resources, Inc",USA,PINK,USD,Common Stock
 IPREX,IVY PROSHARES S&P 500 BOND INDEX FUND CLASS E,USA,NMFQS,USD,FUND
 IPRIX,IVY PROSHARES S&P 500 BOND INDEX FUND CLASS I,USA,NMFQS,USD,FUND
@@ -22171,10 +22173,13 @@ IPV-U,IPV-U,USA,NYSE,USD,Common Stock
 IPV-UN,InterPrivate Acquisition Corp,USA,NASDAQ,USD,Common Stock
 IPV-WS,IPV-WS,USA,NYSE,USD,Common Stock
 IPV-WT,IPV-WT,USA,NASDAQ,USD,Common Stock
-IPWG,International Power Group Ltd ,USA,PINK,USD,Common Stock
+IPVA-U,IPVA-U,USA,NYSE,USD,Common Stock
+IPVF-U,IPVF-U,USA,NYSE,USD,Common Stock
+IPVIU,InterPrivate IV InfraTech Partners Inc. Units,USA,NASDAQ,USD,Common Stock
+IPWG,International Power Group Ltd ,USA,OTCCE,USD,Common Stock
 IPWLK,AES Indiana,USA,PINK,USD,Common Stock
-IPWLN,Indianapolis Power &amp; Light Company PFD 4.80% CDT,USA,PINK,USD,Common Stock
-IPWLP,Indianapolis Power &amp; Light Company PFD 4%,USA,PINK,USD,Common Stock
+IPWLN,Indianapolis Power & Light Company PFD 4.80% CDT,USA,PINK,USD,Common Stock
+IPWLP,Indianapolis Power & Light Company PFD 4%,USA,PINK,USD,Common Stock
 IPWR,Ideal Power Inc,USA,NASDAQ,USD,Common Stock
 IPXAF,Impax Asset Management Group plc,USA,PINK,USD,Common Stock
 IPXHF,Inpex Corporation,USA,PINK,USD,Common Stock
@@ -22480,6 +22485,7 @@ ISOLX,VOYA TARGET IN-RETIREMENT FUND CLASS I,USA,NMFQS,USD,FUND
 ISON,Isonics Corporation,USA,OTCCE,USD,Common Stock
 ISOPX,VOYA SMALLCAP OPPORTUNITIES PORTFOLIO CLASS ADV,USA,NMFQS,USD,FUND
 ISORX,ING Smallcap Opportunities Fd,USA,NMFQS,USD,FUND
+ISOS-U,ISOS-U,USA,NYSE,USD,Common Stock
 ISOWX,VOYA SMALLCAP OPPORTUNITIES FUND CLASS W,USA,NMFQS,USD,FUND
 ISOZX,VOYA SMALLCAP OPPORTUNITIES FUND CLASS R6,USA,NMFQS,USD,FUND
 ISPBX,VOYA SOLUTION 2025 PORTFOLIO CLASS S2,USA,NMFQS,USD,FUND
@@ -22522,7 +22528,6 @@ ISSDY,ISS A/S,USA,PINK,USD,Common Stock
 ISSFF,CopAur Minerals Inc,USA,OTCGREY,USD,Common Stock
 ISSHF,iShares II Public Limited Company - iShares $ Treasury Bond 7-10yr UCITS ETF,USA,OTCGREY,USD,ETF
 ISSIF,iShares III Public Limited Company - iShares Global Inflation Linked Government Bond UCITS ETF,USA,PINK,USD,ETF
-ISSPF,iShares III Public Limited Company - iShares Global Government Bond UCITS ETF,USA,OTCGREY,USD,ETF
 ISSPX,VOYA SOLUTION 2055 PORTFOLIO CLASS S,USA,NMFQS,USD,FUND
 ISSQF,iShares Public Limited Company - iShares Global High Yield Corp Bond UCITS ETF,USA,OTCGREY,USD,ETF
 ISSRF,iShares VI Public Limited Company - iShares Edge MSCI EM Minimum Volatility UCITS ETF,USA,OTCGREY,USD,ETF
@@ -22705,7 +22710,7 @@ IUERX,JPMORGAN INTERNATIONAL UNCONSTRAINED EQUITY FUND CLASS R2,USA,NMFQS,USD,FU
 IUESX,JPMORGAN INTERNATIONAL UNCONSTRAINED EQUITY FUND SELECT CLASS,USA,NMFQS,USD,FUND
 IUGNF,Imugene Limited,USA,PINK,USD,Common Stock
 IUGXX,Invesco Treasurers Series Trust - Invesco Premier U.S. Government Money Portfolio,USA,NASDAQ,USD,FUND
-IUNSF,iShares S&amp;P/TSX Capped Energy Index ETF,USA,OTCGREY,USD,ETF
+IUNSF,iShares S&P/TSX Capped Energy Index ETF,USA,OTCGREY,USD,ETF
 IUNTF,iShares MSCI EAFE Index ETF (CAD-Hedged),USA,OTCGREY,USD,ETF
 IUQFF,IUQFF,USA,OTCGREY,USD,Common Stock
 IUS,Invesco RAFI Strategic US ETF,USA,NASDAQ,USD,ETF
@@ -22729,6 +22734,7 @@ IVAEX,IVY ASSET STRATEGY FUND CLASS I,USA,NMFQS,USD,FUND
 IVAL,Alpha Architect International Quantitative Value ETF,USA,BATS,USD,ETF
 IVALX,IVY VALUE FUND CLASS N,USA,NMFQS,USD,FUND
 IVAN-U,IVAN-U,USA,NYSE,USD,Common Stock
+IVAN-WS,IVAN-WS,USA,NYSE,USD,Common Stock
 IVATF,IVATF,USA,OTCGREY,USD,Common Stock
 IVBDX,IVY GLOBAL BOND FUND CLASS N,USA,NMFQS,USD,FUND
 IVBEX,IVY ADVANTUS BOND FUND CLASS E,USA,NMFQS,USD,FUND
@@ -23015,7 +23021,7 @@ JAGAX,JANUS ADAPTIVE GLOBAL ALLOCATION FUND CLASS A,USA,NMFQS,USD,FUND
 JAGCX,JANUS GLOBAL TECHNOLOGY FUND CLASS C,USA,NMFQS,USD,FUND
 JAGDX,JANUS ADAPTIVE GLOBAL ALLOCATION FUND CLASS D,USA,NMFQS,USD,FUND
 JAGG,JPMorgan U.S. Aggregate Bond ETF,USA,NYSE ARCA,USD,ETF
-JAGGF,Jaguar Mining Inc,USA,PINK,USD,Common Stock
+JAGGF,Jaguar Mining Inc,USA,OTCQX,USD,Common Stock
 JAGGX,JAGGX,USA,NMFQS,USD,FUND
 JAGIX,JANUS GROWTH AND INCOME FUND CLASS T,USA,NMFQS,USD,FUND
 JAGLX,JANUS GLOBAL LIFE SCIENCES FUND CLASS T,USA,NMFQS,USD,FUND
@@ -23548,6 +23554,7 @@ JHCCX,ABSOLUTE RETURN CURRENCY FUND CLASS R2,USA,NMFQS,USD,FUND
 JHCIX,CHINA EMERGING LEADERS FUND CLASS I,USA,NMFQS,USD,FUND
 JHCPX,CAPITAL APPRECIATION FUND CLASS NAV,USA,NMFQS,USD,FUND
 JHCS,John Hancock Multifactor Media and Communications ETF,USA,NYSE ARCA,USD,ETF
+JHDCX,SHORT DURATION CREDIT OPPORTUNITIES FUND CLASS R4,USA,NMFQS,USD,FUND
 JHEIX,EQUITY INCOME FUND CLASS A,USA,NMFQS,USD,FUND
 JHEM,John Hancock Multifactor Emerging Markets ETF,USA,NYSE ARCA,USD,ETF
 JHEMX,EMERGING MARKETS DEBT FUND CLASS R2,USA,NMFQS,USD,FUND
@@ -23763,6 +23770,7 @@ JJS,iPath Series B Bloomberg Softs Subindex Total Return ETN,USA,NYSE ARCA,USD,E
 JJSF,J & J Snack Foods Corp,USA,NASDAQ,USD,Common Stock
 JJSSF,iPath Bloomberg Softs Subindex Total Return(SM) ETN,USA,PINK,USD,ETF
 JJT,iPath Series B Bloomberg Tin Subindex Total Return ETN,USA,NYSE ARCA,USD,ETF
+JJTFF,iPath Bloomberg Tin Subindex Total Return(SM) ETN,USA,PINK,USD,ETF
 JJU,iPath Series B Bloomberg Aluminum Subindex Total Return ETN,USA,NYSE ARCA,USD,ETF
 JJUFF,iPath Bloomberg Aluminum Subindex Total Return(SM) ETN,USA,PINK,USD,ETF
 JKD,iShares Morningstar Large-Cap ETF,USA,NYSE ARCA,USD,ETF
@@ -23988,7 +23996,7 @@ JNGLX,JANUS GLOBAL LIFE SCIENCES FUND CLASS D,USA,NMFQS,USD,FUND
 JNGOX,PERKINS GLOBAL VALUE FUND CLASS D,USA,NMFQS,USD,FUND
 JNGSX,Janus Global Real Estate Fund D Share,USA,NMFQS,USD,FUND
 JNGTX,JANUS GLOBAL TECHNOLOGY FUND CLASS D,USA,NMFQS,USD,FUND
-JNHMF,Jack Nathan Medical Corp,USA,PINK,USD,Common Stock
+JNHMF,Jack Nathan Medical Corp,USA,OTCQB,USD,Common Stock
 JNHYX,JANUS HIGH-YIELD FUND CLASS D,USA,NMFQS,USD,FUND
 JNJ,Johnson & Johnson,USA,NYSE,USD,Common Stock
 JNK,SPDR Bloomberg Barclays High Yield Bond ETF,USA,NYSE ARCA,USD,ETF
@@ -24304,6 +24312,7 @@ JSCHX,JPMORGAN SMALL CAP BLEND FUND CLASS R6,USA,NMFQS,USD,FUND
 JSCIX,INTERNATIONAL SMALL COMPANY FUND CLASS I,USA,NMFQS,USD,FUND
 JSCNX,JSCNX,USA,NMFQS,USD,Mutual Fund
 JSCOX,PERKINS SMALL CAP VALUE FUND CLASS I,USA,NMFQS,USD,FUND
+JSCP,JPMorgan Short Duration Core Plus ETF,USA,NYSE ARCA,USD,ETF
 JSCPF,JSR Corporation,USA,PINK,USD,Common Stock
 JSCPY,JSR Corporation,USA,PINK,USD,Common Stock
 JSCRX,"PRUDENTIAL JENNISON SMALL COMPANY FUND, INC. CLASS R",USA,NMFQS,USD,FUND
@@ -24759,7 +24768,7 @@ KDHRX,DEUTSCHE CROCI EQUITY DIVIDEND FUND CLASS R,USA,NMFQS,USD,FUND
 KDHSX,DEUTSCHE CROCI EQUITY DIVIDEND FUND CLASS S,USA,NMFQS,USD,FUND
 KDHTX,Deutsche CROCI Equity Dividend Fund Cl R,USA,NMFQS,USD,FUND
 KDHUX,Deutsche CROCI Equity Dividend Fund Cl T,USA,NMFQS,USD,FUND
-KDKCF,Kodiak Copper Corp,USA,PINK,USD,Common Stock
+KDKCF,Kodiak Copper Corp,USA,OTCQB,USD,Common Stock
 KDKGF,Klondike Gold Corp,USA,OTCGREY,USD,Common Stock
 KDKN,Kodiak Energy Inc,USA,PINK,USD,Common Stock
 KDMN,"Kadmon Holdings, Inc",USA,NASDAQ,USD,Common Stock
@@ -24909,13 +24918,14 @@ KKPT,KoKo Petroleum Inc,USA,OTCCE,USD,Common Stock
 KKR,KKR & Co. Inc,USA,NYSE,USD,Common Stock
 KKR-PA,KKR & Co. Inc,USA,NYSE,USD,Preferred Share
 KKR-PB,KKR & Co. Inc,USA,NYSE,USD,Preferred Share
+KKRAF,"Katakura Industries Co.,Ltd",USA,PINK,USD,Common Stock
 KKUR,"ChromoCure, Inc",USA,OTCCE,USD,Common Stock
 KKWFF,Royal Boskalis Westminster N.V,USA,PINK,USD,Common Stock
 KL,Kirkland Lake Gold Ltd,USA,NYSE,USD,Common Stock
 KLAC,KLA Corporation,USA,NASDAQ,USD,Common Stock
-KLAQ,KL Acquisition Corp,USA,,USD,Common Stock
+KLAQ,KL Acquisition Corp,USA,NASDAQ,USD,Common Stock
 KLAQU,KL Acquisition Corp,USA,NASDAQ,USD,Common Stock
-KLAQW,KL Acquisition Corp,USA,,USD,Common Stock
+KLAQW,KL Acquisition Corp,USA,NASDAQ,USD,Common Stock
 KLBAY,Klabin S.A,USA,PINK,USD,Common Stock
 KLCAX,FEDERATED KAUFMANN LARGE CAP FUND CLASS A SHARES,USA,NMFQS,USD,FUND
 KLCCX,FEDERATED KAUFMANN LARGE CAP FUND CLASS C SHARES,USA,NMFQS,USD,FUND
@@ -25059,6 +25069,7 @@ KOLR,"Kolorfusion International, Inc",USA,OTCCE,USD,Common Stock
 KOMN,Komax Holding AG,USA,,USD,Common Stock
 KOMP,SPDR S&P Kensho New Economies Composite ETF,USA,NYSE ARCA,USD,ETF
 KONAQ,"Kona Grill, Inc",USA,PINK,USD,Common Stock
+KONMY,Konami Holdings Corporation,USA,PINK,USD,Common Stock
 KOOYF,Kootenay Silver Inc,USA,PINK,USD,Common Stock
 KOP,Koppers Holdings Inc,USA,NYSE,USD,Common Stock
 KOPN,Kopin Corporation,USA,NASDAQ,USD,Common Stock
@@ -25230,6 +25241,7 @@ KVIL,"Kidville, Inc",USA,PINK,USD,Common Stock
 KVLE,KFA Value Line Dynamic Core Equity Index ETF,USA,NYSE ARCA,USD,ETF
 KVLQF,ValOre Metals Corp,USA,OTCGREY,USD,Common Stock
 KVMD,"Kelvin Medical, Inc",USA,OTCCE,USD,Common Stock
+KVSA,Khosla Ventures Acquisition Co,USA,NASDAQ,USD,Common Stock
 KW,"Kennedy-Wilson Holdings, Inc",USA,NYSE,USD,Common Stock
 KWAC,Kingswood Acquisition Corp,USA,NYSE,USD,Common Stock
 KWAC-U,KWAC-U,USA,NYSE,USD,Common Stock
@@ -25642,7 +25654,7 @@ LDGSX,LDGSX,USA,NMFQS,USD,Fund
 LDGVX,LDGVX,USA,NMFQS,USD,Fund
 LDGYX,LDGYX,USA,NMFQS,USD,Fund
 LDGYY,Landis+Gyr Group AG,USA,PINK,USD,Common Stock
-LDI,"loanDepot, Inc",USA,NASDAQ,USD,Common Stock
+LDI,"loanDepot, Inc",USA,NYSE,USD,Common Stock
 LDI_old,"loanDepot, Inc",USA,NYSE,USD,Common Stock
 LDIFX,QS GLOBAL DIVIDEND FUND CLASS IS,USA,NMFQS,USD,FUND
 LDIGX,QS GLOBAL DIVIDEND FUND CLASS FI,USA,NMFQS,USD,FUND
@@ -25718,8 +25730,9 @@ LEGIF,LEG Immobilien AG,USA,PINK,USD,Common Stock
 LEGIX,LEGIX,USA,NMFQS,USD,Mutual Fund
 LEGN,Legend Biotech Corporation,USA,NASDAQ,USD,Common Stock
 LEGNX,VOYA GNMA INCOME FUND CLASS C,USA,NMFQS,USD,FUND
-LEGO,Legato Merger Corp. Common stock,USA,NASDAQ,USD,Common Stock
+LEGO,Legato Merger Corp,USA,NASDAQ,USD,Common Stock
 LEGOU,Legato Merger Corp,USA,NASDAQ,USD,Common Stock
+LEGOW,Legato Merger Corp,USA,NASDAQ,USD,Common Stock
 LEGR,First Trust Indxx Innovative Transaction & Process ETF,USA,NASDAQ,USD,ETF
 LEGX,"LegacyXChange, Inc",USA,OTCCE,USD,Common Stock
 LEHAX,LEHAX,USA,NMFQS,USD,Mutual Fund
@@ -25982,6 +25995,7 @@ LGWIX,Ladenburg Growth Fund Class I,USA,NMFQS,USD,FUND
 LGYRF,Landis+Gyr Group AG,USA,OTCGREY,USD,Common Stock
 LGYV,"Legacy Ventures International, Inc",USA,PINK,USD,Common Stock
 LH,Laboratory Corporation of America Holdings,USA,NYSE,USD,Common Stock
+LHAA,Lerer Hippeau Acquisition Corp. Class A Common Stock,USA,NASDAQ,USD,Common Stock
 LHC-U,Leo Holdings Corp. Units each consisting of one Class A ordinary share and one-third of one redeemable warrant,USA,NYSE,USD,Common Stock
 LHCAX,LHCAX,USA,NMFQS,USD,FUND
 LHCCX,LHCCX,USA,NMFQS,USD,FUND
@@ -26120,6 +26134,7 @@ LIONX,ISSACHAR FUND ISSACHAR FUND CLASS N SHARES,USA,NMFQS,USD,FUND
 LIOPF,Lion Corporation,USA,OTCGREY,USD,Common Stock
 LIOPY,Lion Corporation,USA,OTCGREY,USD,Common Stock
 LIORX,CLEARBRIDGE INTERNATIONAL VALUE FUND CLASS R,USA,NMFQS,USD,FUND
+LIOTX,LIOTX,USA,NMFQS,USD,Mutual Fund
 LIPAX,BlackRock LifePath Idx 2050 Prt InvA Shs,USA,NMFQS,USD,FUND
 LIPIX,BlackRock LifePath Idx 2050 Prt Inst Shs,USA,NMFQS,USD,FUND
 LIPKX,BlackRock LifePath Idx 2050 Prt Cl K Shs,USA,NMFQS,USD,FUND
@@ -26178,7 +26193,9 @@ LIZI,Lizhi Inc,USA,NASDAQ,USD,Common Stock
 LIZIX,BlackRock LifePath Index 2060 Fund Inst,USA,NMFQS,USD,FUND
 LIZKX,BlackRock LifePath Index 2060 Fund Class,USA,NMFQS,USD,FUND
 LIZPX,BlackRock LifePath Index 2060 Fund - Investor P Shares,USA,NMFQS,USD,FUND
+LJAQ,LightJump Acquisition Corporation,USA,NASDAQ,USD,Common Stock
 LJAQU,LightJump Acquisition Corporation,USA,NASDAQ,USD,Common Stock
+LJAQW,LightJump Acquisition Corporation,USA,NASDAQ,USD,Common Stock
 LJPC,La Jolla Pharmaceutical Company,USA,NASDAQ,USD,Common Stock
 LJUIF,SSY Group Limited,USA,PINK,USD,Common Stock
 LK,Luckin Coffee Inc,USA,NASDAQ,USD,Common Stock
@@ -26468,6 +26485,7 @@ LOISX,Lord Abbett Intermediate Tax Free Cl F3,USA,NMFQS,USD,FUND
 LOKB,Live Oak Acquisition Corp. II,USA,NYSE,USD,Common Stock
 LOKB-U,LOKB-U,USA,NYSE,USD,Common Stock
 LOKB-WS,LOKB-WS,USA,NYSE,USD,Common Stock
+LOKM-U,LOKM-U,USA,NYSE,USD,Common Stock
 LOLDX,Lord Abbett Short Duration Income Cl F3,USA,NMFQS,USD,FUND
 LOMA,Loma Negra Compañía Industrial Argentina Sociedad Anónima,USA,NYSE,USD,Common Stock
 LOMAX,EDGAR LOMAX VALUE FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
@@ -26507,6 +26525,7 @@ LOWAX,Ladenburg Growth & Income Class A,USA,NMFQS,USD,FUND
 LOWC,SPDR MSCI ACWI Low Carbon Target ETF,USA,NYSE ARCA,USD,ETF
 LOWCX,Ladenburg Growth & Income Class C,USA,NMFQS,USD,FUND
 LOWIX,Ladenburg Growth & Income Class I,USA,NMFQS,USD,FUND
+LOWLF,LOWLF,USA,OTCQX,USD,Common Stock
 LPBAX,BLACKROCK LIFEPATH DYNAMIC 2025 FUND INVESTOR A SHARES,USA,NMFQS,USD,FUND
 LPBC,Lincoln Park Bancorp,USA,PINK,USD,Common Stock
 LPBCX,BLACKROCK LIFEPATH DYNAMIC 2025 FUND INVESTOR C SHARES,USA,NMFQS,USD,FUND
@@ -26990,9 +27009,9 @@ LVVV,"Livewire Ergogenics, Inc",USA,PINK,USD,Common Stock
 LVWD,"LiveWorld, Inc",USA,PINK,USD,Common Stock
 LVZPF,Livzon Pharmaceutical Group Inc,USA,PINK,USD,Common Stock
 LW,"Lamb Weston Holdings, Inc",USA,NYSE,USD,Common Stock
-LWAC,Locust Walk Acquisition Corp,USA,,USD,Common Stock
+LWAC,Locust Walk Acquisition Corp,USA,NASDAQ,USD,Common Stock
 LWACU,Locust Walk Acquisition Corp,USA,NASDAQ,USD,Common Stock
-LWACW,Locust Walk Acquisition Corp,USA,,USD,Common Stock
+LWACW,Locust Walk Acquisition Corp,USA,NASDAQ,USD,Common Stock
 LWACX,WESTERN ASSET CORE BOND FUND CLASS C1,USA,NMFQS,USD,FUND
 LWAIX,WESTERN ASSET ADJUSTABLE RATE INCOME FUND CLASS C,USA,NMFQS,USD,FUND
 LWARX,Western Asset Short-Term Bond Fund Cl R,USA,NMFQS,USD,FUND
@@ -27107,6 +27126,7 @@ MAC,The Macerich Company,USA,NYSE,USD,Common Stock
 MACAU,Moringa Acquisition Corp,USA,NASDAQ,USD,Common Stock
 MACAX,MACAX,USA,NMFQS,USD,Mutual Fund
 MACBX,MFS CONSERVATIVE ALLOCATION FUND B,USA,NMFQS,USD,FUND
+MACC-U,MACC-U,USA,NYSE,USD,Common Stock
 MACE,"Mace Security International, Inc",USA,OTCQX,USD,Common Stock
 MACEX,MACEX,USA,NMFQS,USD,FUND
 MACFX,MFS CONSERVATIVE ALLOCATION FUND A,USA,NMFQS,USD,FUND
@@ -27252,6 +27272,7 @@ MARRX,MFS MODERATE ALLOCATION FUND R2,USA,NMFQS,USD,FUND
 MARUF,Marubeni Corporation,USA,PINK,USD,Common Stock
 MARUY,Marubeni Corporation,USA,PINK,USD,Common Stock
 MARXF,Marenica Energy Limited,USA,OTCGREY,USD,Common Stock
+MARZ,TrueShares Structured Outcome (March) ETF,USA,BATS,USD,ETF
 MARZF,Marston's PLC,USA,PINK,USD,Common Stock
 MAS,Masco Corporation,USA,NYSE,USD,Common Stock
 MASAX,MAINSTAY UNCONSTRAINED BOND FUND CLASS A,USA,NMFQS,USD,FUND
@@ -27302,6 +27323,7 @@ MAYS,"J.W. Mays, Inc",USA,NASDAQ,USD,Common Stock
 MAYX,"Mayex USA, Inc",USA,PINK,USD,Common Stock
 MBAAX,GLOBAL STRATEGIST PORTFOLIO CLASS A SHARES,USA,NMFQS,USD,FUND
 MBABX,MFS ALABAMA MUNICIPAL BOND FUND B,USA,NMFQS,USD,FUND
+MBAC-U,MBAC-U,USA,NYSE,USD,Common Stock
 MBACX,MAINSTAY BALANCED FUND CLASS C,USA,NMFQS,USD,FUND
 MBAGX,MFS AGGRESSIVE GROWTH ALLOCATION FUND B,USA,NMFQS,USD,FUND
 MBAIF,CIBT Education Group Inc,USA,OTCQX,USD,Common Stock
@@ -27380,6 +27402,7 @@ MBNYX,MFS NEW YORK MUNICIPAL BOND FUND B,USA,NMFQS,USD,FUND
 MBOAX,MADISON CORE BOND FUND CORE BOND FUND CLASS A,USA,NMFQS,USD,FUND
 MBOBX,MADISON CORE BOND FUND CORE BOND FUND CLASS B,USA,NMFQS,USD,FUND
 MBOF,"Marine Bancorp of Florida, Inc",USA,PINK,USD,Common Stock
+MBOIX,MBOIX,USA,NMFQS,USD,Mutual Fund
 MBOT,Microbot Medical Inc,USA,NASDAQ,USD,Common Stock
 MBOVX,M LARGE CAP VALUE FUND M LARGE CAP VALUE FUND,USA,NMFQS,USD,FUND
 MBOYX,MADISON CORE BOND FUND CORE BOND FUND CLASS Y,USA,NMFQS,USD,FUND
@@ -27643,6 +27666,7 @@ MDBBF,Medlab Clinical Limited,USA,OTCGREY,USD,Common Stock
 MDBFX,MASSMUTUAL PREMIER DIVERSIFIED BOND FUND CLASS R4,USA,NMFQS,USD,FUND
 MDBIF,Medibio Limited,USA,PINK,USD,Common Stock
 MDBLX,MASSMUTUAL PREMIER DIVERSIFIED BOND FUND ADMINISTRATIVE CLASS,USA,NMFQS,USD,FUND
+MDBPF,Medibank Private Limited,USA,PINK,USD,Common Stock
 MDBRX,MASSMUTUAL PREMIER DIVERSIFIED BOND FUND CLASS R3,USA,NMFQS,USD,FUND
 MDBS,"Master Distribution Systems, Inc",USA,OTCCE,USD,Common Stock
 MDBSX,MASSMUTUAL PREMIER DIVERSIFIED BOND FUND CLASS R5,USA,NMFQS,USD,FUND
@@ -27843,7 +27867,7 @@ MEDIX,MFS EMERGING MARKETS DEBT FUND I,USA,NMFQS,USD,FUND
 MEDP,"Medpace Holdings, Inc",USA,NASDAQ,USD,Common Stock
 MEDRX,KINETICS MEDICAL FUND NO LOAD CLASS,USA,NMFQS,USD,FUND
 MEDS,"Trxade Group, Inc",USA,NASDAQ,USD,Common Stock
-MEDT,MediaTechnics Corporation,USA,PINK,USD,Common Stock
+MEDT,MediaTechnics Corporation,USA,OTCCE,USD,Common Stock
 MEDXF,Medexus Pharmaceuticals Inc,USA,OTCQX,USD,Common Stock
 MEEC,Midwest Energy Emissions Corp,USA,OTCQB,USD,Common Stock
 MEERX,MASSMUTUAL PREMIER INTERNATIONAL EQUITY FUND CLASS R3,USA,NMFQS,USD,FUND
@@ -28758,7 +28782,6 @@ MLLNF,Malin Corporation plc,USA,OTCGREY,USD,Common Stock
 MLLOF,Medallion Resources Ltd,USA,OTCQB,USD,Common Stock
 MLLQX,MFS LIFETIME INCOME FUND 529A,USA,NMFQS,USD,FUND
 MLLRX,MFS LIFETIME INCOME FUND 529B,USA,NMFQS,USD,FUND
-MLLS,"Miller Industries, Inc",USA,PINK,USD,Common Stock
 MLLSX,MFS LIFETIME INCOME FUND 529C,USA,NMFQS,USD,FUND
 MLLUY,Metallurgical Corporation of China Ltd,USA,PINK,USD,Common Stock
 MLM,"Martin Marietta Materials, Inc",USA,NYSE,USD,Common Stock
@@ -28897,6 +28920,7 @@ MMCMX,BNY MELLON SMALL/MID CAP MULTI-STRATEGY FUND CLASS M SHARES,USA,NMFQS,USD,
 MMCRX,MADISON MID CAP FUND MID CAP FUND CLASS R6,USA,NMFQS,USD,FUND
 MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,USA,NYSE,USD,FUND
 MMDAX,MADISON MODERATE ALLOCATION FUND MODERATE ALLOCATION FUND CLASS A,USA,NMFQS,USD,FUND
+MMDCF,Mind Medicine (MindMed) Inc,USA,PINK,USD,Common Stock
 MMDCX,MADISON MODERATE ALLOCATION FUND MODERATE ALLOCATION FUND CLASS C,USA,NMFQS,USD,FUND
 MMDDF,Mirriad Advertising plc,USA,OTCQB,USD,Common Stock
 MMDDX,MMDDX,USA,NMFQS,USD,FUND
@@ -29323,6 +29347,7 @@ MOORX,MASSMUTUAL PREMIER SMALL CAP OPPORTUNITIES FUND CLASS R4,USA,NMFQS,USD,FUN
 MOPAX,MAINSTAY EPOCH U.S. SMALL CAP FUND CLASS A,USA,NMFQS,USD,FUND
 MOPBX,MAINSTAY COMMON STOCK FUND CLASS B,USA,NMFQS,USD,FUND
 MOPCX,MAINSTAY EPOCH U.S. SMALL CAP FUND CLASS C,USA,NMFQS,USD,FUND
+MOPHY,Monadelphous Group Limited,USA,PINK,USD,Common Stock
 MOPIX,MAINSTAY EPOCH U.S. SMALL CAP FUND CLASS I,USA,NMFQS,USD,FUND
 MOPLF,Molinos Rio de la Plata S.A,USA,OTCGREY,USD,Common Stock
 MOPN,"JPO Solutions, Inc",USA,PINK,USD,Common Stock
@@ -29591,7 +29616,7 @@ MRGVX,MASSMUTUAL RETIRESMART GROWTH FUND CLASS R3,USA,NMFQS,USD,FUND
 MRGYX,MASSMUTUAL RETIRESMART GROWTH FUND SERVICE CLASS,USA,NMFQS,USD,FUND
 MRGZX,MASSMUTUAL RETIRESMART GROWTH FUND CLASS R4,USA,NMFQS,USD,FUND
 MRHYX,MSIFT High Yield Portfolio -R,USA,NMFQS,USD,FUND
-MRIB,"Marani Brands, Inc",USA,PINK,USD,Common Stock
+MRIB,"Marani Brands, Inc",USA,OTCCE,USD,Common Stock
 MRIBX,MFS RESEARCH INTERNATIONAL FUND B,USA,NMFQS,USD,FUND
 MRIC,"ClearPoint Neuro, Inc",USA,NYSE,USD,Common Stock
 MRICX,MFS RESEARCH INTERNATIONAL FUND C,USA,NMFQS,USD,FUND
@@ -29758,6 +29783,7 @@ MSCDX,MASSMUTUAL PREMIER SMALL CAP OPPORTUNITIES FUND CLASS R5,USA,NMFQS,USD,FUN
 MSCFX,MAIRS & POWER SMALL CAP FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 MSCGX,MSCGX,USA,NMFQS,USD,FUND
 MSCI,MSCI Inc,USA,NYSE,USD,Common Stock
+MSCIX,STRATEGIC INCOME CONSERVATIVE SERIES CLASS I,USA,NMFQS,USD,FUND
 MSCKX,CORE PLUS FIXED INCOME PORTFOLIO CLASS C,USA,NMFQS,USD,FUND
 MSCLX,MASSMUTUAL PREMIER SMALL CAP OPPORTUNITIES FUND ADMINISTRATIVE CLASS,USA,NMFQS,USD,FUND
 MSCMX,MORGAN STANLEY MULTI CAP GROWTH TRUST CLASS C,USA,NMFQS,USD,FUND
@@ -29880,7 +29906,7 @@ MSLVX,BlackRock Lg Cap Value S,USA,NMFQS,USD,FUND
 MSM,"MSC Industrial Direct Co., Inc",USA,NYSE,USD,Common Stock
 MSMBX,MSVIF Emerging Mkts Equity Port Class II,USA,NMFQS,USD,FUND
 MSMFX,MSIFT MID CAP GROWTH Cl C,USA,NMFQS,USD,FUND
-MSMGF,Grid Metals Corp,USA,PINK,USD,Common Stock
+MSMGF,Grid Metals Corp,USA,OTCQB,USD,Common Stock
 MSMIX,MAINSTAY MAP EQUITY FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 MSMJX,MSMJX,USA,NMFQS,USD,FUND
 MSMKF,"Matsumotokiyoshi Holdings Co., Ltd",USA,OTCGREY,USD,Common Stock
@@ -29892,7 +29918,7 @@ MSNCX,MFS NORTH CAROLINA MUNICIPAL BOND FUND A,USA,NMFQS,USD,FUND
 MSNFY,"Minera Frisco, S.A.B. de C.V",USA,PINK,USD,Common Stock
 MSNI,Mon Space Net Inc,USA,PINK,USD,Common Stock
 MSNJX,BlackRock NJ Muni Bnd S,USA,NMFQS,USD,FUND
-MSNVF,Mission Ready Solutions Inc,USA,PINK,USD,Common Stock
+MSNVF,Mission Ready Solutions Inc,USA,OTCQB,USD,Common Stock
 MSNYX,MFS NEW YORK MUNICIPAL BOND FUND A,USA,NMFQS,USD,FUND
 MSOAX,MAINSTAY COMMON STOCK FUND CLASS A,USA,NMFQS,USD,FUND
 MSOCX,INTERNATIONAL OPPORTUNITY PORTFOLIO CLASS C,USA,NMFQS,USD,FUND
@@ -30222,6 +30248,7 @@ MVAAX,MFS Value 529 Port Ag,USA,NMFQS,USD,FUND
 MVAC,"MotorVac Technologies, Inc",USA,PINK,USD,Common Stock
 MVACX,MFS VIRGINIA MUNICIPAL BOND FUND C,USA,NMFQS,USD,FUND
 MVAEX,MFS Value 529 Port E,USA,NMFQS,USD,FUND
+MVAIF,Minerva Intelligence Inc,USA,OTCMKTS,USD,Common Stock
 MVALX,MERIDIAN CONTRARIAN FUND LEGACY CLASS,USA,NMFQS,USD,FUND
 MVBF,MVB Financial Corp,USA,NASDAQ,USD,Common Stock
 MVBY,"My Vintage Baby, Inc",USA,OTCCE,USD,Common Stock
@@ -30471,7 +30498,7 @@ MXSHX,GREAT-WEST SECUREFOUNDATION BALANCED FUND SERVICE CLASS,USA,NMFQS,USD,FUND
 MXSMX,GREAT-WEST SECUREFOUNDATION LIFETIME 2020 FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 MXSNX,GREAT-WEST SECUREFOUNDATION LIFETIME 2025 FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 MXSOX,GREAT-WEST SECUREFOUNDATION LIFETIME 2025 FUND SERVICE CLASS,USA,NMFQS,USD,FUND
-MXSPF,Mondo TV S.p.A,USA,OTCGREY,USD,Common Stock
+MXSPF,Mondo TV S.p.A,USA,PINK,USD,Common Stock
 MXSPX,GREAT-WEST SECUREFOUNDATION LIFETIME 2020 FUND SERVICE CLASS,USA,NMFQS,USD,FUND
 MXSQX,GREAT-WEST SECUREFOUNDATION LIFETIME 2030 FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 MXSRX,GREAT-WEST SECUREFOUNDATION LIFETIME 2035 FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
@@ -30724,6 +30751,7 @@ NBR-PA,Nabors Industries Ltd,USA,NYSE,USD,Preferred Share
 NBRAX,NEUBERGER BERMAN MID CAP INTRINSIC VALUE FUND CLASS A,USA,NMFQS,USD,FUND
 NBRCX,NEUBERGER BERMAN MID CAP INTRINSIC VALUE FUND CLASS C,USA,NMFQS,USD,FUND
 NBREX,NEUBERGER BERMAN MID CAP INTRINSIC VALUE FUND TRUST CLASS,USA,NMFQS,USD,FUND
+NBRFF,NBRFF,USA,PINK,USD,Common Stock
 NBRFX,NEUBERGER BERMAN REAL ESTATE FUND TRUST CLASS,USA,NMFQS,USD,FUND
 NBRI,North Bay Resources Inc,USA,PINK,USD,Common Stock
 NBRIX,NEUBERGER BERMAN REAL ESTATE FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
@@ -30831,7 +30859,7 @@ NCXS,"NBC Bancorp, Inc",USA,PINK,USD,Common Stock
 NCZ,AllianzGI Convertible & Income Fund II,USA,NYSE,USD,FUND
 NCZ-PA,Virtus AllianzGI Convertible & Income Fund II,USA,NYSE,USD,Preferred Share
 NDAAX,NATIONWIDE INVESTOR DESTINATIONS AGGRESSIVE FUND CLASS A,USA,NMFQS,USD,FUND
-NDACU,NightDragon Acquisition Corp,USA,,USD,Common Stock
+NDACU,NightDragon Acquisition Corp,USA,NASDAQ,USD,Common Stock
 NDACX,NATIONWIDE INVESTOR DESTINATIONS AGGRESSIVE FUND CLASS C,USA,NMFQS,USD,FUND
 NDAQ,"Nasdaq, Inc",USA,NASDAQ,USD,Common Stock
 NDARX,AMERICAN FUNDS RETIREMENT INCOME PORTFOLIO - ENHANCED CLASS A,USA,NMFQS,USD,FUND
@@ -30897,7 +30925,6 @@ NEARX,NEAR-TERM TAX FREE FUND NEAR-TERM TAX FREE FUND,USA,NMFQS,USD,FUND
 NEBC,Nebula Caravel Acquisition Corp,USA,NASDAQ,USD,Common Stock
 NEBCU,Nebula Caravel Acquisition Corp,USA,NASDAQ,USD,Common Stock
 NEBCW,Nebula Caravel Acquisition Corp,USA,NASDAQ,USD,Common Stock
-NEBLQ,Noble Holding Corporation plc,USA,PINK,USD,Common Stock
 NECA,New America Energy Corp,USA,PINK,USD,Common Stock
 NECB,"Northeast Community Bancorp, Inc",USA,PINK,USD,Common Stock
 NECCX,NATIXIS U.S. EQUITY OPPORTUNITIES FUND CLASS C,USA,NMFQS,USD,FUND
@@ -30966,7 +30993,7 @@ NEPH,"Nephros, Inc",USA,NASDAQ,USD,Common Stock
 NEPT,Neptune Wellness Solutions Inc,USA,NASDAQ,USD,Common Stock
 NERAX,NEUBERGER BERMAN EMERGING MARKETS DEBT FUND CLASS A,USA,NMFQS,USD,FUND
 NERCX,NEUBERGER BERMAN EMERGING MARKETS DEBT FUND CLASS C,USA,NMFQS,USD,FUND
-NERD,Listed Funds Trust - Roundhill BITKRAFT Esports & Digital Entertainment ETF,USA,NYSE ARCA,USD,ETF
+NERD,Roundhill BITKRAFT Esports & Digital Entertainment ETF,USA,NYSE ARCA,USD,ETF
 NERG,"NuTech Energy Resources, Inc",USA,OTCCE,USD,Common Stock
 NERIX,NEUBERGER BERMAN EMERGING MARKETS DEBT FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 NERNX,LOOMIS SAYLES CORE PLUS BOND FUND CLASS N,USA,NMFQS,USD,FUND
@@ -31064,7 +31091,9 @@ NGA,Northern Genesis Acquisition Corp,USA,NYSE,USD,Common Stock
 NGA-U,NGA-U,USA,NYSE,USD,Common Stock
 NGA-UN,Northern Genesis Acquisition Corp,USA,NYSE,USD,Common Stock
 NGA-WS,NGA-WS,USA,NYSE,USD,Common Stock
+NGAB,Northern Genesis Acquisition Corp. II,USA,NYSE,USD,Common Stock
 NGAB-U,Northern Genesis Acquisition Corp. II,USA,NYSE,USD,Common Stock
+NGAB-WS,NGAB-WS,USA,NYSE,USD,Common Stock
 NGAC,NextGen Acquisition Corporation,USA,NASDAQ,USD,Common Stock
 NGACU,NextGen Acquisition Corporation,USA,NASDAQ,USD,Common Stock
 NGACW,NextGen Acquisition Corporation,USA,NASDAQ,USD,Common Stock
@@ -31145,7 +31174,7 @@ NHF,NexPoint Strategic Opportunities Fund,USA,NYSE,USD,FUND
 NHFIX,NORTHERN HIGH YIELD FIXED INCOME FUND NORTHERN HIGH YIELD FIXED INCOME FUND,USA,NMFQS,USD,FUND
 NHGP,"New Horizon Group, Inc",USA,PINK,USD,Common Stock
 NHHEF,"NH Hotel Group, S.A",USA,OTCGREY,USD,Common Stock
-NHHS,"NorthStar Healthcare Income, Inc",USA,OTCGREY,USD,Common Stock
+NHHS,"NorthStar Healthcare Income, Inc",USA,PINK,USD,Common Stock
 NHI,"National Health Investors, Inc",USA,NYSE,USD,Common Stock
 NHIAX,NEUBERGER BERMAN HIGH INCOME BOND FUND CLASS A,USA,NMFQS,USD,FUND
 NHIC,NewHold Investment Corp,USA,NASDAQ,USD,Common Stock
@@ -31453,6 +31482,7 @@ NNGAX,NUVEEN LARGE CAP VALUE FUND CLASS A,USA,NMFQS,USD,FUND
 NNGCX,NUVEEN LARGE CAP VALUE FUND CLASS C,USA,NMFQS,USD,FUND
 NNGFX,NUVEEN LARGE CAP VALUE FUND CLASS R6,USA,NMFQS,USD,FUND
 NNGPF,NN Group N.V,USA,PINK,USD,Common Stock
+NNGRF,NanoRepro AG,USA,PINK,USD,Common Stock
 NNGRX,NUVEEN LARGE CAP VALUE FUND CLASS I,USA,NMFQS,USD,FUND
 NNGRY,NN Group N.V,USA,PINK,USD,Common Stock
 NNGVF,Tesoro Minerals Corp,USA,OTCGREY,USD,Common Stock
@@ -31843,7 +31873,9 @@ NSTAX,NEUBERGER BERMAN STRATEGIC INCOME FUND CLASS A,USA,NMFQS,USD,FUND
 NSTB,Northern Star Investment Corp. II,USA,NYSE,USD,Common Stock
 NSTB-U,NSTB-U,USA,NYSE,USD,Common Stock
 NSTB-WS,NSTB-WS,USA,NYSE,USD,Common Stock
+NSTC-U,NSTC-U,USA,NYSE,USD,Common Stock
 NSTCX,NEUBERGER BERMAN STRATEGIC INCOME FUND CLASS C,USA,NMFQS,USD,FUND
+NSTD-U,NSTD-U,USA,NYSE,USD,Common Stock
 NSTG,"NanoString Technologies, Inc",USA,NASDAQ,USD,Common Stock
 NSTIX,COLUMBIA SHORT TERM BOND FUND COLUMBIA SHORT TERM BOND FUND CLASS C,USA,NMFQS,USD,FUND
 NSTKF,NSTKF,USA,PINK,USD,Common Stock
@@ -31912,9 +31944,10 @@ NTIP,"Network-1 Technologies, Inc",USA,NYSE MKT,USD,Common Stock
 NTITX,NUVEEN NWQ INTERNATIONAL VALUE FUND CLASS R3,USA,NMFQS,USD,FUND
 NTKLX,VOYA MULTI-MANAGER INTERNATIONAL SMALL CAP FUND CLASS A,USA,NMFQS,USD,FUND
 NTLA,"Intellia Therapeutics, Inc",USA,NASDAQ,USD,Common Stock
-NTLK,"NetTalk.com, Inc",USA,PINK,USD,Common Stock
+NTLK,"NetTalk.com, Inc",USA,OTCBB,USD,Common Stock
 NTME,"NetMed, Inc",USA,PINK,USD,Common Stock
 NTN,"NTN Buzztime, Inc",USA,NYSE MKT,USD,Common Stock
+NTNOF,Northern Ocean Ltd,USA,PINK,USD,Common Stock
 NTNTY,NetEnt AB (publ),USA,PINK,USD,Common Stock
 NTNX,"Nutanix, Inc",USA,NASDAQ,USD,Common Stock
 NTNYX,NUVEEN NEW YORK MUNICIPAL BOND FUND NUVEEN NEW YORK MUNICIPAL BOND FUND - CLASS I,USA,NMFQS,USD,FUND
@@ -32278,7 +32311,7 @@ NWXSX,NATIONWIDE INTERNATIONAL SMALL CAP FUND CLASS A,USA,NMFQS,USD,FUND
 NWXUX,NATIONWIDE INTERNATIONAL SMALL CAP FUND CLASS R6,USA,NMFQS,USD,FUND
 NWXVX,NATIONWIDE INTERNATIONAL SMALL CAP FUND INSTITUTIONAL SERVICE CLASS,USA,NMFQS,USD,FUND
 NWYF,"Northway Financial, Inc",USA,OTCQB,USD,Common Stock
-NWYU,New You Inc,USA,OTCQB,USD,Common Stock
+NWYU,New You Inc,USA,PINK,USD,Common Stock
 NWZLX,Nationwide All Cap Growth Fund Class A,USA,NMFQS,USD,FUND
 NWZMX,Nationwide All Cap Growth Fund Class R6,USA,NMFQS,USD,FUND
 NWZNX,Nationwide All Cap Growth Fund Instl Ser,USA,NMFQS,USD,FUND
@@ -32418,7 +32451,7 @@ OARIX,OAKMARK INTERNATIONAL FUND SERVICE CLASS,USA,NMFQS,USD,FUND
 OARLX,OAKMARK SELECT FUND SERVICE CLASS,USA,NMFQS,USD,FUND
 OARMX,OAKMARK FUND SERVICE CLASS,USA,NMFQS,USD,FUND
 OART,"The Ohio Art Company, Inc",USA,PINK,USD,Common Stock
-OAS,Oasis Petroleum Inc,USA,NASDAQ,USD,Common Stock
+OAS,Oasis Petroleum Inc,USA,PINK,USD,Common Stock
 OASDX,Oakhurst Strategic Defined Risk Fund Ins,USA,NMFQS,USD,FUND
 OASGX,OPTIMUM SMALL-MID CAP GROWTH FUND OPTIMUM SMALL-MID CAP GROWTH FUND CLASS A,USA,NMFQS,USD,FUND
 OASMY,Oasmia Pharmaceutical AB (publ),USA,PINK,USD,Common Stock
@@ -32469,7 +32502,7 @@ OBSIX,OBERWEIS SMALL-CAP OPPORTUNITIES FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FU
 OBSJF,"Obrascón Huarte Lain, S.A",USA,OTCGREY,USD,Common Stock
 OBSOX,OBERWEIS SMALL-CAP OPPORTUNITIES FUND OBERWEIS SMALL-CAP OPPORTUNITIES FUND,USA,NMFQS,USD,FUND
 OBSV,ObsEva SA,USA,NASDAQ,USD,Common Stock
-OBTC,Osprey Bitcoin Trust,USA,PINK,USD,Common Stock
+OBTC,Osprey Bitcoin Trust,USA,OTCQX,USD,Common Stock
 OBTEF,Orbital Corporation Limited,USA,OTCGREY,USD,Common Stock
 OBTX,"OBITX, Inc",USA,PINK,USD,Common Stock
 OBYCF,Obayashi Corporation,USA,PINK,USD,Common Stock
@@ -32500,6 +32533,7 @@ OCG,Oriental Culture Holding LTD,USA,NASDAQ,USD,Common Stock
 OCGCX,JPMORGAN INVESTOR CONSERVATIVE GROWTH FUND CLASS C,USA,NMFQS,USD,FUND
 OCGN,"Ocugen, Inc",USA,NASDAQ,USD,Common Stock
 OCGPF,Oceana Group Limited,USA,PINK,USD,Common Stock
+OCGSF,OCGSF,USA,PINK,USD,Common Stock
 OCHIX,OBERWEIS CHINA OPPORTUNITIES FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 OCIEX,OPTIMUM INTERNATIONAL FUND OPTIMUM INTERNATIONAL FUND CLASS C,USA,NMFQS,USD,FUND
 OCINF,OCI N.V,USA,OTCGREY,USD,Common Stock
@@ -32662,7 +32696,7 @@ OHBK,Old Harbor Bank,USA,PINK,USD,Common Stock
 OHBTF,OHB SE,USA,OTCGREY,USD,Common Stock
 OHFIX,OHFIX,USA,NMFQS,USD,FUND
 OHI,"Omega Healthcare Investors, Inc",USA,NYSE,USD,Common Stock
-OHPAU,Orion Acquisition Corp,USA,,USD,Common Stock
+OHPAU,Orion Acquisition Corp,USA,NASDAQ,USD,Common Stock
 OHPB,Ohana Pacific Bank,USA,PINK,USD,Common Stock
 OHSDX,OHSDX,USA,NMFQS,USD,FUND
 OHSHX,OHSHX,USA,NMFQS,USD,FUND
@@ -33062,7 +33096,7 @@ OSCI,"Osceola Gold, Inc",USA,PINK,USD,Common Stock
 OSCIX,Oppenheimer Intl Small Company I,USA,NMFQS,USD,FUND
 OSCN,OneScreen Inc,USA,OTCCE,USD,Common Stock
 OSCNX,Oppenheimer Main Street Small Cap Fd Cl,USA,NMFQS,USD,FUND
-OSCR,"Oscar Health, Inc",USA,,USD,Common Stock
+OSCR,"Oscar Health, Inc",USA,NYSE,USD,Common Stock
 OSCUF,"Japan Exchange Group, Inc",USA,PINK,USD,Common Stock
 OSCV,Opus Small Cap Value Plus ETF,USA,BATS,USD,ETF
 OSCYX,Oppenheimer Main Street Small Cap Fd Cl,USA,NMFQS,USD,FUND
@@ -33306,8 +33340,10 @@ PACSX,PACSX,USA,NMFQS,USD,Mutual Fund
 PACV,"Pacific Ventures Group, Inc",USA,PINK,USD,Common Stock
 PACW,PacWest Bancorp,USA,NASDAQ,USD,Common Stock
 PACWX,PACWX,USA,NMFQS,USD,Mutual Fund
+PACX,Pioneer Merger Corp,USA,NASDAQ,USD,Common Stock
 PACXF,Pacton Gold Inc,USA,PINK,USD,Common Stock
 PACXU,Pioneer Merger Corp,USA,NASDAQ,USD,Common Stock
+PACXW,Pioneer Merger Corp,USA,NASDAQ,USD,Common Stock
 PACYX,PUTNAM DYNAMIC ASSET ALLOCATION CONSERVATIVE FUND CLASS Y SHARES,USA,NMFQS,USD,FUND
 PADAX,PRUDENTIAL ABSOLUTE RETURN BOND FUND CLASS A,USA,NMFQS,USD,FUND
 PADCX,PRUDENTIAL ABSOLUTE RETURN BOND FUND CLASS C,USA,NMFQS,USD,FUND
@@ -33466,9 +33502,9 @@ PAOTF,Parrot S.A,USA,PINK,USD,Common Stock
 PAPA,"WO Group, Inc",USA,PINK,USD,Common Stock
 PAPPX,PAPP SMALL & MID-CAP GROWTH FUND PAPP SMALL & MID-CAP GROWTH FUND,USA,NMFQS,USD,FUND
 PAPR,Innovator S&P 500 Power Buffer ETF - April New,USA,BATS,USD,ETF
-PAQC,Provident Acquisition Corp,USA,,USD,Common Stock
+PAQC,Provident Acquisition Corp,USA,NASDAQ,USD,Common Stock
 PAQCU,Provident Acquisition Corp,USA,NASDAQ,USD,Common Stock
-PAQCW,Provident Acquisition Corp,USA,,USD,Common Stock
+PAQCW,Provident Acquisition Corp,USA,NASDAQ,USD,Common Stock
 PAQWF,Prime Acquisition Corp,USA,PINK,USD,Common Stock
 PAR,PAR Technology Corporation,USA,NYSE,USD,Common Stock
 PARAX,T. ROWE PRICE RETIREMENT 2010 FUND T. ROWE PRICE RETIREMENT 2010 FUND-ADVISOR CLASS,USA,NMFQS,USD,FUND
@@ -34217,6 +34253,7 @@ PESPX,DREYFUS MIDCAP INDEX FUND INC INVESTOR SHARES,USA,NMFQS,USD,FUND
 PESSX,INTERNATIONAL EMERGING MARKETS FUND R-4,USA,NMFQS,USD,FUND
 PETAX,REALESTATEREALRETURN STRATEGY FUND A,USA,NMFQS,USD,FUND
 PETCX,REALESTATEREALRETURN STRATEGY FUND C,USA,NMFQS,USD,FUND
+PETFF,PTT Public Company Limited,USA,PINK,USD,Common Stock
 PETPX,PIMCO REALESTATEREALRETURN STRATEGY FUND CLASS P,USA,NMFQS,USD,FUND
 PETQ,"PetIQ, Inc",USA,NASDAQ,USD,Common Stock
 PETRY,Petrobras Distribuidora S.A,USA,PINK,USD,Common Stock
@@ -34237,6 +34274,7 @@ PEXZF,Pacific Ridge Exploration Ltd,USA,OTCGREY,USD,Common Stock
 PEY,Invesco High Yield Equity Dividend Achievers ETF,USA,NASDAQ,USD,ETF
 PEYAX,PUTNAM EQUITY INCOME FUND CLASS A SHARES,USA,NMFQS,USD,FUND
 PEYE,"Precision Optics Corporation, Inc",USA,OTCQB,USD,Common Stock
+PEYTF,Parallel Energy Trust,USA,OTCGREY,USD,Common Stock
 PEYUF,Peyto Exploration & Development Corp,USA,PINK,USD,Common Stock
 PEZ,Invesco DWA Consumer Cyclicals Momentum ETF,USA,NASDAQ,USD,ETF
 PFAAX,PACIFIC FUNDS LARGE-CAP VALUE CLASS A,USA,NMFQS,USD,FUND
@@ -34329,6 +34367,7 @@ PFMDX,PACIFIC FUNDS SMALL/MID-CAP ADVISOR CLASS,USA,NMFQS,USD,FUND
 PFMIX,MUNICIPAL BOND FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
 PFMRX,GOVERNMENT & HIGH QUALITY BOND FUND F/K/A MORTGAGE SECURITIES FUND R-2,USA,NMFQS,USD,FUND
 PFMS,S A M Trade Asia Pte Ltd,USA,PINK,USD,Common Stock
+PFMSD,PFMSD,USA,PINK,USD,Common Stock
 PFMT,Performant Financial Corporation,USA,NASDAQ,USD,Common Stock
 PFN,PIMCO Income Strategy Fund II,USA,NYSE,USD,FUND
 PFNCX,PIMCO FLOATING INCOME FUND C,USA,NMFQS,USD,FUND
@@ -34569,6 +34608,7 @@ PGVRX,PUTNAM U S GOVERNMENT INCOME TRUST CLASS R SHARES,USA,NMFQS,USD,FUND
 PGVZX,PRUDENTIAL GOVERNMENT INCOME FUND CLASS Z,USA,NMFQS,USD,FUND
 PGWAX,ALLIANZGI FOCUSED GROWTH FUND A,USA,NMFQS,USD,FUND
 PGWCX,ALLIANZGI FOCUSED GROWTH FUND C,USA,NMFQS,USD,FUND
+PGWFF,PGG Wrightson Limited,USA,OTCGREY,USD,Common Stock
 PGWFX,AMERICAN FUNDS GLOBAL GROWTH PORTFOLIO CLASS F-2,USA,NMFQS,USD,FUND
 PGWIX,MIDCAP GROWTH FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 PGWTX,PGWTX,USA,NMFQS,USD,FUND
@@ -34678,6 +34718,7 @@ PHSWX,PHSWX,USA,NMFQS,USD,Mutual Fund
 PHSYX,PUTNAM GLOBAL HEALTH CARE FUND CLASS Y SHARES,USA,NMFQS,USD,FUND
 PHSZX,PRUDENTIAL HEALTH SCIENCES FUND D/B/A PRUDENTIAL JENNISON HEALTH SCIENCES FUND CLASS Z,USA,NMFQS,USD,FUND
 PHT,Pioneer High Income Trust,USA,NYSE,USD,Common Stock
+PHTCF,PLDT Inc,USA,PINK,USD,Common Stock
 PHTCX,PHTCX,USA,NMFQS,USD,FUND
 PHTDX,PHTDX,USA,NMFQS,USD,FUND
 PHTEX,PHTEX,USA,NMFQS,USD,FUND
@@ -34747,7 +34788,7 @@ PICB,Invesco International Corporate Bond ETF,USA,NYSE ARCA,USD,ETF
 PICC-U,PICC-U,USA,NYSE,USD,Common Stock
 PICEX,VIRTUS EMERGING MARKETS OPPORTUNITIES FUND CLASS C,USA,NMFQS,USD,FUND
 PICFX,INVESCO MULTI-ASSET INCOME FUND CLASS C,USA,NMFQS,USD,FUND
-PICK,iShares MSCI Global Metals & Mining Producers ETF,USA,BATS,USD,ETF
+PICK,iShares MSCI Global Metals &amp; Mining Producers ETF,USA,BATS,USD,ETF
 PICMX,VIRTUS KAR MID-CAP GROWTH FUND CLASS I,USA,NMFQS,USD,FUND
 PICNX,INCOME FUND R-6,USA,NMFQS,USD,FUND
 PICO,"PICO Holdings, Inc",USA,NASDAQ,USD,Common Stock
@@ -35422,7 +35463,6 @@ PMZCX,PIMCO MORTGAGE OPPORTUNITIES FUND CLASS C,USA,NMFQS,USD,FUND
 PMZIX,PIMCO MORTGAGE OPPORTUNITIES FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 PMZNX,PIMCO MORTGAGE OPPORTUNITIES AND BOND FUND I-3,USA,NMFQS,USD,FUND
 PMZPX,PIMCO MORTGAGE OPPORTUNITIES FUND CLASS P,USA,NMFQS,USD,FUND
-PNADF,PETRONAS Dagangan Berhad,USA,OTCGREY,USD,Common Stock
 PNAGF,PETRONAS Gas Berhad,USA,OTCGREY,USD,Common Stock
 PNAIX,T. ROWE PRICE NEW AMERICA GROWTH FUND T. ROWE PRICE NEW AMERICA GROWTH FUND-I CLASS,USA,NMFQS,USD,FUND
 PNARX,PREFERRED SECURITIES FUND R-3,USA,NMFQS,USD,FUND
@@ -35507,7 +35547,9 @@ PNSBX,PUTNAM SMALL CAP GROWTH FUND CLASS B SHARES,USA,NMFQS,USD,FUND
 PNSCX,Putnam Small Cap Growth C,USA,NMFQS,USD,FUND
 PNSIX,T. ROWE PRICE NEW ASIA FUND T. ROWE PRICE NEW ASIA FUND-I CLASS,USA,NMFQS,USD,FUND
 PNTG,"The Pennant Group, Inc",USA,NASDAQ,USD,Common Stock
+PNTM,Pontem Corporation,USA,NYSE,USD,Common Stock
 PNTM-U,Pontem Corporation,USA,NYSE,USD,Common Stock
+PNTM-WS,PNTM-WS,USA,NYSE,USD,Common Stock
 PNTZF,Trigon Metals Inc,USA,OTCGREY,USD,Common Stock
 PNVAX,PUTNAM INTERNATIONAL CAPITAL OPPORTUNITIES CLASS A SHARES,USA,NMFQS,USD,FUND
 PNVRX,ALLIANZGI NFJ SMALL-CAP VALUE FUND R,USA,NMFQS,USD,FUND
@@ -35589,7 +35631,7 @@ POPRF,PopReach Corporation,USA,OTCQX,USD,Common Stock
 POR,Portland General Electric Company,USA,NYSE,USD,Common Stock
 PORBF,POLA Orbis Holdings Inc,USA,PINK,USD,Common Stock
 PORIX,PORTFOLIO 21 GLOBAL EQUITY FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
-POROF,Panoro Minerals Ltd,USA,PINK,USD,Common Stock
+POROF,Panoro Minerals Ltd,USA,OTCQB,USD,Common Stock
 PORTX,PORTFOLIO 21 GLOBAL EQUITY FUND RETAIL CLASS,USA,NMFQS,USD,FUND
 PORYX,OAK RIDGE MULTI STRATEGY FUND CLASS I,USA,NMFQS,USD,FUND
 POSAF,POSaBIT Systems Corporation,USA,PINK,USD,Common Stock
@@ -35616,6 +35658,7 @@ POVYX,PUTNAM INTERNATIONAL EQUITY FUND /MA/ CLASS Y SHARES,USA,NMFQS,USD,FUND
 POWI,"Power Integrations, Inc",USA,NASDAQ,USD,Common Stock
 POWL,"Powell Industries, Inc",USA,NASDAQ,USD,Common Stock
 POWRU,Powered Brands,USA,NASDAQ,USD,Common Stock
+POWRW,Powered Brands,USA,NASDAQ,USD,Common Stock
 POWW,"AMMO, Inc",USA,NASDAQ,USD,Common Stock
 POWYX,POWYX,USA,NMFQS,USD,Mutual Fund
 POXBX,PUTNAM OHIO TAX EXEMPT INCOME FUND II CLASS B SHARES,USA,NMFQS,USD,FUND
@@ -35657,9 +35700,9 @@ PPFRX,PPFRX,USA,NMFQS,USD,FUND
 PPFWX,PPFWX,USA,NMFQS,USD,FUND
 PPFYX,PPFYX,USA,NMFQS,USD,FUND
 PPG,"PPG Industries, Inc",USA,NYSE,USD,Common Stock
-PPGH,Poema Global Holdings Corp,USA,,USD,Common Stock
+PPGH,Poema Global Holdings Corp,USA,NASDAQ,USD,Common Stock
 PPGHU,Poema Global Holdings Corp,USA,NASDAQ,USD,Common Stock
-PPGHW,Poema Global Holdings Corp,USA,,USD,Common Stock
+PPGHW,Poema Global Holdings Corp,USA,NASDAQ,USD,Common Stock
 PPGNX,PIMCO GNMA FUND CLASS P,USA,NMFQS,USD,FUND
 PPGRX,ALLIANZGI FOCUSED GROWTH FUND R,USA,NMFQS,USD,FUND
 PPGVX,PPGVX,USA,NMFQS,USD,Mutual Fund
@@ -35972,6 +36015,7 @@ PRLO,"Prologic Management Systems, Inc",USA,PINK,USD,Common Stock
 PRLPX,PIMCO REAL RETURN FUND CLASS P,USA,NMFQS,USD,FUND
 PRLVX,PRLVX,USA,NASDAQ,USD,FUND
 PRLX,"Parallax Health Sciences, Inc",USA,OTCCE,USD,Common Stock
+PRMAF,Purpose Multi-Asset Income Fund,USA,OTCGREY,USD,FUND
 PRMAX,Putnam Retirement Incm Fd Lifestyle 1 Cl,USA,NMFQS,USD,FUND
 PRMCX,Putnam Retiremetn Incm Fd Lifstyl 1 Cl C,USA,NMFQS,USD,FUND
 PRMDX,MARYLAND SHORT-TERM TAX-FREE BOND FUND MARYLAND SHORT-TERM TAX-FREE BOND FUND,USA,NMFQS,USD,FUND
@@ -36078,10 +36122,10 @@ PRSMX,T. ROWE PRICE SUMMIT MUNICIPAL INTERMEDIATE FUND T. ROWE PRICE SUMMIT MUNI
 PRSNF,Personas Social Incorporated,USA,PINK,USD,Common Stock
 PRSNX,"T. ROWE PRICE GLOBAL MULTI-SECTOR BOND FUND, INC. T. ROWE PRICE GLOBAL MULTI-SECTOR BOND FUND, INC.",USA,NMFQS,USD,FUND
 PRSP,Perspecta Inc,USA,NYSE,USD,Common Stock
-PRSR,Prospector Capital Corp,USA,,USD,Common Stock
+PRSR,Prospector Capital Corp,USA,NASDAQ,USD,Common Stock
 PRSRF,Soma Gold Corp,USA,OTCGREY,USD,Common Stock
 PRSRU,Prospector Capital Corp,USA,NASDAQ,USD,Common Stock
-PRSRW,Prospector Capital Corp,USA,,USD,Common Stock
+PRSRW,Prospector Capital Corp,USA,NASDAQ,USD,Common Stock
 PRSRX,PUTNAM RESEARCH FUND CLASS R SHARES,USA,NMFQS,USD,FUND
 PRSVX,"T. ROWE PRICE SMALL-CAP VALUE FUND, INC. T. ROWE PRICE SMALL-CAP VALUE FUND, INC.",USA,NMFQS,USD,FUND
 PRT,PermRock Royalty Trust,USA,NYSE,USD,Common Stock
@@ -36167,7 +36211,7 @@ PSABX,SMALLCAP FUND FKA SMALLCAP BLEND FUND R-1,USA,NMFQS,USD,FUND
 PSAC,Property Solutions Acquisition Corp,USA,NASDAQ,USD,Common Stock
 PSACU,Property Solutions Acquisition Corp,USA,NASDAQ,USD,Common Stock
 PSACW,Property Solutions Acquisition Corp,USA,NASDAQ,USD,Common Stock
-PSAGU,Property Solutions Acquisition Corporation II Units,USA,,USD,Common Stock
+PSAGU,Property Solutions Acquisition Corp. II,USA,NASDAQ,USD,Common Stock
 PSAIX,PIMCO GLOBAL ADVANTAGE STRATEGY BOND FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
 PSAJX,STRATEGIC ASSET MANAGEMENT BALANCED PORTFOLIO CLASS J,USA,NMFQS,USD,FUND
 PSANX,PIMCO MORTGAGE-BACKED SECURITIES FUND I-3,USA,NMFQS,USD,FUND
@@ -36417,7 +36461,7 @@ PT,Pintec Technology Holdings Limited,USA,NASDAQ,USD,Common Stock
 PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund,USA,NYSE,USD,Common Stock
 PTAAX,PRINCETON LONG/SHORT TREASURY FUND CLASS A SHARES,USA,NMFQS,USD,FUND
 PTAEX,PUTNAM TAX EXEMPT INCOME FUND CLASS A SHARES,USA,NMFQS,USD,FUND
-PTAH,"PTA Holdings, Inc",USA,PINK,USD,Common Stock
+PTAH,"PTA Holdings, Inc",USA,OTCCE,USD,Common Stock
 PTAIF,PT Astra International Tbk,USA,PINK,USD,Common Stock
 PTAIX,Princeton Long/Short Treasury Fund Class,USA,NMFQS,USD,FUND
 PTAIY,PT Astra International Tbk,USA,PINK,USD,Common Stock
@@ -36432,6 +36476,7 @@ PTAPX,PRINCIPAL LIFETIME 2010 FUND R-5,USA,NMFQS,USD,FUND
 PTASX,Principal Fds Inc Principal Lifetime 2010 Fd,USA,NMFQS,USD,FUND
 PTATX,T Rowe Price Total Return Fund Advisor C,USA,NMFQS,USD,FUND
 PTAUF,Port of Tauranga Limited,USA,OTCGREY,USD,Common Stock
+PTAUY,Port of Tauranga Limited,USA,PINK,USD,Common Stock
 PTAYF,PT Asuransi Ramayana Tbk,USA,PINK,USD,Common Stock
 PTBAX,PRINCIPAL LIFETIME 2020 FUND CLASS A,USA,NMFQS,USD,FUND
 PTBBU,"POET, LLC",USA,OTCGREY,USD,Common Stock
@@ -36603,7 +36648,7 @@ PTTFX,T Rowe Price Total Return Fund Investor,USA,NMFQS,USD,FUND
 PTTIX,PRINCIPAL LIFETIME 2010 FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 PTTL,"Pure Transit Technologies, Inc",USA,OTCCE,USD,Common Stock
 PTTMF,PT TIMAH Tbk,USA,OTCGREY,USD,Common Stock
-PTTN,"Patten Energy Solutions Group, Inc",USA,PINK,USD,Common Stock
+PTTN,"Patten Energy Solutions Group, Inc",USA,OTCCE,USD,Common Stock
 PTTNX,PIMCO TOTAL RETURN FUND I-3,USA,NMFQS,USD,FUND
 PTTPX,PIMCO TOTAL RETURN FUND CLASS P,USA,NMFQS,USD,FUND
 PTTRX,TOTAL RETURN FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
@@ -36621,6 +36666,7 @@ PTWZX,PRUDENTIAL JENNISON 20/20 FOCUS FUND CLASS Z,USA,NMFQS,USD,FUND
 PTXAF,PT XL Axiata Tbk,USA,OTCGREY,USD,Common Stock
 PTXFX,PACIFIC CAPITAL TAX-FREE SECURITIES FUND CLASS Y,USA,NMFQS,USD,FUND
 PTXKY,PT XL Axiata Tbk,USA,PINK,USD,Common Stock
+PTXLF,PTT Exploration and Production Public Company Limited,USA,PINK,USD,Common Stock
 PTY,PIMCO Corporate & Income Opportunity Fund,USA,NYSE,USD,FUND
 PTYIX,"T. ROWE PRICE TAX-FREE HIGH YIELD FUND, INC. T. ROWE PRICE TAX-FREE HIGH YIELD FUND-I CLASS",USA,NMFQS,USD,FUND
 PTZH,"Photozou Holdings, Inc",USA,PINK,USD,Common Stock
@@ -37564,7 +37610,6 @@ RCCMF,Nippon Dragon Resources Inc,USA,PINK,USD,Common Stock
 RCCSX,COMMODITY STRATEGIES FUND CLASS S,USA,NMFQS,USD,FUND
 RCCTX,AMERICAN FUNDS 2020 TARGET DATE RETIREMENT FUND CLASS R-3,USA,NMFQS,USD,FUND
 RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,USA,NYSE ARCA,USD,ETF
-RCDOF,Ricardo plc,USA,OTCGREY,USD,Common Stock
 RCDTF,Recordati Industria Chimica e Farmaceutica S.p.A,USA,PINK,USD,Common Stock
 RCDTX,AMERICAN FUNDS 2025 TARGET DATE RETIREMENT FUND CLASS R-3,USA,NMFQS,USD,FUND
 RCEBX,CAPITAL WORLD BOND FUND CLASS R-2E,USA,NMFQS,USD,FUND
@@ -37601,7 +37646,7 @@ RCKE,"Rock Energy Resources, Inc",USA,OTCCE,USD,Common Stock
 RCKHF,Rockhopper Exploration plc,USA,PINK,USD,Common Stock
 RCKSX,ROCK OAK CORE GROWTH FUND ROCK OAK CORE GROWTH FUND,USA,NMFQS,USD,FUND
 RCKT,"Rocket Pharmaceuticals, Inc",USA,NASDAQ,USD,Common Stock
-RCKTF,Rock Tech Lithium Inc,USA,OTCGREY,USD,Common Stock
+RCKTF,Rock Tech Lithium Inc,USA,PINK,USD,Common Stock
 RCKTX,AMERICAN FUNDS 2040 TARGET DATE RETIREMENT FUND CLASS R-3,USA,NMFQS,USD,FUND
 RCKY,"Rocky Brands, Inc",USA,NASDAQ,USD,Common Stock
 RCKZF,Rocket Internet SE,USA,OTCGREY,USD,Common Stock
@@ -37782,6 +37827,7 @@ REEAX,RBC EMERGING MARKETS EQUITY FUND CLASS A,USA,NMFQS,USD,FUND
 REEBX,EUROPACIFIC GROWTH FUND CLASS R-2E,USA,NMFQS,USD,FUND
 REECF,Reece Limited,USA,OTCGREY,USD,Common Stock
 REED,"Reed's, Inc",USA,NASDAQ,USD,Common Stock
+REEEF,RareX Limited,USA,PINK,USD,Common Stock
 REEIX,RBC EMERGING MARKETS EQUITY FUND CLASS I,USA,NMFQS,USD,FUND
 REEMF,Rare Element Resources Ltd,USA,OTCQB,USD,Common Stock
 REET,iShares Global REIT ETF,USA,NYSE ARCA,USD,ETF
@@ -37870,6 +37916,7 @@ REPL,"Replimune Group, Inc",USA,NASDAQ,USD,Common Stock
 REPO,National Asset Recovery Corp,USA,PINK,USD,Common Stock
 REPOX,REPOX,USA,NMFQS,USD,Mutual Fund
 REPSX,REAL ESTATE ULTRASECTOR PROFUND REAL ESTATE ULTRASECTOR PROFUND SERVICE CLASS,USA,NMFQS,USD,FUND
+REPX,REPX,USA,NYSE MKT,USD,Common Stock
 REPYF,"Repsol, S.A",USA,OTCQX,USD,Common Stock
 REPYX,REPYX,USA,NMFQS,USD,Mutual Fund
 REPYY,"Repsol, S.A",USA,OTCQX,USD,Common Stock
@@ -38657,7 +38704,7 @@ ROCHW,Roth CH Acquisition I Co,USA,NASDAQ,USD,Common Stock
 ROCK,"Gibraltar Industries, Inc",USA,NASDAQ,USD,Common Stock
 ROCKX,ROCKEFELLER EQUITY ALLOCATION FUND ROCKEFELLER EQUITY ALLOCATION FUND - INSTITUTIONAL CLASS SHARES,USA,NMFQS,USD,FUND
 ROCLF,"Royal Olympic Cruise Lines, Inc",USA,PINK,USD,Common Stock
-ROCRU,Roth CH Acquisition III Co,USA,,USD,Common Stock
+ROCRU,Roth CH Acquisition III Co,USA,NASDAQ,USD,Common Stock
 RODE,Hartford Multifactor Diversified International ETF,USA,BATS,USD,ETF
 RODI,Barclays Return on Disability ETN,USA,BATS,USD,ETF
 RODM,Hartford Multifactor Developed Markets (ex-US) ETF,USA,NYSE ARCA,USD,ETF
@@ -39209,6 +39256,7 @@ RXL,ProShares Ultra Health Care,USA,NYSE ARCA,USD,ETF
 RXLSF,Rexel S.A,USA,PINK,USD,Common Stock
 RXMD,"Progressive Care, Inc",USA,OTCQB,USD,Common Stock
 RXN,Rexnord Corporation,USA,NYSE,USD,Common Stock
+RXRAU,RXR Acquisition Corp,USA,NASDAQ,USD,Common Stock
 RXRPX,AMERICAN FUNDS RETIREMENT INCOME PORTFOLIO - ENHANCED CLASS R-5,USA,NMFQS,USD,FUND
 RXT,"Rackspace Technology, Inc",USA,NASDAQ,USD,Common Stock
 RY,Royal Bank of Canada,USA,NYSE,USD,Common Stock
@@ -39659,6 +39707,7 @@ SBB,ProShares Short SmallCap600,USA,NYSE ARCA,USD,ETF
 SBBA,SBBA,USA,NYSE,USD,Common Stock
 SBBAX,QS CONSERVATIVE GROWTH FUND CLASS A,USA,NMFQS,USD,FUND
 SBBG,"The Seibels Bruce Group, Inc",USA,PINK,USD,Common Stock
+SBBI,"S.B.C.P. Bancorp, Inc",USA,PINK,USD,Common Stock
 SBBP,Strongbridge Biopharma plc,USA,NASDAQ,USD,Common Stock
 SBBSF,Sabana Shari'ah Compliant Industrial Real Estate Investment Trust,USA,PINK,USD,Common Stock
 SBBTF,Schibsted ASA,USA,OTCGREY,USD,Common Stock
@@ -39710,6 +39759,7 @@ SBIEX,CLEARBRIDGE INTERNATIONAL VALUE FUND CLASS A,USA,NMFQS,USD,FUND
 SBIFX,SEXTANT BOND INCOME FUND SEXTANT BOND INCOME FUND,USA,NMFQS,USD,FUND
 SBIIX,STERLING CAPITAL BEHAVIORAL INTERNATIONAL EQUITY FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
 SBILX,WESTERN ASSET CORPORATE BOND FUND CLASS C1,USA,NMFQS,USD,FUND
+SBIMF,SBIMF,USA,OTCGREY,USD,ETF
 SBIO,ALPS Medical Breakthroughs ETF,USA,NYSE ARCA,USD,ETF
 SBIYX,CLEARBRIDGE INTERNATIONAL VALUE FUND CLASS I,USA,NMFQS,USD,FUND
 SBIZF,SymBio Pharmaceuticals Limited,USA,OTCGREY,USD,Common Stock
@@ -39734,6 +39784,7 @@ SBMLX,CLEARBRIDGE MID CAP FUND CLASS C,USA,NMFQS,USD,FUND
 SBMSF,Danakali Limited,USA,PINK,USD,Common Stock
 SBNC,"Southern BancShares (N.C.), Inc",USA,PINK,USD,Common Stock
 SBNCM,"Southern BancShares (N.C.), Inc. PFD CV B",USA,PINK,USD,Common Stock
+SBNCN,"Southern BancShares (N.C.), Inc. PFD CL C",USA,PINK,USD,Common Stock
 SBNY,Signature Bank,USA,NASDAQ,USD,Common Stock
 SBNYP,Signature Bank,USA,NASDAQ,USD,Common Stock
 SBNYX,WESTERN ASSET NEW YORK MUNICIPALS FUND CLASS A,USA,NMFQS,USD,FUND
@@ -40018,6 +40069,7 @@ SCSCX,SENTINEL COMMON STOCK FUND CLASS C,USA,NMFQS,USD,FUND
 SCSDX,WELLS FARGO COMMON STOCK FUND ADMINISTRATOR CLASS,USA,NMFQS,USD,FUND
 SCSG,"SouthCrest Financial Group, Inc",USA,PINK,USD,Common Stock
 SCSIX,SENTINEL MULTI-ASSET INCOME FUND CLASS I,USA,NMFQS,USD,FUND
+SCSKF,SCSK Corporation,USA,PINK,USD,Common Stock
 SCSLX,SCSLX,USA,NMFQS,USD,FUND
 SCSMX,CLEARBRIDGE SMALL CAP GROWTH FUND CLASS C,USA,NMFQS,USD,FUND
 SCSPX,STERLING CAPITAL SECURITIZED OPPORTUNITIES FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
@@ -40105,7 +40157,6 @@ SDGCF,"Sundrug Co.,Ltd",USA,PINK,USD,Common Stock
 SDGCX,DEUTSCHE CAPITAL GROWTH FUND CLASS C,USA,NMFQS,USD,FUND
 SDGFX,SDIT SHORT DURATION GOVERNMENT FUND CLASS Y,USA,NMFQS,USD,FUND
 SDGIX,DREYFUS/STANDISH GLOBAL FIXED INCOME FUND DREYFUS/STANDISH GLOBAL FIXED INCOME FUND - CLASS I,USA,NMFQS,USD,FUND
-SDGMF,"Shandong Gold Mining Co., Ltd",USA,OTCGREY,USD,Common Stock
 SDGR,"Schrödinger, Inc",USA,NASDAQ,USD,Common Stock
 SDGRX,DEUTSCHE CAPITAL GROWTH FUND CLASS R,USA,NMFQS,USD,FUND
 SDGTX,DEUTSCHE CAPITAL GROWTH FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
@@ -40574,7 +40625,8 @@ SGRB,SigmaBroadband Co,USA,PINK,USD,Common Stock
 SGRCF,San Gold Corporation,USA,PINK,USD,Common Stock
 SGRHX,WELLS FARGO GROWTH FUND CLASS R6,USA,NMFQS,USD,FUND
 SGRKX,WELLS FARGO GROWTH FUND ADMINISTRATOR CLASS,USA,NMFQS,USD,FUND
-SGRNF,Serengeti Resources Inc,USA,OTCGREY,USD,Common Stock
+SGRND,SGRND,USA,OTCGREY,USD,Common Stock
+SGRNF,Northwest Copper Corp,USA,OTCGREY,USD,Common Stock
 SGRNX,WELLS FARGO GROWTH FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 SGRP,"SPAR Group, Inc",USA,NASDAQ,USD,Common Stock
 SGRPW,"Sirius International Group, Ltd. WT EXP 123123",USA,OTCQX,USD,Common Stock
@@ -41232,6 +41284,7 @@ SMDRX,HARTFORD SCHRODERS US SMALL/MID CAP OPPORTUNITIES FUND CLASS SDR,USA,NMFQS
 SMDSX,SMDSX,USA,NMFQS,USD,FUND
 SMDV,ProShares Russell 2000 Dividend Growers ETF,USA,BATS,USD,ETF
 SMDVX,HARTFORD SCHRODERS US SMALL/MID CAP OPPORTUNITIES FUND CLASS A,USA,NMFQS,USD,FUND
+SMDXF,Sierra Madre Developments Inc,USA,OTCGREY,USD,Common Stock
 SMDY,Syntax Stratified MidCap ETF,USA,NYSE ARCA,USD,ETF
 SMDYX,WESTERN ASSET SHORT DURATION MUNICIPAL INCOME FUND CLASS I,USA,NMFQS,USD,FUND
 SMDZF,Strategic Metals Ltd,USA,PINK,USD,Common Stock
@@ -41336,7 +41389,7 @@ SMPFF,"San Miguel Food and Beverage, Inc",USA,OTCGREY,USD,Common Stock
 SMPIX,SEMICONDUCTOR ULTRASECTOR PROFUND SEMICONDUCTOR ULTRASECTOR PROFUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 SMPL,The Simply Good Foods Company,USA,NASDAQ,USD,Common Stock
 SMPNY,"Sompo Holdings, Inc",USA,PINK,USD,Common Stock
-SMPP,Strategic Management and Opportunity Corporation,USA,PINK,USD,Common Stock
+SMPP,Strategic Management and Opportunity Corporation,USA,OTCCE,USD,Common Stock
 SMPR,"Standard Metals Processing, Inc",USA,PINK,USD,Common Stock
 SMPSX,SEMICONDUCTOR ULTRASECTOR PROFUND SEMICONDUCTOR ULTRASECTOR PROFUND SERVICE CLASS,USA,NMFQS,USD,FUND
 SMQFX,SIIT EMERGING MARKETS EQUITY FUND SIIT EMERGING MARKETS EQUITY FUND - CLASS A,USA,NMFQS,USD,FUND
@@ -41448,6 +41501,7 @@ SNHPF,"Sanei Architecture Planning Co.,Ltd",USA,OTCGREY,USD,Common Stock
 SNIDX,INTERMEDIATE DURATION PORTFOLIO INTERMEDIATE DURATION PORTFOLIO,USA,NMFQS,USD,FUND
 SNIEX,DREYFUS/NEWTON INTERNATIONAL EQUITY FUND DREYFUS/NEWTON INTERNATIONAL EQUITY FUND - CLASS I,USA,NMFQS,USD,FUND
 SNIGX,SIT LARGE CAP GROWTH FUND INC SIT LARGE CAP GROWTH FUND INC,USA,NMFQS,USD,FUND
+SNII-U,SNII-U,USA,NYSE,USD,Common Stock
 SNIOF,SENSIO Technologies Inc,USA,OTCGREY,USD,Common Stock
 SNIPF,Snipp Interactive Inc,USA,PINK,USD,Common Stock
 SNIRF,Senior plc,USA,OTCGREY,USD,Common Stock
@@ -41841,7 +41895,7 @@ SPRAX,PRUDENTIAL QMA MID-CAP VALUE FUND CLASS A,USA,NMFQS,USD,FUND
 SPRB,"Spruce Biosciences, Inc",USA,NASDAQ,USD,Common Stock
 SPRBF,SpareBank 1 Østlandet,USA,OTCGREY,USD,Common Stock
 SPRCY,SciSparc Ltd,USA,OTCQB,USD,Common Stock
-SPRE,SP Funds S&P Global REIT Sharia ETF,USA,NYSE ARCA,USD,ETF
+SPRE,SP Funds S&amp;P Global REIT Sharia ETF,USA,NYSE ARCA,USD,ETF
 SPRL,"Strat Petroleum, Ltd",USA,OTCCE,USD,Common Stock
 SPRN,"Supernova Energy, Inc",USA,PINK,USD,Common Stock
 SPRO,"Spero Therapeutics, Inc",USA,NASDAQ,USD,Common Stock
@@ -41876,7 +41930,7 @@ SPTS,SPDR Portfolio Short Term Treasury ETF,USA,NYSE ARCA,USD,ETF
 SPUBX,SYMMETRY PANORAMIC US FIXED INCOME FUND CLASS I SHARES,USA,NMFQS,USD,FUND
 SPUC,Simplify US Equity PLUS Upside Convexity ETF,USA,NYSE ARCA,USD,ETF
 SPUP,Sipup Corporation,USA,PINK,USD,Common Stock
-SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,USA,NYSE ARCA,USD,ETF
+SPUS,SP Funds S&amp;P 500 Sharia Industry Exclusions ETF,USA,NYSE ARCA,USD,ETF
 SPUSX,SYMMETRY PANORAMIC US EQUITY FUND CLASS I SHARES,USA,NMFQS,USD,FUND
 SPUU,Direxion Daily S&P 500 Bull 2X Shares,USA,NYSE ARCA,USD,ETF
 SPVM,Invesco S&P 500 Value with Momentum ETF,USA,NYSE ARCA,USD,ETF
@@ -41902,7 +41956,7 @@ SPXN,ProShares S&P 500 ex-Financials ETF,USA,NYSE ARCA,USD,ETF
 SPXP,"Spirit Exploration, Inc",USA,OTCCE,USD,Common Stock
 SPXS,Direxion Daily S&P 500 Bear 3X Shares,USA,NYSE ARCA,USD,ETF
 SPXSF,Spirax-Sarco Engineering plc,USA,PINK,USD,Common Stock
-SPXSY,Spirax-Sarco Engineering plc,USA,OTCGREY,USD,Common Stock
+SPXSY,Spirax-Sarco Engineering plc,USA,PINK,USD,Common Stock
 SPXT,ProShares S&P 500 ex-Technology ETF,USA,NYSE ARCA,USD,ETF
 SPXU,ProShares UltraPro Short S&P500,USA,NYSE ARCA,USD,ETF
 SPXV,ProShares S&P 500 ex-Health Care ETF,USA,NYSE ARCA,USD,ETF
@@ -42240,6 +42294,7 @@ SSRM,SSR Mining Inc,USA,NASDAQ,USD,Common Stock
 SSRRX,Sentinel Small Company Fund Class R6,USA,NMFQS,USD,FUND
 SSRSF,Silver Sands Resources Corp,USA,OTCQB,USD,Common Stock
 SSRSX,State Street Real Estate Securities VIS,USA,NMFQS,USD,FUND
+SSSAF,Shurgard Self Storage S.A,USA,OTCGREY,USD,Common Stock
 SSSDX,SSGA DYNAMIC SMALL CAP FUND CLASS A,USA,NMFQS,USD,FUND
 SSSEF,SSgA SPDR ETFs Europe II Public Limited Company - SPDR S&P U.S. Financials Select Sector UCITS ETF,USA,OTCGREY,USD,ETF
 SSSEX,State Street Small-Cap Equity V.I.S. Fun,USA,NMFQS,USD,FUND
@@ -42621,7 +42676,7 @@ SUNCX,AIG COMMODITY STRATEGY FUND CLASS C,USA,NMFQS,USD,FUND
 SUND,"Sundance Strategies, Inc",USA,OTCQB,USD,Common Stock
 SUNDARMFIN,Sundaram Finance Ltd,USA,,USD,Common Stock
 SUNFF,Sun Life Financial Inc,USA,PINK,USD,Common Stock
-SUNPF,Sun Peak Metals Corp,USA,PINK,USD,Common Stock
+SUNPF,Sun Peak Metals Corp,USA,OTCQB,USD,Common Stock
 SUNR,"Sun Sports and Entertainment, Inc",USA,OTCCE,USD,Common Stock
 SUNS,SLR Senior Investment Corp,USA,NASDAQ,USD,Common Stock
 SUNTF,Suncorp Technologies Limited,USA,PINK,USD,Common Stock
@@ -42777,7 +42832,9 @@ SWASX,SCHWAB GLOBAL REAL ESTATE FUND SCHWAB GLOBAL REAL ESTATE FUND,USA,NMFQS,US
 SWAV,"ShockWave Medical, Inc",USA,NASDAQ,USD,Common Stock
 SWBGX,SCHWAB MARKETTRACK BALANCED PORTFOLIO INVESTOR SHARES,USA,NMFQS,USD,FUND
 SWBI,"Smith & Wesson Brands, Inc",USA,NASDAQ,USD,Common Stock
+SWBK,Switchback II Corporation,USA,NYSE,USD,Common Stock
 SWBK-U,SWBK-U,USA,NYSE,USD,Common Stock
+SWBK-WS,SWBK-WS,USA,NYSE,USD,Common Stock
 SWBRX,SCHWAB TARGET 2010 FUND SCHWAB TARGET 2010 FUND,USA,NMFQS,USD,FUND
 SWCAX,SCHWAB CALIFORNIA TAX-FREE BOND FUND SCHWAB CALIFORNIA TAX-FREE BOND FUND,USA,NMFQS,USD,FUND
 SWCC,Southwest Casino Corp,USA,OTCCE,USD,Common Stock
@@ -42796,6 +42853,7 @@ SWEE,"SweeGen, Inc",USA,PINK,USD,Common Stock
 SWEGX,SCHWAB MARKETTRACK ALL EQUITY PORTFOLIO INVESTOR SHARES,USA,NMFQS,USD,FUND
 SWERX,SCHWAB TARGET 2040 FUND SCHWAB TARGET 2040 FUND,USA,NMFQS,USD,FUND
 SWETU,Athlon Acquisition Corp,USA,NASDAQ,USD,Common Stock
+SWETW,Athlon Acquisition Corp. Warrant,USA,NASDAQ,USD,Common Stock
 SWFCX,SENTINEL INTERNATIONAL EQUITY FUND CLASS C,USA,NMFQS,USD,FUND
 SWGAF,The Swatch Group AG,USA,PINK,USD,Common Stock
 SWGAY,The Swatch Group AG,USA,PINK,USD,Common Stock
@@ -42898,6 +42956,7 @@ SXTC,"China SXT Pharmaceuticals, Inc",USA,NASDAQ,USD,Common Stock
 SXYAY,Sika AG,USA,PINK,USD,Common Stock
 SY,So-Young International Inc,USA,NASDAQ,USD,Common Stock
 SYAAF,Syrah Resources Limited,USA,PINK,USD,Common Stock
+SYANY,Sydbank A/S,USA,PINK,USD,Common Stock
 SYBF,Syntec Biofuel Inc,USA,OTCCE,USD,Common Stock
 SYBJF,Security Bank Corporation,USA,PINK,USD,Common Stock
 SYBRQ,Synergy Brands Inc,USA,OTCCE,USD,Common Stock
@@ -43306,7 +43365,6 @@ TCOM,Trip.com Group Limited,USA,NASDAQ,USD,Common Stock
 TCON,"TRACON Pharmaceuticals, Inc",USA,NASDAQ,USD,Common Stock
 TCOR,"TreeCon Resources, Inc",USA,PINK,USD,Common Stock
 TCOTX,ClearTrack 2045 Class R6,USA,NMFQS,USD,FUND
-TCP,"TC PipeLines, LP",USA,NYSE,USD,Common Stock
 TCPAX,TOUCHSTONE TOTAL RETURN BOND FUND CLASS A,USA,NMFQS,USD,FUND
 TCPC,BlackRock TCP Capital Corp,USA,NASDAQ,USD,Common Stock
 TCPCX,TOUCHSTONE TOTAL RETURN BOND FUND CLASS C,USA,NMFQS,USD,FUND
@@ -43465,6 +43523,7 @@ TECO,Trimerica Energy Corporation,USA,OTCCE,USD,Common Stock
 TECS,Direxion Daily Technology Bear 3X Shares,USA,NYSE ARCA,USD,ETF
 TECTP,"Tectonic Financial, Inc",USA,NASDAQ,USD,Common Stock
 TECWX,TIAA-CREF Enhanced Large-Cap Growth Index Fund -,USA,NMFQS,USD,FUND
+TECXF,TECXF,USA,PINK,USD,Common Stock
 TEDHX,TIAA-CREF EMERGING MARKETS DEBT FUND ADVISOR CLASS,USA,NMFQS,USD,FUND
 TEDIX,FRANKLIN MUTUAL GLOBAL DISCOVERY FUND CLASS A,USA,NMFQS,USD,FUND
 TEDLX,TIAA-CREF EMERGING MARKETS DEBT FUND RETAIL CLASS,USA,NMFQS,USD,FUND
@@ -44357,9 +44416,9 @@ TMIFX,Transamerica Mid Cap Growth Class R4,USA,NMFQS,USD,FUND
 TMIRX,Transamerica Mid Cap Growth Class R,USA,NMFQS,USD,FUND
 TMITX,Transamerica Mid Cap Growth Class I3,USA,NMFQS,USD,FUND
 TMIX,"Tarsin Mobile, Inc",USA,PINK,USD,Common Stock
-TMKR,Tastemaker Acquisition Corp,USA,,USD,Common Stock
+TMKR,Tastemaker Acquisition Corp,USA,NASDAQ,USD,Common Stock
 TMKRU,Tastemaker Acquisition Corp,USA,NASDAQ,USD,Common Stock
-TMKRW,Tastemaker Acquisition Corp,USA,,USD,Common Stock
+TMKRW,Tastemaker Acquisition Corp,USA,NASDAQ,USD,Common Stock
 TMLAX,TRANSAMERICA MLP & ENERGY INCOME A,USA,NMFQS,USD,FUND
 TMLCX,"SIMT TAX-MANAGED LARGE CAP FUND SIMT TAX-MANAGED LARGE CAP FUND - CLASS F, EFFECTIVE 1-31-2017 (FORMERLY CLASS A)",USA,NMFQS,USD,FUND
 TMLDX,THRIVENT MULTIDIMENSIONAL INCOME FUND CLASS S,USA,NMFQS,USD,FUND
@@ -44746,6 +44805,7 @@ TRBRX,T. ROWE PRICE RETIREMENT I 2020 FUND-I CLASS T. ROWE PRICE RETIREMENT I 20
 TRBUX,T. ROWE PRICE ULTRA SHORT-TERM BOND FUND T. ROWE PRICE ULTRA SHORT-TERM BOND FUND,USA,NMFQS,USD,FUND
 TRBX,TRB Systems International Inc,USA,PINK,USD,Common Stock
 TRC,Tejon Ranch Co,USA,NYSE,USD,Common Stock
+TRCA-U,TRCA-U,USA,NYSE,USD,Common Stock
 TRCH,"Torchlight Energy Resources, Inc",USA,NASDAQ,USD,Common Stock
 TRCIX,TIAA-CREF LIFECYCLE INDEX RETIREMENT INCOME FUND RETIREMENT CLASS,USA,NMFQS,USD,FUND
 TRCK,"Track Group, Inc",USA,OTCQX,USD,Common Stock
@@ -44873,7 +44933,6 @@ TROCX,Touchstone Sustainability and Impact Equ,USA,NMFQS,USD,FUND
 TROG,Triumph Oil & Gas Corp,USA,PINK,USD,Common Stock
 TROIF,Tri Origin Exploration Ltd,USA,OTCGREY,USD,Common Stock
 TROIX,T. ROWE PRICE OVERSEAS STOCK FUND T. ROWE PRICE OVERSEAS STOCK FUND-I CLASS,USA,NMFQS,USD,FUND
-TROLB,"Tootsie Roll Industries, Inc",USA,PINK,USD,Common Stock
 TROSX,T. ROWE PRICE OVERSEAS STOCK FUND T. ROWE PRICE OVERSEAS STOCK FUND,USA,NMFQS,USD,FUND
 TROUF,Troubadour Resources Inc,USA,PINK,USD,Common Stock
 TROW,"T. Rowe Price Group, Inc",USA,NASDAQ,USD,Common Stock
@@ -45079,7 +45138,7 @@ TSDJX,TIAA-CREF Short Duration Impact Bond Fund - Institutional Class,USA,NMFQS,
 TSDLX,TSDLX,USA,NMFQS,USD,Mutual Fund
 TSDOF,Tessenderlo Group NV,USA,OTCGREY,USD,Common Stock
 TSDOX,TOUCHSTONE ULTRA SHORT DURATION FIXED INCOME FUND CLASS Z,USA,NMFQS,USD,FUND
-TSDRF,Tsodilo Resources Limited,USA,PINK,USD,Common Stock
+TSDRF,Tsodilo Resources Limited,USA,OTCQB,USD,Common Stock
 TSDUX,ULTRA-SHORT TERM FIXED INCOME FUND ULTRA-SHORT TERM FIXED INCOME FUND,USA,NMFQS,USD,FUND
 TSE,Trinseo S.A,USA,NYSE,USD,Common Stock
 TSEGX,TOUCHSTONE SANDS CAPITAL EMERGING MARKETS GROWTH FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
@@ -45181,6 +45240,7 @@ TSPFX,Transamerica Small Cap Growth Class R4,USA,NMFQS,USD,FUND
 TSPG,TGI Solar Power Group Inc,USA,PINK,USD,Common Stock
 TSPIX,TSPIX,USA,NMFQS,USD,Fund
 TSPO,Crank Media Inc,USA,PINK,USD,Common Stock
+TSPQ-U,TSPQ-U,USA,NYSE,USD,Common Stock
 TSPRX,Transamerica Small Cap Growth Class R,USA,NMFQS,USD,FUND
 TSPTX,Transamerica Small Cap Growth Class I3,USA,NMFQS,USD,FUND
 TSQ,"Townsquare Media, Inc",USA,NYSE,USD,Common Stock
@@ -45235,7 +45295,6 @@ TTAC,TrimTabs U.S. Free Cash Flow Quality ETF,USA,BATS,USD,ETF
 TTAI,TrimTabs International Free Cash Flow Quality ETF,USA,BATS,USD,ETF
 TTALF,Terveystalo Oyj,USA,PINK,USD,Common Stock
 TTAPF,TTW Public Company Limited,USA,PINK,USD,Common Stock
-TTAPY,TTW Public Company Limited,USA,PINK,USD,Common Stock
 TTBHX,TIAA-CREF Short-Term Bond Index Advisor,USA,NMFQS,USD,FUND
 TTBLF,Total Brain Limited,USA,OTCGREY,USD,Common Stock
 TTBWX,TIAA-CREF Short-Term Bond Index Fund -,USA,NMFQS,USD,FUND
@@ -45434,6 +45493,7 @@ TWCTU,TWC Tech Holdings II Corp,USA,NASDAQ,USD,Common Stock
 TWCTW,TWC Tech Holdings II Corp,USA,NASDAQ,USD,Common Stock
 TWCUX,ULTRA FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 TWDAX,TEMPLETON WORLD FUND ADVISOR CLASS,USA,NMFQS,USD,FUND
+TWDLF,Trackwise Designs plc,USA,PINK,USD,Common Stock
 TWEAX,EQUITY INCOME FUND A CLASS,USA,NMFQS,USD,FUND
 TWEBX,"TWEEDY, BROWNE VALUE FUND TWEEDY, BROWNE VALUE FUND",USA,NMFQS,USD,FUND
 TWEIX,EQUITY INCOME FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
@@ -45462,6 +45522,7 @@ TWNE,"Towne Bancorp, Inc",USA,PINK,USD,Common Stock
 TWNI-U,TWNI-U,USA,NYSE,USD,Common Stock
 TWNK,"Hostess Brands, Inc",USA,NASDAQ,USD,Common Stock
 TWNKW,"Hostess Brands, Inc",USA,NASDAQ,USD,Common Stock
+TWNT-U,TWNT-U,USA,NYSE,USD,Common Stock
 TWO,Two Harbors Investment Corp,USA,NYSE,USD,Common Stock
 TWO-PA,Two Harbors Investment Corp,USA,NYSE,USD,Preferred Share
 TWO-PB,Two Harbors Investment Corp,USA,NYSE,USD,Preferred Share
@@ -45942,7 +46003,7 @@ URBF,Urban Barns Foods Inc,USA,OTCCE,USD,Common Stock
 URBN,"Urban Outfitters, Inc",USA,NASDAQ,USD,Common Stock
 URBT,Urban Television Network Corporation,USA,PINK,USD,Common Stock
 URCCF,Uranium Royalty Corp,USA,OTCGREY,USD,Common Stock
-URCFF,Vanadian Energy Corp,USA,PINK,USD,Common Stock
+URCFF,Vanadian Energy Corp,USA,OTCBB,USD,Common Stock
 URE,ProShares Ultra Real Estate,USA,NYSE ARCA,USD,ETF
 UREQF,DevEx Resources Limited,USA,OTCGREY,USD,Common Stock
 URFFX,TARGET RETIREMENT 2050 FUND TARGET RETIREMENT 2050 FUND,USA,NMFQS,USD,FUND
@@ -46368,9 +46429,9 @@ VCISX,VIRTUS INTERNATIONAL SMALL-CAP FUND CLASS C,USA,NMFQS,USD,FUND
 VCISY,VINCI SA,USA,PINK,USD,Common Stock
 VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares,USA,NASDAQ,USD,ETF
 VCITX,VANGUARD CALIFORNIA LONG-TERM TAX-EXEMPT FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
+VCKA,Vickers Vantage Corp. I,USA,NASDAQ,USD,Common Stock
 VCKAU,Vickers Vantage Corp. I,USA,NASDAQ,USD,Common Stock
 VCKSX,VCKSX,USA,NMFQS,USD,Mutual Fund
-VCKVF,VCKVF,USA,OTCGREY,USD,Common Stock
 VCLAX,VANGUARD CALIFORNIA LONG-TERM TAX-EXEMPT FUND ADMIRAL SHARES,USA,NMFQS,USD,FUND
 VCLD,"Verecloud, Inc",USA,OTCCE,USD,Common Stock
 VCLO,Simplify Volt Cloud and Cybersecurity Disruption ETF,USA,NYSE ARCA,USD,ETF
@@ -46567,7 +46628,7 @@ VFPAX,PRIVATE CAPITAL MANAGEMENT VALUE FUND CLASS A,USA,NMFQS,USD,FUND
 VFPEF,Vanguard Funds Public Limited Company - Vanguard FTSE All-World UCITS ETF,USA,OTCGREY,USD,ETF
 VFPIX,PRIVATE CAPITAL MANAGEMENT VALUE FUND CLASS I,USA,NMFQS,USD,FUND
 VFQY,Vanguard U.S. Quality Factor ETF ETF Shares,USA,BATS,USD,ETF
-VFRM,"Veritas Farms, Inc",USA,PINK,USD,Common Stock
+VFRM,"Veritas Farms, Inc",USA,OTCQB,USD,Common Stock
 VFSAX,VICTORY SELECT FUND CLASS A,USA,NMFQS,USD,FUND
 VFSIX,VANGUARD SHORT-TERM INVESTMENT-GRADE FUND INSTITUTIONAL SHARES,USA,NMFQS,USD,FUND
 VFSNX,VANGUARD FTSE ALL-WORLD EX-US SMALL-CAP INDEX FUND INSTITUTIONAL SHARES,USA,NMFQS,USD,FUND
@@ -47088,6 +47149,8 @@ VPAHF,Volpara Health Technologies Limited,USA,OTCGREY,USD,Common Stock
 VPAIX,VANGUARD PENNSYLVANIA LONG-TERM TAX-EXEMPT FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
 VPALX,VANGUARD PENNSYLVANIA LONG-TERM TAX-EXEMPT FUND ADMIRAL SHARES,USA,NMFQS,USD,FUND
 VPC,Virtus Private Credit ETF,USA,NYSE ARCA,USD,ETF
+VPCBU,VPC Impact Acquisition Holdings II Unit,USA,NASDAQ,USD,Common Stock
+VPCC-U,VPCC-U,USA,NYSE,USD,Common Stock
 VPCCX,VANGUARD PRIMECAP CORE FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
 VPEPX,VOYA EMERGING MARKETS INDEX PORTFOLIO CLASS P2,USA,NMFQS,USD,FUND
 VPER,"Viper Networks, Inc",USA,PINK,USD,Common Stock
@@ -47137,6 +47200,7 @@ VRA,"Vera Bradley, Inc",USA,NASDAQ,USD,Common Stock
 VRAI,Virtus Real Asset Income ETF,USA,NYSE ARCA,USD,ETF
 VRAY,"ViewRay, Inc",USA,NASDAQ,USD,Common Stock
 VRBCF,Virbac SA,USA,OTCGREY,USD,Common Stock
+VRBFF,VRBFF,USA,OTCQB,USD,Common Stock
 VRCA,Verrica Pharmaceuticals Inc,USA,NASDAQ,USD,Common Stock
 VRCAX,INVESCO BALANCED-RISK RETIREMENT 2020 FUND CLASS AX,USA,NMFQS,USD,FUND
 VRCCX,INVESCO BALANCED-RISK RETIREMENT 2020 FUND CLASS CX,USA,NMFQS,USD,FUND
@@ -47410,10 +47474,14 @@ VTI,Vanguard Total Stock Market Index Fund ETF Shares,USA,NYSE ARCA,USD,ETF
 VTIAX,VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND ADMIRAL SHARES,USA,NMFQS,USD,FUND
 VTIBX,VANGUARD TOTAL INTERNATIONAL BOND INDEX FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
 VTIFX,VANGUARD TOTAL INTERNATIONAL BOND INDEX FUND INSTITUTIONAL SHARES,USA,NMFQS,USD,FUND
+VTILX,VTILX,USA,NMFQS,USD,Mutual Fund
 VTINX,VANGUARD TARGET RETIREMENT INCOME FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
 VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares,USA,NASDAQ,USD,ETF
 VTIPX,VANGUARD SHORT-TERM INFLATION-PROTECTED SECURITIES INDEX FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
+VTIQ,VTIQ,USA,NASDAQ,USD,Common Stock
+VTIQ_old,VectoIQ Acquisition Corp,USA,NASDAQ,USD,Common Stock
 VTIQU,VectoIQ Acquisition Corp. II,USA,NASDAQ,USD,Common Stock
+VTIQW,VectoIQ Acquisition Corp. WT EXP 051623,USA,NASDAQ,USD,Common Stock
 VTISX,VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND INSTITUTIONAL SELECT SHARES,USA,NMFQS,USD,FUND
 VTIUX,VTIUX,USA,NMFQS,USD,Mutual Fund
 VTIVX,VANGUARD TARGET RETIREMENT 2045 FUND INVESTOR SHARES,USA,NMFQS,USD,FUND
@@ -47520,6 +47588,7 @@ VVIAX,VANGUARD VALUE INDEX FUND ADMIRAL SHARES,USA,NMFQS,USD,FUND
 VVILX,VVILX,USA,NMFQS,USD,FUND
 VVISX,VVISX,USA,NMFQS,USD,FUND
 VVIT,"Vista International Technologies, Inc",USA,PINK,USD,Common Stock
+VVIVF,EarthRenew Inc,USA,OTCQB,USD,Common Stock
 VVMIX,ADVANTUS DYNAMIC MANAGED VOLATILITY FUND INSTITUTIONAL CLASS SHARES,USA,NMFQS,USD,FUND
 VVNT,"Vivint Smart Home, Inc",USA,NYSE,USD,Common Stock
 VVNT-WS,VVNT-WS,USA,NYSE,USD,Common Stock
@@ -47696,7 +47765,7 @@ WAMCX,WASATCH ULTRA GROWTH FUND INVESTOR CLASS SHARES,USA,NMFQS,USD,FUND
 WAMFX,WALDEN MIDCAP FUND WALDEN MIDCAP FUND,USA,NMFQS,USD,FUND
 WAMIX,WSTCM CREDIT SELECT RISK-MANAGED FUND INSTITUTIONAL SHARES,USA,NMFQS,USD,FUND
 WAMVX,WASATCH MICRO CAP VALUE FUND INVESTOR CLASS SHARES,USA,NMFQS,USD,FUND
-WANSF,WANdisco plc,USA,OTCGREY,USD,Common Stock
+WANSF,WANdisco plc,USA,PINK,USD,Common Stock
 WANT,Direxion Daily Cnsmr Discret Bull 3XShrs,USA,NYSE ARCA,USD,ETF
 WAPAX,WESTERN ASSET CORE PLUS BOND FUND CLASS A,USA,NMFQS,USD,FUND
 WAPCX,WESTERN ASSET CORE PLUS BOND FUND CLASS C,USA,NMFQS,USD,FUND
@@ -47948,6 +48017,7 @@ WEIIF,Wolverine Energy and Infrastructure Inc,USA,OTCGREY,USD,Common Stock
 WEIIX,TETON WESTWOOD INTERMEDIATE BOND FUND CLASS I,USA,NMFQS,USD,FUND
 WEIKX,WEISS ALTERNATIVE BALANCED RISK FUND CLASS K,USA,NMFQS,USD,FUND
 WEIMX,TETON WESTWOOD MIGHTY MITES FUND CLASS I,USA,NMFQS,USD,FUND
+WEISX,WEISS ALTERNATIVE BALANCED RISK FUND CLASS I,USA,NMFQS,USD,FUND
 WEIZX,WEISS ALTERNATIVE BALANCED RISK FUND INVESTOR CLASS,USA,NMFQS,USD,FUND
 WEJTY,Webjet Limited,USA,PINK,USD,Common Stock
 WELIX,WILLIAM BLAIR EMERGING MARKETS LEADERS FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
@@ -47971,7 +48041,6 @@ WEQIX,WEQIX,USA,NMFQS,USD,FUND
 WEQL,WellQuest Medical & Wellness Corporation,USA,PINK,USD,Common Stock
 WEQRX,WEQRX,USA,NMFQS,USD,FUND
 WERN,"Werner Enterprises, Inc",USA,NASDAQ,USD,Common Stock
-WERU,We-R-You Corp,USA,OTCCE,USD,Common Stock
 WES,"Western Midstream Partners, LP",USA,NYSE,USD,Common Stock
 WESC,W&E Source Corp,USA,PINK,USD,Common Stock
 WESCX,TETON WESTWOOD SMALL CAP EQUITY FUND CLASS AAA,USA,NMFQS,USD,FUND
@@ -47979,6 +48048,7 @@ WESFX,Wildermuth Endowment Strategy Fund,USA,NASDAQ,USD,FUND
 WESGX,WESGX,USA,NMFQS,USD,Fund
 WESIX,TETON CONVERTIBLE SECURITIES FUND CLASS I,USA,NMFQS,USD,FUND
 WESJX,WILLIAM BLAIR EMERGING MARKETS SMALL CAP GROWTH FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
+WESMF,West Mining Corp,USA,PINK,USD,Common Stock
 WESNX,WILLIAM BLAIR EMERGING MARKETS SMALL CAP GROWTH FUND CLASS N,USA,NMFQS,USD,FUND
 WESRX,TETON CONVERTIBLE SECURITIES FUND CLASS AAA,USA,NMFQS,USD,FUND
 WESWX,TETON WESTWOOD EQUITY FUND CLASS AAA,USA,NMFQS,USD,FUND
@@ -48347,6 +48417,7 @@ WLMIF,Wilmar International Limited,USA,PINK,USD,Common Stock
 WLMIY,Wilmar International Limited,USA,PINK,USD,Common Stock
 WLMS,Williams Industrial Services Group Inc,USA,NYSE MKT,USD,Common Stock
 WLMTF,Wuling Motors Holdings Limited,USA,PINK,USD,Common Stock
+WLNSF,Discover Wellness Solutions Inc,USA,PINK,USD,Common Stock
 WLOLQ,Winland Ocean Shipping Corp,USA,OTCCE,USD,Common Stock
 WLRMF,Aloro Mining Corp,USA,PINK,USD,Common Stock
 WLSI,"Wellstar International, Inc",USA,OTCCE,USD,Common Stock
@@ -48459,7 +48530,7 @@ WOAM,"World Am, Inc",USA,OTCCE,USD,Common Stock
 WOBDX,JPMORGAN CORE BOND FUND CLASS I,USA,NMFQS,USD,FUND
 WOBK,Woodsboro Bank,USA,PINK,USD,Common Stock
 WODI,WOD Retail Solutions Inc,USA,OTCCE,USD,Common Stock
-WOFA,"Wisdom Homes of America, Inc",USA,PINK,USD,Common Stock
+WOFA,"Wisdom Homes of America, Inc",USA,OTCCE,USD,Common Stock
 WOFDX,WELLS FARGO OPPORTUNITY FUND ADMINISTRATOR CLASS,USA,NMFQS,USD,FUND
 WOFNX,WELLS FARGO OPPORTUNITY FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
 WOFRX,WOFRX,USA,NMFQS,USD,Mutual Fund
@@ -48493,6 +48564,8 @@ WOWMF,Wow Unlimited Media Inc,USA,OTCQX,USD,Common Stock
 WOWU,"WOWI, Inc",USA,PINK,USD,Common Stock
 WPASX,AB CONCENTRATED GROWTH FUND CLASS A,USA,NMFQS,USD,FUND
 WPC,W. P. Carey Inc,USA,NYSE,USD,Common Stock
+WPCA-U,WPCA-U,USA,NYSE,USD,Common Stock
+WPCB-U,WPCB-U,USA,NYSE,USD,Common Stock
 WPCSX,AB CONCENTRATED GROWTH FUND CLASS C,USA,NMFQS,USD,FUND
 WPCZF,Blue Star Gold Corp,USA,OTCGREY,USD,Common Stock
 WPDPF,WPD Pharmaceuticals Inc,USA,OTCGREY,USD,Common Stock
@@ -48633,6 +48706,7 @@ WSPCF,WSPCF,USA,PINK,USD,Common Stock
 WSPOF,WSP Global Inc,USA,PINK,USD,Common Stock
 WSR,Whitestone REIT,USA,NYSE,USD,Common Stock
 WSRC,Western Sierra Resource Corporation,USA,PINK,USD,Common Stock
+WSRRF,Harrys Manufacturing Inc,USA,OTCQB,USD,Common Stock
 WSRUF,Waseco Resources Inc,USA,OTCGREY,USD,Common Stock
 WSSCX,SHORT-TERM MUNICIPAL BOND FUND CLASS C,USA,NMFQS,USD,FUND
 WSSE,"Wall Street Capital, Inc",USA,PINK,USD,Common Stock
@@ -48725,6 +48799,7 @@ WTTAX,WESTCORE MUNICIPAL OPPORTUNITIES FUND WESTCORE MUNICIPAL OPPORTUNITIES FUN
 WTTR,"Select Energy Services, Inc",USA,NYSE,USD,Common Stock
 WTTRX,WELLS FARGO ADVANTAGE DOW JONES TARGET 2035 FUND CLASS R4,USA,NMFQS,USD,FUND
 WTW,"Weight Watchers International, Inc",USA,NASDAQ,USD,Common Stock
+WTWGF,WTWGF,USA,PINK,USD,Common Stock
 WTXR,"West Texas Resources, Inc",USA,PINK,USD,Common Stock
 WU,The Western Union Company,USA,NYSE,USD,Common Stock
 WUGI,Esoterica NextG Economy ETF,USA,BATS,USD,ETF
@@ -49230,6 +49305,7 @@ XNACX,Nuveen California Quality Municipal Income Fund,USA,NMFQS,USD,FUND
 XNADX,Nuveen Quality Municipal Income Fund,USA,NMFQS,USD,FUND
 XNANX,Nuveen New York Quality Municipal Income Fund,USA,NMFQS,USD,FUND
 XNAZX,Nuveen Arizona Quality Municipal Income Fund,USA,NMFQS,USD,FUND
+XNBBX,Nuveen Build America Bond Fund,USA,NMFQS,USD,FUND
 XNBHX,Neuberger Berman Intermediate Municipal Fund Inc,USA,NMFQS,USD,FUND
 XNBOX,Neuberger Berman New York Intermediate Municipal Fund Inc,USA,NMFQS,USD,FUND
 XNBWX,Neuberger Berman California Intermediate Municipal Fund Inc,USA,NMFQS,USD,FUND
@@ -49421,7 +49497,7 @@ XTHQX,Tekla Healthcare Opportunities Fund,USA,NMFQS,USD,FUND
 XTHWX,Tekla World Healthcare Fund,USA,NMFQS,USD,FUND
 XTL,SPDR S&P Telecom ETF,USA,NYSE ARCA,USD,ETF
 XTLB,XTL Biopharmaceuticals Ltd,USA,NASDAQ,USD,Common Stock
-XTMIF,XTM Inc,USA,PINK,USD,Common Stock
+XTMIF,XTM Inc,USA,OTCQB,USD,Common Stock
 XTMM,"Xtreme Motorsports International, Inc",USA,OTCCE,USD,Common Stock
 XTN,SPDR S&P Transportation ETF,USA,NYSE ARCA,USD,ETF
 XTNT,"Xtant Medical Holdings, Inc",USA,NYSE MKT,USD,Common Stock
@@ -49503,7 +49579,7 @@ YASLX,AMG Yacktman Special Opport Fund Cl Z,USA,NMFQS,USD,FUND
 YASSX,AMG Yacktman Special Opportunities Fund,USA,NMFQS,USD,FUND
 YATRF,"Yamato Holdings Co., Ltd",USA,OTCGREY,USD,Common Stock
 YATRY,"Yamato Holdings Co., Ltd",USA,PINK,USD,Common Stock
-YAYO,"Rideshare Rental, Inc",USA,PINK,USD,Common Stock
+YAYO,"EVmo, Inc",USA,PINK,USD,Common Stock
 YBAO,"YBCC, Inc",USA,PINK,USD,Common Stock
 YBGJ,Yubo International Biotech Limited,USA,PINK,USD,Common Stock
 YBRHF,Yellow Brick Road Holdings Limited,USA,PINK,USD,Common Stock
@@ -49636,7 +49712,6 @@ ZCAN,SPDR Solactive Canada ETF,USA,NYSE ARCA,USD,ETF
 ZCBD,Body Basics Inc,USA,PINK,USD,Common Stock
 ZCMD,Zhongchao Inc,USA,NASDAQ,USD,Common Stock
 ZCOM,"Impreso, Inc",USA,PINK,USD,Common Stock
-ZCZZT,Super Montage IPO X Tst Security SM IPO X 3,USA,NASDAQ,USD,Common Stock
 ZDEC,Zenovia Digital Exchange Corporation,USA,PINK,USD,Common Stock
 ZDEU,SPDR Solactive Germany ETF,USA,NYSE ARCA,USD,ETF
 ZDEXF,Sintana Energy Inc,USA,PINK,USD,Common Stock
@@ -49655,6 +49730,7 @@ ZENYF,ZEN Graphene Solutions Ltd,USA,PINK,USD,Common Stock
 ZEOIX,ZEO STRATEGIC INCOME FUND ZEO STRATEGIC INCOME FUND CLASS I,USA,NMFQS,USD,FUND
 ZEON,Zeons Corporation,USA,OTCCE,USD,Common Stock
 ZEOOF,Zeon Corp,USA,OTCGREY,USD,Common Stock
+ZEOOY,Zeon Corporation,USA,OTCGREY,USD,Common Stock
 ZEPP,Zepp Health Corporation,USA,NYSE,USD,Common Stock
 ZEST,"Ecoark Holdings, Inc",USA,OTCQB,USD,Common Stock
 ZESTD,"Ecoark Holdings, Inc",USA,OTCQB,USD,Common Stock
@@ -49727,7 +49803,6 @@ ZMPLF,Zimplats Holdings Limited,USA,PINK,USD,Common Stock
 ZMRK,Zalemark Holding Company Inc,USA,PINK,USD,Common Stock
 ZMSPF,Zecotek Photonics Inc,USA,PINK,USD,Common Stock
 ZMTBY,Zumtobel Group AG,USA,OTCGREY,USD,Common Stock
-ZMTP,"Zoom Telephonics, Inc",USA,OTCQB,USD,Common Stock
 ZMWYF,ZoomAway Travel Inc,USA,OTCQB,USD,Common Stock
 ZNAE,Zane Interactive Publishing Inc,USA,PINK,USD,Common Stock
 ZNCM,"Zunicom, Inc",USA,PINK,USD,Common Stock
