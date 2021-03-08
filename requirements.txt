@@ -1,2 +1,3 @@
 requests
 pandas
+cad_tickers==1.4.8
