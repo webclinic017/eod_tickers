@@ -33,6 +33,7 @@ jobs:
           pip install -r requirements.txt
           python eod.py
           python clean.py
+          python get_us_ticker_data.py
 
       - uses: actions/upload-artifact@v2
         with:
