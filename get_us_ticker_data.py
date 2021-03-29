@@ -18,4 +18,4 @@ us_stocks = data_csv["tmx_name"].tolist()
 
 stock_df = get_all_tickers_data(us_stocks)
 
-stock_df.to_csv("stock_df.csv")
+stock_df.to_csv("data/us_stock_data.csv")
