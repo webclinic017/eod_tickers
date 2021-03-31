@@ -1,4 +1,4 @@
-from cad_tickers.exchanges.tsx.get_tickers import get_all_tickers_data   
+from cad_tickers.exchanges.tsx.get_ticker_data import get_ticker_data   
 from concurrent.futures import ThreadPoolExecutor
 import pandas as pd
 import time
