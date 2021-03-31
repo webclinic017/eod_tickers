@@ -1836,10 +1836,10 @@ ALTR,Altair Engineering Inc,USA,NASDAQ,USD,Common Stock
 ALTS,ProShares Morningstar Alternatives Solution ETF,USA,BATS,USD,ETF
 ALTSF,Alturas Minerals Corp,USA,OTCGREY,USD,Common Stock
 ALTTX,ALTTX,USA,NMFQS,USD,Mutual Fund
-ALTU,Altitude Acquisition Corp. Class A Common Stock,USA,NASDAQ,USD,Common Stock
+ALTU,Altitude Acquisition Corp,USA,NASDAQ,USD,Common Stock
 ALTUF,Altus Strategies plc,USA,OTCQX,USD,Common Stock
 ALTUU,Altitude Acquisition Corp,USA,NASDAQ,USD,Common Stock
-ALTUW,Altitude Acquisition Corp. Warrant,USA,NASDAQ,USD,Common Stock
+ALTUW,Altitude Acquisition Corp,USA,NASDAQ,USD,Common Stock
 ALTVX,AB NATIONAL PORTFOLIO ADVISOR CLASS,USA,NMFQS,USD,FUND
 ALTX,"Altex Industries, Inc",USA,PINK,USD,Common Stock
 ALTY,Global X SuperDividend Alternatives ETF,USA,NASDAQ,USD,ETF
@@ -4233,6 +4233,7 @@ BDUUY,Bangkok Dusit Medical Services Public Company Limited,USA,PINK,USD,Common 
 BDVB,"Bagger Dave's Burger Tavern, Inc",USA,PINK,USD,Common Stock
 BDVIX,BMO CONSERVATIVE ALLOCATION FUND CLASS I,USA,NMFQS,USD,FUND
 BDVRX,BMO CONSERVATIVE ALLOCATION FUND CLASS R3,USA,NMFQS,USD,FUND
+BDVSF,The Bidvest Group Limited,USA,PINK,USD,Common Stock
 BDVSX,BMO CONSERVATIVE ALLOCATION FUND CLASS R6,USA,NMFQS,USD,FUND
 BDVSY,The Bidvest Group Limited,USA,PINK,USD,Common Stock
 BDVYX,BMO CONSERVATIVE ALLOCATION FUND CLASS Y,USA,NMFQS,USD,FUND
@@ -7041,7 +7042,7 @@ CFFHF,CIFI Holdings (Group) Co. Ltd,USA,OTCGREY,USD,Common Stock
 CFFI,C&F Financial Corporation,USA,NASDAQ,USD,Common Stock
 CFFMF,CFOAM Limited,USA,OTCGREY,USD,Common Stock
 CFFN,"Capitol Federal Financial, Inc",USA,NASDAQ,USD,Common Stock
-CFFVU,CF Acquisition Corp. V Unit,USA,NASDAQ,USD,Common Stock
+CFFVU,CF Acquisition Corp. V,USA,NASDAQ,USD,Common Stock
 CFFVW,CF Acquisition Corp. V Warrant,USA,NASDAQ,USD,Common Stock
 CFG,"Citizens Financial Group, Inc",USA,NYSE,USD,Common Stock
 CFG-PD,"Citizens Financial Group, Inc",USA,NYSE,USD,Preferred Share
@@ -7902,7 +7903,7 @@ CLRG,IQ Chaikin U.S. Large Cap ETF,USA,NASDAQ,USD,ETF
 CLRI,"Cleartronic, Inc",USA,PINK,USD,Common Stock
 CLRM,Clarim Acquisition Corp. Class A Common Stock,USA,NASDAQ,USD,Common Stock
 CLRMF,Clean Air Metals Inc,USA,OTCQB,USD,Common Stock
-CLRMU,Clarim Acquisition Corp.,USA,NASDAQ,USD,Common Stock
+CLRMU,Clarim Acquisition Corp,USA,NASDAQ,USD,Common Stock
 CLRMW,Clarim Acquisition Corp. Warrant,USA,NASDAQ,USD,Common Stock
 CLRN,Clarent Corporation,USA,OTCCE,USD,Common Stock
 CLRO,"ClearOne, Inc",USA,NASDAQ,USD,Common Stock
@@ -9205,9 +9206,9 @@ CTAGX,CTAGX,USA,NMFQS,USD,FUND
 CTAGY,Capita plc,USA,PINK,USD,Common Stock
 CTAM,A.M. Castle & Co,USA,OTCQX,USD,Common Stock
 CTAMD,A.M. Castle & Co,USA,OTCQX,USD,Common Stock
-CTAQ,Carney Technology Acquisition Corp. II Class A Common Stock,USA,NASDAQ,USD,Common Stock
+CTAQ,Carney Technology Acquisition Corp. II,USA,NASDAQ,USD,Common Stock
 CTAQU,Carney Technology Acquisition Corp. II,USA,NASDAQ,USD,Common Stock
-CTAQW,Carney Technology Acquisition Corp. II Warrant,USA,NASDAQ,USD,Common Stock
+CTAQW,Carney Technology Acquisition Corp. II,USA,NASDAQ,USD,Common Stock
 CTARF,Centaurus Energy Inc,USA,OTCQB,USD,Common Stock
 CTAS,Cintas Corporation,USA,NASDAQ,USD,Common Stock
 CTASX,CTASX,USA,NMFQS,USD,FUND
@@ -9377,7 +9378,7 @@ CUCSF,China Communications Services Corporation Limited,USA,OTCGREY,USD,Common S
 CUCSY,China Communications Services Corporation Limited,USA,OTCGREY,USD,Common Stock
 CUE,"Cue Biopharma, Inc",USA,NASDAQ,USD,Common Stock
 CUEN,Cuentas Inc,USA,NASDAQ,USD,Common Stock
-CUENW,"Cuentas, Inc. Warrant",USA,NASDAQ,USD,Common Stock
+CUENW,Cuentas Inc,USA,NASDAQ,USD,Common Stock
 CUEYF,Cue Energy Resources Limited,USA,OTCGREY,USD,Common Stock
 CUGAX,Aberdeen Global Unconstrained Fixed Inco,USA,NMFQS,USD,FUND
 CUGCF,China Oriental Group Company Limited,USA,PINK,USD,Common Stock
@@ -9921,7 +9922,7 @@ DCRBU,Decarbonization Plus Acquisition Corporation,USA,NASDAQ,USD,Common Stock
 DCRBW,Decarbonization Plus Acquisition Corporation,USA,NASDAQ,USD,Common Stock
 DCRCU,Decarbonization Plus Acquisition Corp III,USA,NASDAQ,USD,Common Stock
 DCREX,DUNHAM REAL ESTATE STOCK FUND DUNHAM REAL ESTATE STOCK FUND CLASS C,USA,NMFQS,USD,FUND
-DCRNU,Decarbonization Plus Acquisition Corp II,USA,NASDAQ,USD,Common Stock
+DCRNU,Decarbonization Plus Acquisition Corporation II,USA,NASDAQ,USD,Common Stock
 DCSCX,DAVIS APPRECIATION & INCOME FUND CLASS C,USA,NMFQS,USD,FUND
 DCSVX,DUNHAM SMALL CAP VALUE FUND DUNHAM SMALL CAP VALUE FUND CLASS C,USA,NMFQS,USD,FUND
 DCSX,"Direct Communication Solutions, Inc",USA,OTCQX,USD,Common Stock
@@ -17122,7 +17123,7 @@ GBXIX,NATIONWIDE BOND INDEX FUND CLASS R6,USA,NMFQS,USD,FUND
 GBXPY,Via Varejo S.A,USA,OTCGREY,USD,Common Stock
 GCAAF,Guardian Capital Group Limited,USA,OTCGREY,USD,Common Stock
 GCAC,Growth Capital Acquisition Corp. Class A Common Stock,USA,NASDAQ,USD,Common Stock
-GCACU,Growth Capital Acquisition Corp.,USA,NASDAQ,USD,Common Stock
+GCACU,Growth Capital Acquisition Corp,USA,NASDAQ,USD,Common Stock
 GCACW,Growth Capital Acquisition Corp. Warrant,USA,NASDAQ,USD,Common Stock
 GCAEX,THE GABELLI EQUITY INCOME FUND CLASS A,USA,NMFQS,USD,FUND
 GCAN,"The Greater Cannabis Company, Inc",USA,OTCQB,USD,Common Stock
@@ -17681,9 +17682,9 @@ GHST,GHST World Inc,USA,PINK,USD,Common Stock
 GHTI,G-H-3 International Inc,USA,OTCCE,USD,Common Stock
 GHTMX,GOLDMAN SACHS INTERNATIONAL TAX-MANAGED EQUITY FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
 GHTRX,GOLDMAN SACHS INTERNATIONAL TAX-MANAGED EQUITY FUND CLASS R6 SHARES,USA,NMFQS,USD,FUND
-GHVI,"Gores Holdings VI, Inc. Class A Common Stock",USA,NASDAQ,USD,Common Stock
+GHVI,"Gores Holdings VI, Inc",USA,NASDAQ,USD,Common Stock
 GHVIU,"Gores Holdings VI, Inc",USA,NASDAQ,USD,Common Stock
-GHVIW,"Gores Holdings VI, Inc. Warrant",USA,NASDAQ,USD,Common Stock
+GHVIW,"Gores Holdings VI, Inc",USA,NASDAQ,USD,Common Stock
 GHVIX,GHVIX,USA,NMFQS,USD,FUND
 GHVNF,GoldHaven Resources Corp,USA,OTCQB,USD,Common Stock
 GHY,"PGIM Global High Yield Fund, Inc",USA,NYSE,USD,FUND
@@ -17858,7 +17859,7 @@ GJNSF,Gjensidige Forsikring ASA,USA,OTCGREY,USD,Common Stock
 GJNSY,Gjensidige Forsikring ASA,USA,PINK,USD,Common Stock
 GJO,Strats Trust Wal Mart Stores Inc. STRT CTF 05-4,USA,NYSE,USD,Common Stock
 GJP,"STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6",USA,NYSE,USD,Common Stock
-GJR,Strats Trust For Procter & Gambel Security CTF 2006-1,USA,NYSE,USD,Common Stock
+GJR,Strats Trust For Procter &amp; Gambel Security CTF 2006-1,USA,NYSE,USD,Common Stock
 GJRTX,GOLDMAN SACHS ABSOLUTE RETURN TRACKER FUND INSTITUTIONAL,USA,NMFQS,USD,FUND
 GJS,"STRATS Trust for Goldman Sachs Group Securities, Series 2006-2",USA,NYSE,USD,Common Stock
 GJST,GEO JS Tech Group Corp,USA,PINK,USD,Common Stock
@@ -20350,7 +20351,7 @@ HMNU,"Human Unitec International, Inc",USA,PINK,USD,Common Stock
 HMNY,Helios and Matheson Analytics Inc,USA,PINK,USD,Common Stock
 HMOP,Hartford Municipal Opportunities ETF,USA,NYSE ARCA,USD,ETF
 HMPQ,"HempAmericana, Inc",USA,PINK,USD,Common Stock
-HMPT,Home Point Capital Inc.,USA,NASDAQ,USD,Common Stock
+HMPT,Home Point Capital Inc,USA,NASDAQ,USD,Common Stock
 HMRRF,Hammer Metals Limited,USA,OTCGREY,USD,Common Stock
 HMRZF,H & M Hennes & Mauritz AB (publ),USA,PINK,USD,Common Stock
 HMSFX,Hennessy BP Midstream Fund - Investor Class,USA,NMFQS,USD,FUND
@@ -20424,6 +20425,7 @@ HNMGX,HARBOR MID CAP GROWTH FUND RETIREMENT CLASS,USA,NMFQS,USD,FUND
 HNMVX,HARBOR MID CAP VALUE FUND RETIREMENT CLASS,USA,NMFQS,USD,FUND
 HNNA,"Hennessy Advisors, Inc",USA,NASDAQ,USD,Common Stock
 HNNMY,H & M Hennes & Mauritz AB (publ),USA,PINK,USD,Common Stock
+HNORY,Harvey Norman Holdings Limited,USA,PINK,USD,Common Stock
 HNP,"Huaneng Power International, Inc",USA,NYSE,USD,Common Stock
 HNRAX,HIGHLAND OPPORTUNISTIC CREDIT FUND CLASS A,USA,NMFQS,USD,FUND
 HNRC,Houston Natural Resources Corp,USA,PINK,USD,Common Stock
@@ -24456,7 +24458,6 @@ JPS,Nuveen Preferred Securities Income Fund,USA,NYSE,USD,FUND
 JPSE,JPMorgan Diversified Return U.S. Small Cap Equity ETF,USA,NYSE ARCA,USD,ETF
 JPSRX,JPMORGAN SMARTRETIREMENT* BLEND 2035 FUND SELECT CLASS,USA,NMFQS,USD,FUND
 JPST,JPMorgan Ultra-Short Income ETF,USA,BATS,USD,ETF
-JPSTF,"JAPAN POST BANK Co.,Ltd",USA,PINK,USD,Common Stock
 JPSWY,"The Japan Steel Works, Ltd",USA,PINK,USD,Common Stock
 JPT,Nuveen Preferred and Income 2022 Term Fund,USA,NYSE,USD,FUND
 JPTBX,JPMORGAN SMARTRETIREMENT* BLEND 2055 FUND SELECT CLASS,USA,NMFQS,USD,FUND
@@ -25617,7 +25618,7 @@ LABAX,LOOMIS SAYLES STRATEGIC ALPHA FUND CLASS A,USA,NMFQS,USD,FUND
 LABCX,LOOMIS SAYLES STRATEGIC ALPHA FUND CLASS C,USA,NMFQS,USD,FUND
 LABD,Direxion Daily S&P Biotech Bear 3X Shares,USA,NYSE ARCA,USD,ETF
 LABFX,LORD ABBETT MULTI-ASSET BALANCED OPPORTUNITY FUND CLASS A,USA,NMFQS,USD,FUND
-LABP,"Landos Biopharma, Inc.",USA,NASDAQ,USD,Common Stock
+LABP,"Landos Biopharma, Inc",USA,NASDAQ,USD,Common Stock
 LABPX,LORD ABBETT BALANCED STRATEGY FUND CLASS P,USA,NMFQS,USD,FUND
 LABU,Direxion Daily S&P Biotech Bull 3X Shares,USA,NYSE ARCA,USD,ETF
 LABYX,LORD ABBETT BALANCED STRATEGY FUND CLASS I,USA,NMFQS,USD,FUND
@@ -26430,7 +26431,7 @@ LIND,"Lindblad Expeditions Holdings, Inc",USA,NASDAQ,USD,Common Stock
 LINFX,LORD ABBETT INTERNATIONAL OPPORTUNITIES FUND CLASS F,USA,NMFQS,USD,FUND
 LINIX,BlackRock LifePath Idx 2030 Prt Inst Shs,USA,NMFQS,USD,FUND
 LINJX,LORD ABBETT NEW JERSEY TAX-FREE INCOME FUND CLASS I,USA,NMFQS,USD,FUND
-LINK,"Interlink Electronics, Inc. Common Stock",USA,NASDAQ,USD,Common Stock
+LINK,"Interlink Electronics, Inc",USA,NASDAQ,USD,Common Stock
 LINKX,BlackRock LifePath Idx 2030 Prt Cl K Shs,USA,NMFQS,USD,FUND
 LINPX,LORD ABBETT INTERNATIONAL OPPORTUNITIES FUND CLASS P,USA,NMFQS,USD,FUND
 LINQX,LORD ABBETT INTERNATIONAL OPPORTUNITIES FUND CLASS R2,USA,NMFQS,USD,FUND
@@ -31278,9 +31279,9 @@ NEAMX,NEIMAN LARGE CAP VALUE FUND CLASS A SHARES,USA,NMFQS,USD,FUND
 NEAPF,Nearmap Ltd,USA,OTCGREY,USD,Common Stock
 NEAR,iShares Short Maturity Bond ETF,USA,BATS,USD,ETF
 NEARX,NEAR-TERM TAX FREE FUND NEAR-TERM TAX FREE FUND,USA,NMFQS,USD,FUND
-NEBC,Nebula Caravel Acquisition Corp. Class A Common Stock,USA,NASDAQ,USD,Common Stock
+NEBC,Nebula Caravel Acquisition Corp,USA,NASDAQ,USD,Common Stock
 NEBCU,Nebula Caravel Acquisition Corp,USA,NASDAQ,USD,Common Stock
-NEBCW,Nebula Caravel Acquisition Corp. Warrant,USA,NASDAQ,USD,Common Stock
+NEBCW,Nebula Caravel Acquisition Corp,USA,NASDAQ,USD,Common Stock
 NECA,New America Energy Corp,USA,PINK,USD,Common Stock
 NECB,"Northeast Community Bancorp, Inc",USA,PINK,USD,Common Stock
 NECCX,NATIXIS U.S. EQUITY OPPORTUNITIES FUND CLASS C,USA,NMFQS,USD,FUND
@@ -31704,7 +31705,7 @@ NLSCX,NEUBERGER BERMAN LONG SHORT FUND CLASS C,USA,NMFQS,USD,FUND
 NLSIX,NEUBERGER BERMAN LONG SHORT FUND INSTITUTIONAL CLASS,USA,NMFQS,USD,FUND
 NLSN,Nielsen Holdings plc,USA,NYSE,USD,Common Stock
 NLSP,NLS Pharmaceutics AG,USA,NASDAQ,USD,Common Stock
-NLSPW,NLS Pharmaceutics Ltd. Warrant,USA,NASDAQ,USD,Common Stock
+NLSPW,NLS Pharmaceutics AG,USA,NASDAQ,USD,Common Stock
 NLST,"Netlist, Inc",USA,OTCQB,USD,Common Stock
 NLTBF,Nolato AB (publ),USA,OTCGREY,USD,Common Stock
 NLTX,"Neoleukin Therapeutics, Inc",USA,NASDAQ,USD,Common Stock
@@ -31878,7 +31879,7 @@ NNYR,Northamerican Energy Group Corporation,USA,PINK,USD,Common Stock
 NOA,North American Construction Group Ltd,USA,NYSE,USD,Common Stock
 NOAC,Natural Order Acquisition Corp,USA,NASDAQ,USD,Common Stock
 NOACU,Natural Order Acquisition Corp,USA,NASDAQ,USD,Common Stock
-NOACW,Natural Order Acquisition Corp. Warrant,USA,NASDAQ,USD,Common Stock
+NOACW,Natural Order Acquisition Corp,USA,NASDAQ,USD,Common Stock
 NOAH,Noah Holdings Limited,USA,NYSE,USD,Common Stock
 NOANX,Natixis Oakmark Fund Class N,USA,NMFQS,USD,FUND
 NOAZX,NORTHERN ARIZONA TAX-EXEMPT FUND NORTHERN ARIZONA TAX-EXEMPT FUND,USA,NMFQS,USD,FUND
@@ -32029,7 +32030,7 @@ NQWFX,NUVEEN NWQ FLEXIBLE INCOME FUND CLASS R6,USA,NMFQS,USD,FUND
 NR,"Newpark Resources, Inc",USA,NYSE,USD,Common Stock
 NRAAX,NEUBERGER BERMAN SOCIALLY RESPONSIVE FUND CLASS A,USA,NMFQS,USD,FUND
 NRABX,NEUBERGER BERMAN ABSOLUTE RETURN MULTI-MANAGER FUND CLASS R6,USA,NMFQS,USD,FUND
-NRACU,Noble Rock Acquisition Corporation Unit,USA,NASDAQ,USD,Common Stock
+NRACU,Noble Rock Acquisition Corporation,USA,NASDAQ,USD,Common Stock
 NRACW,Noble Rock Acquisition Corporation Warrant,USA,NASDAQ,USD,Common Stock
 NRACX,NEUBERGER BERMAN SOCIALLY RESPONSIVE FUND CLASS C,USA,NMFQS,USD,FUND
 NRARX,NEUBERGER BERMAN SOCIALLY RESPONSIVE FUND CLASS R3,USA,NMFQS,USD,FUND
@@ -33278,7 +33279,7 @@ ONPH,Oncology Pharma Inc,USA,PINK,USD,Common Stock
 ONPPF,Oncopeptides AB (publ),USA,PINK,USD,Common Stock
 ONRDX,Oppenheimer Rising Dividends N,USA,NMFQS,USD,FUND
 ONSS,Onassis Holdings Corp,USA,PINK,USD,Common Stock
-ONTF,ON24 INC,USA,NYSE,USD,Common Stock
+ONTF,"ON24, Inc",USA,NYSE,USD,Common Stock
 ONTO,Onto Innovation Inc,USA,NYSE,USD,Common Stock
 ONTRF,Blackrock Oil Corporation,USA,PINK,USD,Common Stock
 ONTX,"Onconova Therapeutics, Inc",USA,NASDAQ,USD,Common Stock
@@ -38907,9 +38908,9 @@ RMFEX,AMERICAN MUTUAL FUND CLASS R-4,USA,NMFQS,USD,FUND
 RMFFX,AMERICAN MUTUAL FUND CLASS R-5,USA,NMFQS,USD,FUND
 RMFGX,AMERICAN MUTUAL FUND CLASS R-6,USA,NMFQS,USD,FUND
 RMFHX,AMERICAN MUTUAL FUND CLASS R-5E,USA,NMFQS,USD,FUND
-RMGB,RMG Acquisition Corp. II Class A Ordinary Shares,USA,NASDAQ,USD,Common Stock
+RMGB,RMG Acquisition Corporation II,USA,NASDAQ,USD,Common Stock
 RMGBU,RMG Acquisition Corporation II,USA,NASDAQ,USD,Common Stock
-RMGBW,RMG Acquisition Corp. II Warrant,USA,NASDAQ,USD,Common Stock
+RMGBW,RMG Acquisition Corporation II,USA,NASDAQ,USD,Common Stock
 RMGC,RMG Acquisition Corp. III Class A Ordinary Shares,USA,,USD,Common Stock
 RMGCU,RMG Acquisition Corp. III Unit,USA,NASDAQ,USD,Common Stock
 RMGCW,RMG Acquisition Corp. III Warrant,USA,,USD,Common Stock
@@ -41482,6 +41483,7 @@ SKVI,"Skinvisible, Inc",USA,OTCQB,USD,Common Stock
 SKVY,Sentry Technology Corp,USA,PINK,USD,Common Stock
 SKWG,Skywealth Group Inc,USA,PINK,USD,Common Stock
 SKX,"Skechers U.S.A., Inc",USA,NYSE,USD,Common Stock
+SKXJF,"Sankyo Co., Ltd",USA,PINK,USD,Common Stock
 SKY,Skyline Champion Corporation,USA,NYSE,USD,Common Stock
 SKYE,"Skye Bioscience, Inc",USA,PINK,USD,Common Stock
 SKYF,"Sky440, Inc",USA,PINK,USD,Common Stock
@@ -41974,9 +41976,9 @@ SNPYX,WESTERN ASSET NEW YORK MUNICIPALS FUND CLASS I,USA,NMFQS,USD,FUND
 SNR,New Senior Investment Group Inc,USA,NYSE,USD,Common Stock
 SNRAF,Tisdale Resources Corp,USA,OTCGREY,USD,Common Stock
 SNRG,SusGlobal Energy Corp,USA,OTCQB,USD,Common Stock
-SNRH,Senior Connect Acquisition Corp. I Class A Common Stock,USA,NASDAQ,USD,Common Stock
+SNRH,Senior Connect Acquisition Corp. I,USA,NASDAQ,USD,Common Stock
 SNRHU,Senior Connect Acquisition Corp. I,USA,NASDAQ,USD,Common Stock
-SNRHW,Senior Connect Acquisition Corp. I Warrant,USA,NASDAQ,USD,Common Stock
+SNRHW,Senior Connect Acquisition Corp. I,USA,NASDAQ,USD,Common Stock
 SNROF,"Sanrio Company, Ltd",USA,PINK,USD,Common Stock
 SNRR,"Super Nova Resources, Inc",USA,OTCCE,USD,Common Stock
 SNRS,"Sunrise Consulting Group, Inc",USA,OTCCE,USD,Common Stock
@@ -43864,7 +43866,7 @@ TCYSF,Tecsys Inc,USA,PINK,USD,Common Stock
 TCZHX,TIAA-CREF Lifecycle 2040 Advisor,USA,NMFQS,USD,FUND
 TCZPX,TIAA-CREF LIFECYCLE 2040 FUND PREMIER CLASS,USA,NMFQS,USD,FUND
 TD,The Toronto-Dominion Bank,USA,NYSE,USD,Common Stock
-TDA,Telephone & Data Systems Inc,USA,NYSE,USD,Common Stock
+TDA,Telephone &amp; Data Systems Inc,USA,NYSE,USD,Common Stock
 TDAC,Trident Acquisitions Corp,USA,NASDAQ,USD,Common Stock
 TDACU,Trident Acquisitions Corp,USA,NASDAQ,USD,Common Stock
 TDACW,Trident Acquisitions Corp. Warrant,USA,NASDAQ,USD,Common Stock
@@ -48322,7 +48324,7 @@ WCAGY,Wirecard AG,USA,PINK,USD,Common Stock
 WCBH,"WCB Holdings, Inc",USA,PINK,USD,Common Stock
 WCBR,WisdomTree Cybersecurity Fund,USA,NASDAQ,USD,ETF
 WCC,"WESCO International, Inc",USA,NYSE,USD,Common Stock
-WCC-PA,"WESCO International, Inc.",USA,NYSE,USD,Preferred Share
+WCC-PA,"WESCO International, Inc",USA,NYSE,USD,Preferred Share
 WCCFX,WealthBuilder Conservative Allocation Fu,USA,NMFQS,USD,FUND
 WCCP,"Wealthcraft Capital, Inc",USA,PINK,USD,Common Stock
 WCDGX,WESTFIELD CAPITAL DIVIDEND GROWTH FUND INVESTOR CLASS SHARES,USA,NMFQS,USD,FUND
@@ -50347,7 +50349,7 @@ ZVTK,"Zevotek, Inc",USA,PINK,USD,Common Stock
 ZVV,LISTED TEST SYMBOL,USA,NYSE ARCA,USD,Common Stock
 ZVZZT,NASDAQ TEST STOCK,USA,NASDAQ,USD,Common Stock
 ZWBC,Goldkey Corporation,USA,PINK,USD,Common Stock
-ZWRKU,Z-Work Acquisition Corp.,USA,NASDAQ,USD,Common Stock
+ZWRKU,Z-Work Acquisition Corp,USA,NASDAQ,USD,Common Stock
 ZWRKW,Z-Work Acquisition Corp. Warrant,USA,NASDAQ,USD,Common Stock
 ZWZZT,NASDAQ TEST STOCK,USA,NASDAQ,USD,Common Stock
 ZXAIY,China Zenix Auto International Limited,USA,PINK,USD,Common Stock
