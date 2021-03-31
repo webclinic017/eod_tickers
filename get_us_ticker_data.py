@@ -23,9 +23,8 @@ def get_data(symbol=str):
     return get_ticker_data(symbol)
 
 ticker_data = []
-with ThreadPoolExecutor(max_workers=8) as tpe:
-    iterables = tpe.map(get_data, us_stocks)
-    ticker_data = list(iterables)
+for stock in us_stocks:
+    ticker_data = ticker_data.append(get_ticker_data(stock))
 
 # using list comprehension
 # to remove None values in list
