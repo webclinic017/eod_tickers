@@ -18,10 +18,10 @@ us_stocks = data_csv["tmx_name"].tolist()
 
 def get_data(symbol=str) :
     get_ticker_data(symbol)
-    time.sleep(4)
+    time.sleep(0.2)
 
 ticker_data = []
-with ThreadPoolExecutor(max_workers=3) as tpe:
+with ThreadPoolExecutor(max_workers=8) as tpe:
     iterables = tpe.map(get_ticker_data, tickers)
     ticker_data = list(iterables)
 
