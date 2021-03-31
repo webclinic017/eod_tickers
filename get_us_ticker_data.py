@@ -1,5 +1,6 @@
 from cad_tickers.exchanges.tsx.get_tickers import get_all_tickers_data   
 import pandas as pd
+import time
 # TOCO read data file and produce another csv that contains this graphql ticker data
 
 data_csv = pd.read_csv("data/us.csv")
@@ -15,7 +16,19 @@ data_csv['tmx_name'] = data_csv.apply(lambda x: get_tmx_name(x["Code"], x["Excha
 
 us_stocks = data_csv["tmx_name"].tolist()
 
+def get_data(symbol=str) :
+    get_ticker_data(symbol)
+    time.sleep(4)
 
-stock_df = get_all_tickers_data(us_stocks)
+ticker_data = []
+with ThreadPoolExecutor(max_workers=3) as tpe:
+    iterables = tpe.map(get_ticker_data, tickers)
+    ticker_data = list(iterables)
 
-stock_df.to_csv("data/us_stock_data.csv")
+# using list comprehension
+# to remove None values in list
+ticker_data = [i for i in ticker_data if i]
+
+ticker_df = pd.DataFrame(ticker_data)
+
+ticker_df.to_csv("data/us_stock_data.csv")
