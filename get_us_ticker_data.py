@@ -17,9 +17,9 @@ data_csv['tmx_name'] = data_csv.apply(lambda x: get_tmx_name(x["Code"], x["Excha
 
 us_stocks = data_csv["tmx_name"].tolist()
 
-def get_data(symbol=str) :
-    get_ticker_data(symbol)
+def get_data(symbol=str):
     time.sleep(0.2)
+    return get_ticker_data(symbol)
 
 ticker_data = []
 with ThreadPoolExecutor(max_workers=8) as tpe:
