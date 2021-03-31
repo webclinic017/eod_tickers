@@ -12,11 +12,12 @@ def get_tmx_name(code, ex):
     return f"{code}:US"
     # map data from us tickers to something useful
 
-data_csv = data_csv.dropna(subset=['Exchange'])
+print(len(data_csv))
+# data_csv = data_csv.dropna(subset=['Exchange'])
 data_csv['tmx_name'] = data_csv.apply(lambda x: get_tmx_name(x["Code"], x["Exchange"]), axis=1)
 
 us_stocks = data_csv["tmx_name"].tolist()
-
+print(len(us_stocks))
 def get_data(symbol=str):
     time.sleep(0.2)
     return get_ticker_data(symbol)
