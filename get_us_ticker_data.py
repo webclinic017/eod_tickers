@@ -23,7 +23,7 @@ def get_data(symbol=str) :
 
 ticker_data = []
 with ThreadPoolExecutor(max_workers=8) as tpe:
-    iterables = tpe.map(get_ticker_data, tickers)
+    iterables = tpe.map(get_ticker_data, us_stocks)
     ticker_data = list(iterables)
 
 # using list comprehension
