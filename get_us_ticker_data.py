@@ -1,4 +1,5 @@
 from cad_tickers.exchanges.tsx.get_tickers import get_all_tickers_data   
+from concurrent.futures import ThreadPoolExecutor
 import pandas as pd
 import time
 # TOCO read data file and produce another csv that contains this graphql ticker data
