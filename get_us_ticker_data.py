@@ -24,7 +24,13 @@ def get_data(symbol=str):
 
 ticker_data = []
 for stock in us_stocks:
-    ticker_data.append(get_ticker_data(stock))
+    time.sleep(1)
+    ticker_info = get_ticker_data(stock)
+    if ticker_info == None:
+        time.sleep(5)
+        ticker_info = get_ticker_data(stock)
+    else:
+        ticker_data.append(ticker_info)
 
 # using list comprehension
 # to remove None values in list
