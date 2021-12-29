@@ -37,6 +37,11 @@ jobs:
             name: usd_tickers
             path: data/us_stock_data.csv
 
+      - uses: actions/upload-artifact@v2
+        with:
+            name: usd_tickers
+            path: data/us_stock_data_missed.csv
+
       - name: Commit files
         run: |
           git add data/*.csv
