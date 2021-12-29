@@ -1,11 +1,6 @@
 name: Make US Tickers File
 
 on:
-  push:
-    branches:
-      - 'main'
-    paths-ignore:
-      - '_utils.py'
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron: '5 5 * * 6'

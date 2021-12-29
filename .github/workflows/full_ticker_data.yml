@@ -40,7 +40,7 @@ jobs:
 
       - uses: actions/upload-artifact@v2
         with:
-            name: usd_tickers
+            name: usd_tickers_stock_data_missed
             path: data/us_stock_data_missed.txt
 
       - name: Commit files
