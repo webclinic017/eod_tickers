@@ -9,6 +9,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron: '5 4-20/7 * * *'
+  workflow_dispatch:
 
 # reddit access for golang tests
 # since I am an single dev
