@@ -6,7 +6,7 @@ on:
       - 'main'
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: '5 5 * * 6'
+    - cron: '5 4-20/7 * * *'
   paths-ignore:
     - '_utils.py'
 
@@ -15,13 +15,10 @@ on:
 # what I care about is regression
 # making sure my code still works on the reddit api
 
-env: 
-  EOD_HISTORICAL_API_KEY: ${{ secrets.EOD_HISTORICAL_API_KEY }}
-
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Check Messages
+    name: Scan For Docs
     steps:
       - uses: actions/checkout@v2
 
@@ -33,17 +30,17 @@ jobs:
       - name: Run Script to get us tickers
         run: |
           pip install -r requirements.txt
-          python eod.py
-          python clean.py
+          python get_us_ticker_data.py
 
       - uses: actions/upload-artifact@v2
         with:
             name: usd_tickers
-            path: data/all_usd.csv
+            path: data/us_stock_data.csv
 
       - name: Commit files
         run: |
           git add data/*.csv
+          git add .
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Add changes" -a
