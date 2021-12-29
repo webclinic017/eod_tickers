@@ -79,11 +79,13 @@ old_ticker_df = pd.read_csv("data/us_stock_data.csv")
 ticker_df = pd.concat([old_ticker_df, ticker_df])
 # remove duplicates in ticker_df
 ticker_df = ticker_df.drop_duplicates(subset=['symbol'])
+# sort ticker_df by symbol
+ticker_df = ticker_df.sort_values(by=['symbol'])
 ticker_df.to_csv("data/us_stock_data.csv")
 # save missed tickers to data/us_stock_data_missed.txt 
 with open("data/us_stock_data_missed.txt", "w") as f:
     for ticker in missed_tickers:
-        f.write('"'+ ticker + '"' + "\n,")
+        f.write('"'+ ticker + '"' + ",\n")
 
 database["iteration"] = database["iteration"] + 1
 if database["iteration"] >= 50:
