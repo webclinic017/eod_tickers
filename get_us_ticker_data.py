@@ -74,6 +74,11 @@ ticker_df = pd.DataFrame(ticker_data)
 old_ticker_df = pd.read_csv("data/us_stock_data.csv")
 ticker_df = pd.concat([old_ticker_df, ticker_df])
 # remove duplicates in ticker_df
+# drop all columns with name unnamed
+try:
+    ticker_df = ticker_df.loc[:, ~ticker_df.columns.str.contains('^Unnamed')]
+except Exception as e:
+    pass
 ticker_df = ticker_df.drop_duplicates(subset=['symbol'])
 # sort ticker_df by symbol
 ticker_df = ticker_df.sort_values(by=['symbol'])
