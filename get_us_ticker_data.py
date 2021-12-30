@@ -13,7 +13,7 @@ with open('data/db.json') as f:
 
 # TOCO read data file and produce another csv that contains this graphql ticker data
 
-data_csv = pd.read_csv("data/us.csv")
+data_csv = pd.read_csv("data/us.csv", index_col=0)
 
 
 def get_tmx_name(code, ex):
@@ -62,10 +62,6 @@ for stock in tqdm(split_stocks):
         print("FAILED TO GET DATA FOR: ", stock)
         missed_tickers.append(stock)
         time.sleep(60)
-        try:
-            get_data(stock)
-        except Exception as e:
-            print(e)
 
 # using list comprehension
 # to remove None values in list

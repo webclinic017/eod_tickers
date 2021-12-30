@@ -252,4 +252,3 @@ tickers_to_skip = ['GRUI:US', 'GRYEF:US', 'GRYG:US', 'GRZZP:US', 'GS-PA:US', 'GS
 "FVIV-WS:US",
 "FVPI:US"
 ]
-
