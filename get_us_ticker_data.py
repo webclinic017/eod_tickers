@@ -27,7 +27,7 @@ print(total_rows)
 data_csv['tmx_name'] = data_csv.apply(lambda x: get_tmx_name(x["Code"], x["Exchange"]), axis=1)
 
 us_stocks = data_csv["tmx_name"].tolist()
-iteration = database["iteration"] + 10
+iteration = database["iteration"]
 # seems to start timing out around 50 tries
 split_amount = total_rows // max_iterations
 # split us_stocks into chunks of total_rows / 25
